@@ -2,103 +2,112 @@ import numpy as np
 import pandas as pd
 from datetime import datetime, timedelta
 
-# Fix seed for reproducibility
-np.random.seed(42)
-n_samples = 10000
+np.random.seed(2026)
+n_samples = 2000
 
-print("Generating synthetic EdTech dataset...")
+print("Generating Advanced High-Touch EdTech Dataset...")
 
-# 1. Basic Demographics & Identifiers
-student_ids = [f"STU_{10000 + i}" for i in range(n_samples)]
+# 1. Identifiers & Demographics
+student_ids = [f"STU_{202600 + i}" for i in range(n_samples)]
+countries = np.random.choice(['GR', 'CY', 'UK', 'DE', 'US'], size=n_samples, p=[0.75, 0.12, 0.05, 0.05, 0.03]) # Noise
+channels_raw = ['LinkedIn', 'linkedin', 'LI', 'YouTube', 'yt', 'Google', 'Newsletter', 'Referral', np.nan]
+discovery_channels = np.random.choice(channels_raw, size=n_samples, p=[0.30, 0.15, 0.05, 0.20, 0.05, 0.10, 0.10, 0.02, 0.03])
+primary_interests = np.random.choice(['Data Analytics', 'Analytics Engineering', 'Power BI', np.nan], size=n_samples, p=[0.40, 0.35, 0.18, 0.07])
 
-# Signup dates spread over the last 2 years
-start_date = datetime(2024, 1, 1)
-signup_dates = [start_date + timedelta(days=int(np.random.uniform(0, 700)), 
-                                        hours=int(np.random.uniform(0, 23))) for _ in range(n_samples)]
+# 2. Timing (Reach-out vs Sign-up)
+# Days signup vs reachout: Negative = signup first, Positive = reachout first
+days_signup_vs_reachout = np.random.normal(loc=-2, scale=10, size=n_samples).round(1)
 
-ages = np.random.normal(loc=31, scale=8, size=n_samples).astype(int)
-ages = np.clip(ages, 18, 65)
-# Inject Outliers in Age (-1 or 99)
-age_outlier_idx = np.random.choice(n_samples, size=50, replace=False)
-ages[age_outlier_idx] = np.random.choice([-1, 99], size=50)
+# 3. Midterm Engagement Features (First 14 days after reach-out)
+replied_to_followup = np.random.binomial(1, p=0.22, size=n_samples)
+sent_second_message = np.where(replied_to_followup == 1, np.random.binomial(1, 0.65, size=n_samples), np.random.binomial(1, 0.05, size=n_samples))
+free_courses_enrolled = np.random.choice([0, 1, 2, 3], size=n_samples, p=[0.40, 0.35, 0.18, 0.07])
+free_semantic_completed = np.where(free_courses_enrolled >= 1, np.random.binomial(1, 0.15, size=n_samples), 0)
+logins_14d = np.random.poisson(lam=4, size=n_samples)
+video_mins_14d = np.random.exponential(scale=45, size=n_samples).round(1)
 
-# Gender with missing values (NaN)
-genders = np.random.choice(['Male', 'Female', 'Other', np.nan], size=n_samples, p=[0.45, 0.38, 0.02, 0.15])
-
-# Inconsistent Lead Sources
-lead_sources_raw = ['Facebook', 'facebook', 'FB', 'fb_ads', 'Google_Ads', 'google', 'Google', 'Referral', 'Organic', 'LinkedIn', 'linkedin']
-lead_sources = np.random.choice(lead_sources_raw, size=n_samples, p=[0.1, 0.08, 0.05, 0.07, 0.2, 0.1, 0.1, 0.1, 0.1, 0.05, 0.05])
-
-# Primary Interest with NaNs
-interests = np.random.choice(['Data Science', 'Web Development', 'UI/UX Design', 'Digital Marketing', np.nan], 
-                             size=n_samples, p=[0.35, 0.30, 0.12, 0.13, 0.10])
-
-# Engagement features (Free previews)
-free_previews = np.random.poisson(lam=3, size=n_samples)
-# Inject Bot Outliers (extremely high views)
-bot_idx = np.random.choice(n_samples, size=20, replace=False)
-free_previews[bot_idx] = np.random.randint(250, 600, size=20)
-
-# 2. Target Generation (Imbalanced Lead Conversion ~14%)
-# Conversion probability depends on engagement and source
-conversion_prob = (
-    0.05 
-    + 0.04 * free_previews 
-    + np.where(pd.Series(lead_sources).isin(['Referral', 'LinkedIn', 'linkedin']), 0.12, 0)
-    + np.where(pd.Series(interests) == 'Data Science', 0.08, 0)
+# 4. Target 1: Midterm Conversion (Strongly driven by followup reply & second message)
+conv_score = (
+    -2.5 
+    + 2.8 * replied_to_followup 
+    + 1.5 * sent_second_message 
+    + 1.2 * free_semantic_completed 
+    + 0.05 * logins_14d
 )
-# Sigmoid normalization to probability range [0, 1]
-conversion_prob = 1 / (1 + np.exp(- (conversion_prob - 2)))
-is_converted = np.random.binomial(1, p=np.clip(conversion_prob, 0.02, 0.85))
+conv_prob = 1 / (1 + np.exp(-conv_score))
+is_converted = np.random.binomial(1, p=np.clip(conv_prob, 0.01, 0.92))
 
-# 3. Purchases & Dates
-first_purchase_dates = []
-purchase_amounts = []
-
-for i in range(n_samples):
-    if is_converted[i] == 1:
-        # Purchased within 1-14 days
-        days_to_buy = int(np.random.exponential(scale=4)) + 1
-        purchase_date = signup_dates[i] + timedelta(days=days_to_buy)
-        first_purchase_dates.append(purchase_date.strftime('%Y-%m-%d'))
-        # Purchase amount in EUR
-        amount = np.random.choice([49.0, 99.0, 149.0, 299.0], p=[0.2, 0.5, 0.2, 0.1])
-        purchase_amounts.append(amount)
-    else:
-        first_purchase_dates.append(np.nan)
-        purchase_amounts.append(0.0)
-
-# 4. Capstone Features (Course Completion & Churn ~26%)
-completion_rates = []
-is_churned = []
+# 5. Capstone / Post-Purchase Features (Applied to converted students)
+enrollment_types = []
+sessions_booked = []
+projects_submitted = []
+reported_ai_usage = []
+passed_ai_check = []
+months_enrolled = []
+is_stalled = []
 
 for i in range(n_samples):
     if is_converted[i] == 1:
-        rate = round(float(np.random.beta(a=2, b=3)), 2)
-        completion_rates.append(rate)
-        # Higher churn if completion rate is low
-        churn_p = 0.65 if rate < 0.30 else 0.12
-        is_churned.append(np.random.binomial(1, churn_p))
+        # 30% Full Track Program, 70% Single Course
+        is_program = np.random.rand() < 0.30
+        enrollment_types.append('Full Track Program' if is_program else 'Single Course')
+        
+        months = int(np.random.uniform(1, 24))
+        months_enrolled.append(months)
+        
+        if is_program:
+            # 1-on-1 sessions booked (0 to 6)
+            s_booked = int(np.random.choice([0, 1, 2, 3, 4, 5, 6], p=[0.35, 0.20, 0.15, 0.10, 0.10, 0.05, 0.05]))
+            sessions_booked.append(s_booked)
+            projs = int(np.random.choice([0, 1, 2, 3, 4, 5], p=[0.45, 0.25, 0.15, 0.08, 0.05, 0.02])) # Only 2% finish all
+            projects_submitted.append(projs)
+            
+            ai_used = np.random.binomial(1, 0.60)
+            reported_ai_usage.append(ai_used)
+            ai_pass = np.random.binomial(1, 0.75) if ai_used == 1 else 1
+            passed_ai_check.append(ai_pass)
+            
+            # High stall probability even with support (reflecting reality)
+            stall_p = 0.88 if (s_booked < 2 or projs < 2) else 0.45
+            is_stalled.append(np.random.binomial(1, stall_p))
+        else:
+            sessions_booked.append(0)
+            projs = int(np.random.choice([0, 1, 2], p=[0.40, 0.40, 0.20]))
+            projects_submitted.append(projs)
+            reported_ai_usage.append(np.random.binomial(1, 0.40))
+            passed_ai_check.append(1)
+            is_stalled.append(1 if projs < 1 and months > 3 else 0)
     else:
-        completion_rates.append(0.0)
-        is_churned.append(1)  # Non-converted leads are considered churned/lost
+        enrollment_types.append('None')
+        months_enrolled.append(0)
+        sessions_booked.append(0)
+        projects_submitted.append(0)
+        reported_ai_usage.append(0)
+        passed_ai_check.append(0)
+        is_stalled.append(np.nan)
 
 # Create DataFrame
 df = pd.DataFrame({
     'student_id': student_ids,
-    'signup_date': [d.strftime('%Y-%m-%d %H:%M:%S') if np.random.rand() > 0.1 else d.strftime('%d/%m/%Y') for d in signup_dates], # Mixed date formats
-    'age': ages,
-    'gender': genders,
-    'lead_source': lead_sources,
-    'primary_interest': interests,
-    'free_preview_views': free_previews,
-    'first_purchase_date': first_purchase_dates,
-    'purchase_amount_eur': purchase_amounts,
-    'is_converted': is_converted,
-    'course_completion_rate': completion_rates,
-    'is_churned': is_churned
+    'user_country_code': countries, # Noise feature
+    'discovery_channel': discovery_channels,
+    'primary_interest': primary_interests,
+    'days_signup_vs_reachout': days_signup_vs_reachout,
+    'replied_to_followup_email': replied_to_followup,
+    'sent_second_message': sent_second_message,
+    'free_courses_enrolled_count': free_courses_enrolled,
+    'free_semantic_model_completed': free_semantic_completed,
+    'platform_logins_count_14d': logins_14d,
+    'total_video_minutes_watched_14d': video_mins_14d,
+    'is_converted': is_converted, # TARGET 1 (Midterm)
+    'enrollment_type': enrollment_types,
+    'months_since_enrollment': months_enrolled,
+    'sessions_30min_booked': sessions_booked,
+    'projects_submitted_count': projects_submitted,
+    'reported_ai_tool_usage': reported_ai_usage,
+    'passed_ai_comprehension_check': passed_ai_check,
+    'is_stalled_or_abandoned': is_stalled # TARGET 2 (Capstone)
 })
 
-# Save to CSV
-df.to_csv('edtech_students_raw.csv', index=False)
-print("Dataset 'edtech_students_raw.csv' created successfully with 10,000 rows!")
+df.to_csv('edtech_advanced_dataset.csv', index=False)
+print("Dataset 'edtech_advanced_dataset.csv' created successfully with 2,000 rows!")

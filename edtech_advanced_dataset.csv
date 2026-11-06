@@ -1,0 +1,2001 @@
+student_id,user_country_code,discovery_channel,primary_interest,days_signup_vs_reachout,replied_to_followup_email,sent_second_message,free_courses_enrolled_count,free_semantic_model_completed,platform_logins_count_14d,total_video_minutes_watched_14d,is_converted,enrollment_type,months_since_enrollment,sessions_30min_booked,projects_submitted_count,reported_ai_tool_usage,passed_ai_comprehension_check,is_stalled_or_abandoned
+STU_202600,GR,YouTube,Data Analytics,7.0,0,0,1,0,1,3.8,0,None,0,0,0,0,0,
+STU_202601,GR,LinkedIn,Data Analytics,-1.8,0,0,1,1,4,65.7,0,None,0,0,0,0,0,
+STU_202602,US,YouTube,Power BI,-4.7,0,0,0,0,2,46.8,0,None,0,0,0,0,0,
+STU_202603,GR,linkedin,Data Analytics,1.9,0,0,1,0,4,98.4,0,None,0,0,0,0,0,
+STU_202604,GR,LinkedIn,nan,-10.6,0,0,2,0,5,0.3,0,None,0,0,0,0,0,
+STU_202605,US,Referral,Power BI,-11.9,0,0,1,1,4,27.8,0,None,0,0,0,0,0,
+STU_202606,GR,LinkedIn,Power BI,19.5,0,0,1,0,4,85.9,0,None,0,0,0,0,0,
+STU_202607,UK,LinkedIn,Data Analytics,22.5,0,0,1,0,1,16.5,0,None,0,0,0,0,0,
+STU_202608,GR,Google,nan,-11.6,1,1,0,0,9,13.0,1,Single Course,8,0,1,0,1,0.0
+STU_202609,CY,yt,Power BI,-3.6,0,0,0,0,1,38.6,0,None,0,0,0,0,0,
+STU_202610,GR,LinkedIn,Analytics Engineering,15.5,0,0,0,0,2,36.4,0,None,0,0,0,0,0,
+STU_202611,GR,Newsletter,Analytics Engineering,-3.0,0,1,3,1,6,34.8,1,Single Course,17,0,1,0,1,0.0
+STU_202612,GR,Newsletter,Analytics Engineering,-3.2,0,0,1,0,2,13.6,0,None,0,0,0,0,0,
+STU_202613,UK,LinkedIn,Data Analytics,-11.1,0,0,1,0,6,27.1,0,None,0,0,0,0,0,
+STU_202614,GR,LinkedIn,Data Analytics,-1.1,0,0,1,0,4,16.5,0,None,0,0,0,0,0,
+STU_202615,GR,linkedin,Power BI,-2.9,0,0,2,0,2,62.9,0,None,0,0,0,0,0,
+STU_202616,GR,linkedin,nan,-14.5,1,0,1,0,2,58.9,1,Full Track Program,18,4,1,1,1,1.0
+STU_202617,GR,Google,Power BI,-13.4,0,0,1,0,7,13.8,0,None,0,0,0,0,0,
+STU_202618,GR,nan,Data Analytics,-3.3,1,0,0,0,5,25.1,1,Full Track Program,3,3,1,1,0,1.0
+STU_202619,DE,Google,Power BI,3.3,0,0,1,0,5,79.2,0,None,0,0,0,0,0,
+STU_202620,GR,linkedin,Analytics Engineering,-7.9,1,1,0,0,2,2.6,1,Single Course,14,0,1,1,1,0.0
+STU_202621,GR,linkedin,Analytics Engineering,5.8,1,1,0,0,3,10.9,1,Single Course,20,0,1,0,1,0.0
+STU_202622,GR,Google,Analytics Engineering,3.0,0,0,1,0,4,11.3,0,None,0,0,0,0,0,
+STU_202623,GR,linkedin,Data Analytics,-3.6,1,1,0,0,1,27.3,1,Full Track Program,8,1,0,0,1,1.0
+STU_202624,GR,YouTube,nan,-5.0,0,0,0,0,4,14.5,0,None,0,0,0,0,0,
+STU_202625,DE,Google,Data Analytics,8.7,0,0,2,0,2,53.8,0,None,0,0,0,0,0,
+STU_202626,GR,YouTube,Analytics Engineering,6.1,0,0,0,0,4,48.6,0,None,0,0,0,0,0,
+STU_202627,GR,LinkedIn,Analytics Engineering,-1.3,0,0,2,0,8,0.3,0,None,0,0,0,0,0,
+STU_202628,GR,linkedin,Analytics Engineering,9.6,1,1,1,0,3,147.9,1,Single Course,17,0,2,1,1,0.0
+STU_202629,GR,YouTube,Power BI,-5.2,0,0,1,0,4,25.9,0,None,0,0,0,0,0,
+STU_202630,UK,LinkedIn,Analytics Engineering,-10.7,1,1,1,0,8,4.9,1,Single Course,18,0,0,0,1,1.0
+STU_202631,GR,LinkedIn,nan,13.1,0,0,2,0,2,5.4,0,None,0,0,0,0,0,
+STU_202632,GR,Newsletter,Data Analytics,-3.9,0,0,0,0,2,19.1,0,None,0,0,0,0,0,
+STU_202633,GR,LinkedIn,Data Analytics,-10.3,0,0,2,0,2,21.2,0,None,0,0,0,0,0,
+STU_202634,GR,YouTube,Power BI,-11.8,0,0,1,0,6,26.9,0,None,0,0,0,0,0,
+STU_202635,GR,YouTube,Power BI,2.8,0,0,1,1,2,28.4,0,None,0,0,0,0,0,
+STU_202636,GR,YouTube,Power BI,2.0,0,0,2,0,3,37.8,0,None,0,0,0,0,0,
+STU_202637,GR,YouTube,Data Analytics,0.9,0,0,0,0,2,36.3,0,None,0,0,0,0,0,
+STU_202638,GR,Google,Data Analytics,-13.8,0,0,0,0,7,42.3,1,Single Course,22,0,1,1,1,0.0
+STU_202639,GR,Newsletter,Data Analytics,6.8,0,0,1,1,3,12.4,0,None,0,0,0,0,0,
+STU_202640,DE,LI,Analytics Engineering,-10.4,0,0,0,0,2,26.3,0,None,0,0,0,0,0,
+STU_202641,GR,yt,Power BI,-5.4,0,0,1,0,3,11.3,0,None,0,0,0,0,0,
+STU_202642,GR,YouTube,Data Analytics,-20.3,0,0,0,0,3,68.0,0,None,0,0,0,0,0,
+STU_202643,GR,linkedin,Analytics Engineering,8.2,0,0,0,0,1,115.8,0,None,0,0,0,0,0,
+STU_202644,GR,Google,Analytics Engineering,10.3,0,0,1,0,6,11.3,0,None,0,0,0,0,0,
+STU_202645,GR,linkedin,Data Analytics,-6.0,1,1,1,0,2,25.8,0,None,0,0,0,0,0,
+STU_202646,GR,YouTube,Data Analytics,0.0,1,0,0,0,2,35.4,0,None,0,0,0,0,0,
+STU_202647,GR,linkedin,Power BI,-4.5,0,0,0,0,4,20.2,0,None,0,0,0,0,0,
+STU_202648,CY,LinkedIn,Power BI,-0.4,0,0,0,0,2,0.2,0,None,0,0,0,0,0,
+STU_202649,GR,Google,Analytics Engineering,-9.3,0,0,1,0,2,44.1,0,None,0,0,0,0,0,
+STU_202650,GR,Newsletter,Power BI,17.5,0,0,1,1,1,40.4,0,None,0,0,0,0,0,
+STU_202651,US,linkedin,Analytics Engineering,-13.0,0,0,2,1,0,8.0,0,None,0,0,0,0,0,
+STU_202652,GR,nan,Power BI,1.4,1,1,1,0,3,27.7,1,Full Track Program,23,0,0,0,1,1.0
+STU_202653,GR,linkedin,Data Analytics,4.7,1,0,0,0,5,9.2,1,Single Course,13,0,1,1,1,0.0
+STU_202654,GR,Newsletter,Power BI,3.7,0,0,0,0,3,31.5,0,None,0,0,0,0,0,
+STU_202655,GR,LinkedIn,Analytics Engineering,-5.9,0,0,3,1,0,35.6,0,None,0,0,0,0,0,
+STU_202656,US,nan,Analytics Engineering,11.7,0,0,0,0,6,26.7,0,None,0,0,0,0,0,
+STU_202657,GR,Newsletter,nan,14.3,0,0,0,0,5,17.6,0,None,0,0,0,0,0,
+STU_202658,GR,nan,Power BI,-7.9,0,0,1,0,3,4.0,0,None,0,0,0,0,0,
+STU_202659,GR,Google,Data Analytics,-1.3,0,0,0,0,6,42.7,0,None,0,0,0,0,0,
+STU_202660,GR,LinkedIn,Data Analytics,13.0,0,0,3,0,2,174.2,0,None,0,0,0,0,0,
+STU_202661,GR,YouTube,Analytics Engineering,9.3,0,0,0,0,1,49.4,0,None,0,0,0,0,0,
+STU_202662,GR,Newsletter,Power BI,-2.1,0,0,3,0,3,48.8,0,None,0,0,0,0,0,
+STU_202663,GR,LinkedIn,Analytics Engineering,-2.3,1,1,0,0,3,53.3,1,Single Course,13,0,1,0,1,0.0
+STU_202664,US,LinkedIn,Analytics Engineering,11.1,0,0,0,0,3,2.3,0,None,0,0,0,0,0,
+STU_202665,GR,LinkedIn,Analytics Engineering,2.2,0,0,1,0,3,31.9,1,Single Course,17,0,0,0,1,1.0
+STU_202666,GR,YouTube,Analytics Engineering,3.3,0,1,2,0,4,40.8,1,Single Course,4,0,0,0,1,1.0
+STU_202667,UK,linkedin,Analytics Engineering,16.1,0,0,1,0,4,9.3,0,None,0,0,0,0,0,
+STU_202668,GR,linkedin,Data Analytics,11.1,0,0,0,0,4,7.3,0,None,0,0,0,0,0,
+STU_202669,GR,LinkedIn,Data Analytics,-0.8,1,0,1,0,6,12.6,0,None,0,0,0,0,0,
+STU_202670,GR,Google,Analytics Engineering,-4.3,0,0,2,1,1,98.5,0,None,0,0,0,0,0,
+STU_202671,GR,LinkedIn,Power BI,-14.9,0,0,0,0,4,3.8,0,None,0,0,0,0,0,
+STU_202672,GR,YouTube,Data Analytics,0.3,0,0,0,0,4,48.7,0,None,0,0,0,0,0,
+STU_202673,GR,YouTube,Power BI,-12.2,0,0,0,0,4,66.0,0,None,0,0,0,0,0,
+STU_202674,GR,Google,Data Analytics,2.7,1,1,2,0,3,3.4,1,Single Course,4,0,0,0,1,1.0
+STU_202675,GR,LinkedIn,Data Analytics,-1.4,0,0,0,0,6,39.9,0,None,0,0,0,0,0,
+STU_202676,GR,LinkedIn,Data Analytics,-9.1,1,0,0,0,5,11.7,1,Single Course,10,0,2,0,1,0.0
+STU_202677,GR,linkedin,Data Analytics,-3.5,0,0,2,0,5,2.0,0,None,0,0,0,0,0,
+STU_202678,CY,nan,Analytics Engineering,17.6,1,0,0,0,5,11.2,1,Full Track Program,4,0,1,1,1,1.0
+STU_202679,CY,linkedin,nan,-18.7,0,0,1,0,3,27.0,1,Single Course,13,0,1,0,1,0.0
+STU_202680,GR,yt,Analytics Engineering,-13.4,0,0,0,0,5,36.2,0,None,0,0,0,0,0,
+STU_202681,CY,Google,Data Analytics,-34.6,0,0,0,0,3,24.1,1,Single Course,14,0,2,0,1,0.0
+STU_202682,GR,Newsletter,Power BI,7.9,0,0,0,0,3,0.5,0,None,0,0,0,0,0,
+STU_202683,UK,yt,Analytics Engineering,3.7,0,0,0,0,2,30.6,0,None,0,0,0,0,0,
+STU_202684,GR,linkedin,Power BI,-5.6,0,0,0,0,2,8.9,0,None,0,0,0,0,0,
+STU_202685,GR,LinkedIn,Data Analytics,13.1,0,1,0,0,1,1.3,0,None,0,0,0,0,0,
+STU_202686,GR,Google,Data Analytics,-2.3,0,0,0,0,1,13.9,0,None,0,0,0,0,0,
+STU_202687,CY,linkedin,Data Analytics,-10.0,0,0,0,0,3,47.2,0,None,0,0,0,0,0,
+STU_202688,CY,YouTube,Analytics Engineering,-12.2,0,0,0,0,7,58.4,0,None,0,0,0,0,0,
+STU_202689,GR,linkedin,Power BI,0.4,0,0,0,0,4,26.4,0,None,0,0,0,0,0,
+STU_202690,GR,Google,Analytics Engineering,-1.0,0,0,1,1,2,27.1,1,Single Course,11,0,2,0,1,0.0
+STU_202691,DE,LinkedIn,Analytics Engineering,-4.8,0,0,0,0,6,112.8,0,None,0,0,0,0,0,
+STU_202692,GR,LinkedIn,Data Analytics,15.5,0,0,0,0,5,0.1,1,Single Course,4,0,2,0,1,0.0
+STU_202693,GR,Google,nan,-7.8,0,0,3,1,7,22.8,0,None,0,0,0,0,0,
+STU_202694,GR,linkedin,Data Analytics,18.3,0,0,0,0,4,43.3,0,None,0,0,0,0,0,
+STU_202695,US,linkedin,Data Analytics,14.6,0,0,1,0,5,154.6,0,None,0,0,0,0,0,
+STU_202696,DE,linkedin,Data Analytics,5.3,0,0,1,0,7,15.0,0,None,0,0,0,0,0,
+STU_202697,GR,YouTube,Data Analytics,-13.6,0,0,0,0,2,61.4,0,None,0,0,0,0,0,
+STU_202698,UK,YouTube,Data Analytics,-10.5,0,0,3,0,6,121.5,0,None,0,0,0,0,0,
+STU_202699,GR,YouTube,Analytics Engineering,-8.6,0,1,1,0,8,75.7,0,None,0,0,0,0,0,
+STU_202700,DE,Google,Analytics Engineering,-9.6,1,1,3,0,12,5.5,1,Single Course,7,0,2,1,1,0.0
+STU_202701,GR,linkedin,Analytics Engineering,2.7,0,0,0,0,5,7.2,0,None,0,0,0,0,0,
+STU_202702,DE,LinkedIn,Power BI,-20.9,0,0,1,1,8,15.1,0,None,0,0,0,0,0,
+STU_202703,GR,linkedin,Data Analytics,6.4,0,0,1,0,5,69.3,1,Full Track Program,5,1,0,1,0,1.0
+STU_202704,GR,YouTube,nan,-8.3,0,1,0,0,2,52.2,0,None,0,0,0,0,0,
+STU_202705,GR,YouTube,Data Analytics,-11.1,0,0,1,0,3,112.1,1,Single Course,21,0,1,1,1,0.0
+STU_202706,GR,Newsletter,Power BI,3.7,0,0,0,0,4,14.3,0,None,0,0,0,0,0,
+STU_202707,GR,Google,Data Analytics,-9.6,0,0,0,0,5,27.3,0,None,0,0,0,0,0,
+STU_202708,GR,LI,Power BI,1.6,0,0,0,0,4,60.3,0,None,0,0,0,0,0,
+STU_202709,GR,LinkedIn,Analytics Engineering,2.1,0,0,0,0,5,3.2,0,None,0,0,0,0,0,
+STU_202710,UK,YouTube,Data Analytics,-0.7,0,0,2,0,2,81.6,0,None,0,0,0,0,0,
+STU_202711,GR,Newsletter,Analytics Engineering,3.4,0,0,1,0,4,79.4,0,None,0,0,0,0,0,
+STU_202712,GR,LinkedIn,Analytics Engineering,-4.8,0,0,1,1,3,10.7,0,None,0,0,0,0,0,
+STU_202713,GR,LI,Power BI,12.2,0,0,1,0,2,14.8,0,None,0,0,0,0,0,
+STU_202714,DE,Google,Data Analytics,-3.9,0,0,0,0,2,116.8,0,None,0,0,0,0,0,
+STU_202715,GR,YouTube,Analytics Engineering,12.6,1,1,0,0,4,31.5,1,Single Course,18,0,0,0,1,1.0
+STU_202716,GR,Newsletter,Data Analytics,-0.1,0,0,0,0,3,52.7,1,Single Course,5,0,1,1,1,0.0
+STU_202717,GR,Newsletter,nan,2.7,0,0,2,1,5,75.4,0,None,0,0,0,0,0,
+STU_202718,DE,Referral,Power BI,1.4,0,0,1,0,8,120.2,0,None,0,0,0,0,0,
+STU_202719,GR,YouTube,Data Analytics,1.3,1,0,0,0,2,13.3,1,Single Course,21,0,0,1,1,1.0
+STU_202720,GR,LinkedIn,Data Analytics,1.6,0,0,2,0,3,47.9,0,None,0,0,0,0,0,
+STU_202721,GR,LinkedIn,Data Analytics,-5.6,1,1,1,0,4,3.4,1,Single Course,11,0,0,1,1,1.0
+STU_202722,GR,LinkedIn,Analytics Engineering,-5.3,0,0,1,1,7,64.0,0,None,0,0,0,0,0,
+STU_202723,DE,YouTube,Data Analytics,8.5,0,0,0,0,2,49.4,0,None,0,0,0,0,0,
+STU_202724,UK,Newsletter,Analytics Engineering,-2.1,0,1,1,0,6,26.6,1,Single Course,12,0,2,1,1,0.0
+STU_202725,CY,Newsletter,Analytics Engineering,10.4,0,0,3,0,4,65.6,0,None,0,0,0,0,0,
+STU_202726,GR,LI,Analytics Engineering,1.4,1,1,0,0,10,54.7,1,Full Track Program,9,0,1,1,1,0.0
+STU_202727,GR,nan,Analytics Engineering,-8.1,0,0,1,0,2,1.8,0,None,0,0,0,0,0,
+STU_202728,GR,YouTube,Analytics Engineering,19.3,0,0,0,0,5,14.1,0,None,0,0,0,0,0,
+STU_202729,US,Newsletter,Analytics Engineering,-4.1,0,0,3,0,3,120.5,0,None,0,0,0,0,0,
+STU_202730,GR,LinkedIn,Analytics Engineering,-8.2,0,0,1,1,7,44.9,1,Single Course,7,0,1,1,1,0.0
+STU_202731,GR,LI,Analytics Engineering,12.8,1,1,0,0,7,42.0,1,Single Course,5,0,1,1,1,0.0
+STU_202732,CY,LI,Data Analytics,-10.4,0,0,1,0,5,16.3,0,None,0,0,0,0,0,
+STU_202733,CY,YouTube,Power BI,-5.7,1,1,1,0,3,30.2,1,Single Course,9,0,1,1,1,0.0
+STU_202734,GR,YouTube,Power BI,-6.6,0,0,1,1,4,49.1,1,Single Course,18,0,1,0,1,0.0
+STU_202735,GR,Referral,Power BI,-0.2,1,1,1,0,7,3.9,1,Full Track Program,5,0,2,0,1,1.0
+STU_202736,GR,LinkedIn,Analytics Engineering,17.0,1,1,2,0,4,14.0,1,Single Course,16,0,1,1,1,0.0
+STU_202737,GR,LinkedIn,Data Analytics,-2.9,1,1,2,0,5,67.7,1,Single Course,2,0,1,1,1,0.0
+STU_202738,GR,Google,Analytics Engineering,-9.0,0,0,2,0,7,9.6,1,Single Course,22,0,2,0,1,0.0
+STU_202739,GR,LI,Analytics Engineering,-1.1,0,0,1,1,6,20.8,0,None,0,0,0,0,0,
+STU_202740,GR,YouTube,Data Analytics,5.5,0,0,2,0,10,1.7,0,None,0,0,0,0,0,
+STU_202741,GR,LinkedIn,Data Analytics,5.6,0,0,0,0,6,133.8,0,None,0,0,0,0,0,
+STU_202742,GR,LinkedIn,Data Analytics,-2.6,0,0,1,0,4,92.3,0,None,0,0,0,0,0,
+STU_202743,GR,LinkedIn,Analytics Engineering,14.3,0,0,1,0,2,6.9,0,None,0,0,0,0,0,
+STU_202744,CY,LinkedIn,Analytics Engineering,10.9,0,0,0,0,4,38.0,0,None,0,0,0,0,0,
+STU_202745,GR,LinkedIn,Analytics Engineering,6.5,0,0,3,0,3,33.5,0,None,0,0,0,0,0,
+STU_202746,GR,YouTube,Power BI,4.8,1,1,3,0,3,52.6,0,None,0,0,0,0,0,
+STU_202747,CY,LinkedIn,Data Analytics,6.1,1,0,0,0,5,28.2,0,None,0,0,0,0,0,
+STU_202748,GR,LinkedIn,Analytics Engineering,-14.2,0,0,0,0,5,65.8,0,None,0,0,0,0,0,
+STU_202749,GR,YouTube,Data Analytics,-4.6,1,1,0,0,5,32.4,1,Full Track Program,4,0,2,1,1,1.0
+STU_202750,CY,Newsletter,Analytics Engineering,-3.0,0,0,1,0,3,4.6,0,None,0,0,0,0,0,
+STU_202751,GR,LinkedIn,Analytics Engineering,-12.2,0,0,0,0,2,4.1,0,None,0,0,0,0,0,
+STU_202752,US,LinkedIn,Data Analytics,12.1,1,1,3,1,5,56.5,1,Single Course,14,0,1,0,1,0.0
+STU_202753,GR,LinkedIn,Data Analytics,-20.6,0,0,1,0,6,29.8,0,None,0,0,0,0,0,
+STU_202754,GR,YouTube,Analytics Engineering,1.2,0,0,0,0,8,41.6,0,None,0,0,0,0,0,
+STU_202755,CY,Newsletter,Data Analytics,1.8,0,0,1,0,2,29.2,0,None,0,0,0,0,0,
+STU_202756,CY,LinkedIn,Data Analytics,-0.5,0,0,2,0,5,21.8,0,None,0,0,0,0,0,
+STU_202757,GR,YouTube,nan,-1.4,1,1,2,1,4,76.9,1,Single Course,7,0,0,0,1,1.0
+STU_202758,DE,YouTube,Data Analytics,-15.6,1,1,2,0,5,8.5,1,Full Track Program,9,0,0,1,1,1.0
+STU_202759,GR,LI,Analytics Engineering,-3.3,0,0,0,0,4,50.0,0,None,0,0,0,0,0,
+STU_202760,GR,linkedin,Analytics Engineering,-9.3,0,0,0,0,8,92.7,0,None,0,0,0,0,0,
+STU_202761,GR,YouTube,Analytics Engineering,-4.0,0,0,1,0,4,201.3,0,None,0,0,0,0,0,
+STU_202762,GR,Newsletter,nan,-12.8,0,0,1,0,3,52.8,0,None,0,0,0,0,0,
+STU_202763,DE,LinkedIn,Power BI,-2.3,0,0,1,0,4,13.1,1,Single Course,20,0,1,0,1,0.0
+STU_202764,GR,YouTube,Power BI,11.9,0,0,0,0,5,49.6,0,None,0,0,0,0,0,
+STU_202765,GR,linkedin,Data Analytics,-14.1,1,0,1,0,5,110.5,1,Single Course,18,0,0,1,1,1.0
+STU_202766,CY,LinkedIn,Data Analytics,-3.1,0,0,0,0,6,116.8,0,None,0,0,0,0,0,
+STU_202767,GR,YouTube,Analytics Engineering,-3.4,0,0,3,0,3,24.6,0,None,0,0,0,0,0,
+STU_202768,UK,LinkedIn,nan,-11.9,0,1,1,0,2,15.9,0,None,0,0,0,0,0,
+STU_202769,GR,LinkedIn,Analytics Engineering,-5.1,1,1,0,0,5,149.5,1,Single Course,13,0,0,1,1,1.0
+STU_202770,GR,linkedin,Data Analytics,-7.9,0,0,0,0,4,96.4,0,None,0,0,0,0,0,
+STU_202771,GR,nan,Analytics Engineering,-9.8,1,1,0,0,4,11.4,1,Single Course,2,0,1,0,1,0.0
+STU_202772,US,Referral,Data Analytics,-11.0,1,1,1,0,3,7.8,1,Full Track Program,4,1,0,0,1,1.0
+STU_202773,GR,LinkedIn,Power BI,-3.5,1,1,0,0,2,19.3,1,Single Course,21,0,0,0,1,1.0
+STU_202774,GR,Google,Data Analytics,-0.8,0,0,1,0,6,15.0,0,None,0,0,0,0,0,
+STU_202775,UK,Newsletter,nan,7.3,0,0,1,0,2,30.5,0,None,0,0,0,0,0,
+STU_202776,UK,yt,nan,-16.8,1,0,0,0,4,15.6,0,None,0,0,0,0,0,
+STU_202777,GR,Newsletter,Analytics Engineering,-21.2,0,0,0,0,5,65.8,0,None,0,0,0,0,0,
+STU_202778,DE,YouTube,Power BI,-12.6,0,0,3,0,6,101.2,0,None,0,0,0,0,0,
+STU_202779,GR,LinkedIn,Power BI,-7.2,0,0,0,0,6,83.8,1,Single Course,15,0,0,1,1,1.0
+STU_202780,GR,YouTube,Power BI,3.2,0,0,1,0,4,53.2,0,None,0,0,0,0,0,
+STU_202781,GR,LinkedIn,Analytics Engineering,-7.1,1,1,1,0,6,0.6,1,Single Course,17,0,2,1,1,0.0
+STU_202782,GR,LinkedIn,Power BI,-14.8,0,0,0,0,1,21.0,0,None,0,0,0,0,0,
+STU_202783,CY,linkedin,Data Analytics,-29.4,0,0,1,0,2,68.9,0,None,0,0,0,0,0,
+STU_202784,US,LinkedIn,Data Analytics,-2.5,0,0,1,0,8,5.4,0,None,0,0,0,0,0,
+STU_202785,GR,YouTube,nan,-30.4,1,1,0,0,2,89.8,1,Single Course,11,0,1,0,1,0.0
+STU_202786,GR,Newsletter,Analytics Engineering,8.2,0,0,0,0,3,75.1,0,None,0,0,0,0,0,
+STU_202787,GR,LinkedIn,Data Analytics,2.6,0,0,3,0,5,8.2,0,None,0,0,0,0,0,
+STU_202788,US,LinkedIn,Analytics Engineering,2.2,0,0,0,0,5,65.3,1,Single Course,20,0,0,0,1,1.0
+STU_202789,GR,nan,Data Analytics,3.8,0,0,1,0,5,24.6,0,None,0,0,0,0,0,
+STU_202790,CY,Newsletter,Data Analytics,7.4,0,0,0,0,5,136.7,0,None,0,0,0,0,0,
+STU_202791,GR,YouTube,Analytics Engineering,-14.9,0,0,3,0,4,11.2,1,Single Course,21,0,0,1,1,1.0
+STU_202792,GR,YouTube,Analytics Engineering,-10.2,0,0,1,0,5,87.3,0,None,0,0,0,0,0,
+STU_202793,GR,Google,Data Analytics,1.4,0,0,0,0,7,3.7,0,None,0,0,0,0,0,
+STU_202794,DE,YouTube,Analytics Engineering,1.6,1,0,0,0,2,1.6,0,None,0,0,0,0,0,
+STU_202795,GR,LinkedIn,Data Analytics,-8.1,0,0,0,0,1,76.6,0,None,0,0,0,0,0,
+STU_202796,GR,YouTube,Data Analytics,11.8,1,1,2,1,5,143.7,0,None,0,0,0,0,0,
+STU_202797,GR,yt,Analytics Engineering,1.8,0,0,0,0,6,82.2,0,None,0,0,0,0,0,
+STU_202798,GR,YouTube,Data Analytics,-10.4,0,0,0,0,3,40.1,0,None,0,0,0,0,0,
+STU_202799,GR,LinkedIn,Data Analytics,-8.6,0,0,1,0,0,68.2,0,None,0,0,0,0,0,
+STU_202800,GR,LinkedIn,Analytics Engineering,25.7,0,1,0,0,4,88.2,0,None,0,0,0,0,0,
+STU_202801,CY,LinkedIn,Data Analytics,3.4,0,1,1,0,6,8.3,0,None,0,0,0,0,0,
+STU_202802,GR,LinkedIn,Data Analytics,-3.1,0,0,1,0,7,19.9,0,None,0,0,0,0,0,
+STU_202803,GR,Newsletter,Analytics Engineering,-17.4,1,1,0,0,6,72.4,0,None,0,0,0,0,0,
+STU_202804,GR,LinkedIn,Data Analytics,-10.4,0,0,1,0,4,48.9,0,None,0,0,0,0,0,
+STU_202805,UK,LI,Analytics Engineering,-1.4,0,0,1,0,2,73.5,1,Full Track Program,2,2,0,0,1,1.0
+STU_202806,CY,linkedin,Data Analytics,-20.1,0,0,0,0,2,27.5,0,None,0,0,0,0,0,
+STU_202807,GR,Google,Analytics Engineering,1.1,0,0,1,1,2,168.8,0,None,0,0,0,0,0,
+STU_202808,CY,LinkedIn,Analytics Engineering,-13.9,0,0,0,0,7,59.8,0,None,0,0,0,0,0,
+STU_202809,CY,LinkedIn,Power BI,-0.0,1,1,2,0,4,16.2,1,Single Course,11,0,0,1,1,1.0
+STU_202810,GR,LinkedIn,Data Analytics,5.8,0,1,1,0,5,20.4,0,None,0,0,0,0,0,
+STU_202811,GR,LinkedIn,Power BI,-2.3,1,1,2,0,3,63.1,1,Full Track Program,19,3,0,0,1,1.0
+STU_202812,GR,YouTube,Power BI,-13.3,0,0,0,0,5,31.3,0,None,0,0,0,0,0,
+STU_202813,GR,Newsletter,Data Analytics,-7.6,0,0,0,0,5,28.6,0,None,0,0,0,0,0,
+STU_202814,GR,Newsletter,Data Analytics,-2.7,0,0,1,1,6,2.4,0,None,0,0,0,0,0,
+STU_202815,GR,LinkedIn,nan,0.1,0,0,0,0,3,48.7,0,None,0,0,0,0,0,
+STU_202816,GR,LinkedIn,Analytics Engineering,-0.9,0,0,2,0,4,54.7,1,Single Course,13,0,0,0,1,1.0
+STU_202817,GR,YouTube,Power BI,-10.9,1,1,2,0,3,5.7,1,Single Course,13,0,1,0,1,0.0
+STU_202818,GR,linkedin,Analytics Engineering,-14.4,0,0,3,0,2,18.3,0,None,0,0,0,0,0,
+STU_202819,GR,LinkedIn,Analytics Engineering,13.7,0,0,2,0,8,41.0,0,None,0,0,0,0,0,
+STU_202820,GR,linkedin,Analytics Engineering,-3.5,0,0,0,0,3,33.6,0,None,0,0,0,0,0,
+STU_202821,UK,LinkedIn,Analytics Engineering,-16.2,0,0,2,0,5,40.4,0,None,0,0,0,0,0,
+STU_202822,GR,Newsletter,Analytics Engineering,-12.1,1,0,0,0,2,36.6,1,Single Course,19,0,1,0,1,0.0
+STU_202823,GR,Google,Power BI,-12.9,1,1,1,0,7,68.9,1,Full Track Program,17,0,0,0,1,1.0
+STU_202824,GR,LI,Analytics Engineering,-0.9,1,0,0,0,1,66.4,1,Full Track Program,2,4,2,1,1,1.0
+STU_202825,GR,LinkedIn,Power BI,-6.1,0,0,1,0,4,67.4,0,None,0,0,0,0,0,
+STU_202826,GR,LinkedIn,Analytics Engineering,4.0,0,0,0,0,2,99.5,0,None,0,0,0,0,0,
+STU_202827,GR,LinkedIn,Data Analytics,9.7,0,0,2,1,5,84.2,0,None,0,0,0,0,0,
+STU_202828,GR,yt,Analytics Engineering,-12.1,0,0,2,0,4,96.8,0,None,0,0,0,0,0,
+STU_202829,GR,LinkedIn,Power BI,-5.0,0,0,1,0,4,22.2,0,None,0,0,0,0,0,
+STU_202830,GR,LinkedIn,Analytics Engineering,-16.9,1,1,0,0,5,38.4,0,None,0,0,0,0,0,
+STU_202831,GR,YouTube,Analytics Engineering,-1.4,0,0,1,0,6,72.2,0,None,0,0,0,0,0,
+STU_202832,GR,LinkedIn,Analytics Engineering,-0.1,1,1,1,0,4,63.7,1,Full Track Program,14,2,0,1,1,1.0
+STU_202833,GR,Google,Power BI,12.1,0,0,2,0,6,24.0,0,None,0,0,0,0,0,
+STU_202834,GR,LI,Analytics Engineering,-18.3,0,0,2,0,5,123.6,0,None,0,0,0,0,0,
+STU_202835,GR,LinkedIn,Data Analytics,2.8,0,0,2,0,1,252.9,0,None,0,0,0,0,0,
+STU_202836,GR,Google,Data Analytics,-9.1,0,0,0,0,4,77.5,0,None,0,0,0,0,0,
+STU_202837,GR,linkedin,Data Analytics,5.1,0,0,1,0,3,27.3,0,None,0,0,0,0,0,
+STU_202838,GR,linkedin,Data Analytics,3.6,0,0,0,0,7,55.3,0,None,0,0,0,0,0,
+STU_202839,GR,linkedin,Data Analytics,-2.6,0,0,1,0,6,8.5,0,None,0,0,0,0,0,
+STU_202840,GR,LinkedIn,Data Analytics,-7.2,1,1,2,0,3,68.3,1,Single Course,6,0,0,0,1,1.0
+STU_202841,GR,LinkedIn,Data Analytics,2.9,0,0,2,0,2,20.3,0,None,0,0,0,0,0,
+STU_202842,CY,Google,Analytics Engineering,0.8,0,1,2,0,2,9.6,0,None,0,0,0,0,0,
+STU_202843,GR,linkedin,Analytics Engineering,3.1,1,1,0,0,4,10.0,1,Full Track Program,17,1,1,1,1,1.0
+STU_202844,GR,LinkedIn,Analytics Engineering,-0.3,1,1,1,0,4,67.8,1,Single Course,16,0,0,0,1,1.0
+STU_202845,GR,LinkedIn,Power BI,-11.4,0,0,0,0,9,47.3,0,None,0,0,0,0,0,
+STU_202846,GR,LinkedIn,Data Analytics,14.0,1,1,0,0,2,79.8,1,Single Course,9,0,1,0,1,0.0
+STU_202847,CY,LinkedIn,Data Analytics,-9.3,1,1,0,0,7,31.6,1,Single Course,16,0,0,1,1,1.0
+STU_202848,GR,yt,Data Analytics,2.2,0,0,2,1,4,50.4,0,None,0,0,0,0,0,
+STU_202849,DE,LinkedIn,Power BI,4.1,0,0,1,1,2,27.5,1,Single Course,10,0,0,1,1,1.0
+STU_202850,GR,YouTube,Data Analytics,2.4,0,0,1,0,3,57.5,0,None,0,0,0,0,0,
+STU_202851,GR,linkedin,Analytics Engineering,-12.6,1,0,2,0,2,114.1,1,Single Course,3,0,1,0,1,0.0
+STU_202852,GR,LinkedIn,Data Analytics,6.2,0,0,0,0,4,12.3,1,Single Course,23,0,2,1,1,0.0
+STU_202853,GR,LinkedIn,Power BI,8.5,0,0,2,0,4,7.1,1,Single Course,20,0,0,0,1,1.0
+STU_202854,CY,LinkedIn,Data Analytics,3.2,0,0,0,0,6,20.3,1,Full Track Program,7,3,1,1,1,1.0
+STU_202855,GR,YouTube,Data Analytics,33.5,0,0,1,0,5,56.4,0,None,0,0,0,0,0,
+STU_202856,GR,YouTube,Data Analytics,6.4,1,1,0,0,5,6.1,1,Full Track Program,7,4,4,0,1,0.0
+STU_202857,CY,YouTube,nan,-9.7,0,0,0,0,2,8.0,0,None,0,0,0,0,0,
+STU_202858,GR,nan,Analytics Engineering,-14.6,0,0,3,0,1,27.2,0,None,0,0,0,0,0,
+STU_202859,CY,LinkedIn,Analytics Engineering,-2.0,0,0,1,0,2,62.0,0,None,0,0,0,0,0,
+STU_202860,GR,LinkedIn,Data Analytics,-4.1,1,1,0,0,0,111.5,1,Single Course,20,0,0,0,1,1.0
+STU_202861,US,YouTube,Power BI,-0.2,0,0,0,0,2,15.6,0,None,0,0,0,0,0,
+STU_202862,GR,linkedin,Data Analytics,-0.3,0,0,0,0,6,23.2,0,None,0,0,0,0,0,
+STU_202863,UK,LinkedIn,Analytics Engineering,-4.6,1,1,0,0,1,115.6,1,Single Course,12,0,2,0,1,0.0
+STU_202864,GR,Google,Power BI,-3.5,0,0,0,0,4,44.0,0,None,0,0,0,0,0,
+STU_202865,GR,LinkedIn,Analytics Engineering,2.4,0,0,2,0,5,59.2,0,None,0,0,0,0,0,
+STU_202866,GR,LinkedIn,Power BI,-9.9,0,0,1,0,4,72.1,0,None,0,0,0,0,0,
+STU_202867,GR,Newsletter,Power BI,-25.9,0,0,0,0,2,35.5,1,Single Course,20,0,1,0,1,0.0
+STU_202868,GR,LinkedIn,Analytics Engineering,5.2,0,0,0,0,5,80.4,0,None,0,0,0,0,0,
+STU_202869,GR,nan,Data Analytics,-6.7,0,0,1,0,2,3.0,0,None,0,0,0,0,0,
+STU_202870,CY,linkedin,Analytics Engineering,-8.8,0,0,0,0,3,16.8,0,None,0,0,0,0,0,
+STU_202871,GR,LinkedIn,Data Analytics,2.3,0,0,0,0,7,17.9,0,None,0,0,0,0,0,
+STU_202872,GR,LinkedIn,Power BI,-6.7,0,0,1,0,3,7.1,0,None,0,0,0,0,0,
+STU_202873,GR,linkedin,Data Analytics,-1.9,0,0,2,0,8,5.7,0,None,0,0,0,0,0,
+STU_202874,GR,Google,Data Analytics,5.5,0,0,0,0,8,94.9,0,None,0,0,0,0,0,
+STU_202875,GR,YouTube,Analytics Engineering,-15.4,0,0,0,0,4,21.2,0,None,0,0,0,0,0,
+STU_202876,GR,linkedin,Power BI,7.1,0,0,2,0,5,44.5,0,None,0,0,0,0,0,
+STU_202877,DE,YouTube,Data Analytics,-7.2,0,0,1,1,7,25.2,0,None,0,0,0,0,0,
+STU_202878,GR,Google,Analytics Engineering,-8.9,0,0,1,0,3,3.9,0,None,0,0,0,0,0,
+STU_202879,UK,LinkedIn,Data Analytics,-13.6,0,0,1,1,8,10.4,1,Single Course,1,0,0,1,1,0.0
+STU_202880,GR,Google,Analytics Engineering,10.9,0,0,2,0,8,6.2,0,None,0,0,0,0,0,
+STU_202881,GR,linkedin,Power BI,8.5,0,0,2,0,4,103.8,0,None,0,0,0,0,0,
+STU_202882,GR,Google,Data Analytics,-7.0,1,1,1,0,5,15.0,1,Single Course,20,0,0,0,1,1.0
+STU_202883,GR,linkedin,Data Analytics,2.3,0,0,0,0,2,17.4,1,Single Course,7,0,2,0,1,0.0
+STU_202884,DE,Newsletter,Analytics Engineering,5.1,1,1,1,0,1,94.9,1,Single Course,13,0,0,1,1,1.0
+STU_202885,GR,YouTube,Analytics Engineering,-18.9,0,0,1,0,5,4.5,1,Single Course,8,0,0,1,1,1.0
+STU_202886,GR,LinkedIn,Data Analytics,8.3,0,0,1,0,3,10.8,0,None,0,0,0,0,0,
+STU_202887,GR,LinkedIn,Analytics Engineering,11.2,0,0,1,0,1,205.0,0,None,0,0,0,0,0,
+STU_202888,GR,Newsletter,Data Analytics,0.3,0,0,0,0,7,16.6,0,None,0,0,0,0,0,
+STU_202889,GR,LinkedIn,Data Analytics,1.8,0,0,1,0,5,47.0,0,None,0,0,0,0,0,
+STU_202890,GR,YouTube,Data Analytics,-4.4,0,0,0,0,6,24.1,0,None,0,0,0,0,0,
+STU_202891,GR,linkedin,Analytics Engineering,-8.1,0,0,2,0,2,9.1,0,None,0,0,0,0,0,
+STU_202892,CY,linkedin,Analytics Engineering,0.8,1,0,0,0,6,65.7,0,None,0,0,0,0,0,
+STU_202893,CY,YouTube,Analytics Engineering,-5.4,0,0,0,0,1,7.5,0,None,0,0,0,0,0,
+STU_202894,GR,yt,Power BI,12.0,1,1,0,0,4,11.0,1,Single Course,7,0,2,1,1,0.0
+STU_202895,DE,LinkedIn,Data Analytics,2.6,0,0,1,1,5,19.5,0,None,0,0,0,0,0,
+STU_202896,GR,YouTube,Analytics Engineering,25.0,0,0,2,0,8,37.2,0,None,0,0,0,0,0,
+STU_202897,GR,YouTube,Analytics Engineering,0.3,1,1,2,0,2,50.2,0,None,0,0,0,0,0,
+STU_202898,GR,LinkedIn,Data Analytics,0.8,0,0,1,0,5,30.6,0,None,0,0,0,0,0,
+STU_202899,GR,nan,Data Analytics,-6.5,1,1,0,0,4,26.4,1,Single Course,16,0,1,0,1,0.0
+STU_202900,GR,YouTube,Data Analytics,13.3,0,0,0,0,5,64.5,0,None,0,0,0,0,0,
+STU_202901,GR,linkedin,Data Analytics,14.2,0,0,0,0,1,12.4,0,None,0,0,0,0,0,
+STU_202902,UK,Google,Data Analytics,-4.4,0,0,0,0,0,9.0,0,None,0,0,0,0,0,
+STU_202903,CY,LinkedIn,nan,6.4,0,0,0,0,6,292.3,0,None,0,0,0,0,0,
+STU_202904,GR,LinkedIn,Data Analytics,-2.8,0,0,1,0,1,29.3,0,None,0,0,0,0,0,
+STU_202905,CY,LinkedIn,Power BI,-2.5,0,0,0,0,4,46.9,0,None,0,0,0,0,0,
+STU_202906,GR,LinkedIn,nan,-5.0,0,0,2,0,4,3.4,1,Full Track Program,15,3,0,0,1,1.0
+STU_202907,GR,LI,Analytics Engineering,5.2,0,0,1,1,1,12.0,0,None,0,0,0,0,0,
+STU_202908,GR,YouTube,Analytics Engineering,3.6,0,0,0,0,2,30.1,1,Single Course,9,0,2,1,1,0.0
+STU_202909,GR,linkedin,nan,9.3,0,0,0,0,4,121.9,0,None,0,0,0,0,0,
+STU_202910,CY,linkedin,Analytics Engineering,-11.8,1,1,0,0,4,13.6,1,Single Course,6,0,0,1,1,1.0
+STU_202911,GR,YouTube,Data Analytics,-12.8,0,0,1,0,3,0.6,0,None,0,0,0,0,0,
+STU_202912,GR,LinkedIn,Data Analytics,1.4,0,0,0,0,6,22.2,0,None,0,0,0,0,0,
+STU_202913,GR,LinkedIn,Analytics Engineering,12.0,0,0,1,0,6,106.7,0,None,0,0,0,0,0,
+STU_202914,GR,yt,nan,-17.9,0,0,2,1,2,38.1,1,Single Course,16,0,1,1,1,0.0
+STU_202915,GR,YouTube,Power BI,8.6,1,1,1,0,3,85.4,1,Single Course,13,0,2,1,1,0.0
+STU_202916,GR,yt,Power BI,-11.1,0,0,2,0,7,41.9,0,None,0,0,0,0,0,
+STU_202917,GR,LI,Analytics Engineering,-5.6,0,1,2,1,5,5.4,1,Full Track Program,13,0,0,1,0,1.0
+STU_202918,GR,LinkedIn,Power BI,5.5,0,0,3,0,3,69.5,0,None,0,0,0,0,0,
+STU_202919,GR,YouTube,Data Analytics,-5.8,0,0,0,0,3,57.7,0,None,0,0,0,0,0,
+STU_202920,CY,LinkedIn,Data Analytics,-15.6,0,0,2,0,5,0.9,0,None,0,0,0,0,0,
+STU_202921,GR,Newsletter,Data Analytics,-4.6,0,0,0,0,7,62.0,0,None,0,0,0,0,0,
+STU_202922,GR,YouTube,nan,-9.1,0,0,1,0,7,7.1,0,None,0,0,0,0,0,
+STU_202923,GR,LinkedIn,Analytics Engineering,4.5,0,0,2,0,3,103.5,0,None,0,0,0,0,0,
+STU_202924,GR,Google,nan,10.4,1,1,0,0,4,25.4,1,Single Course,15,0,2,1,1,0.0
+STU_202925,GR,LI,Power BI,-4.4,0,0,0,0,3,147.8,0,None,0,0,0,0,0,
+STU_202926,CY,linkedin,Power BI,2.8,1,0,1,0,5,20.8,0,None,0,0,0,0,0,
+STU_202927,GR,linkedin,Power BI,17.0,0,0,0,0,4,6.1,0,None,0,0,0,0,0,
+STU_202928,GR,LinkedIn,Data Analytics,-6.2,1,0,0,0,1,31.8,1,Single Course,19,0,0,1,1,1.0
+STU_202929,GR,LinkedIn,Data Analytics,18.7,0,0,2,1,1,12.8,0,None,0,0,0,0,0,
+STU_202930,GR,LinkedIn,Power BI,-19.9,0,0,1,0,4,75.7,0,None,0,0,0,0,0,
+STU_202931,CY,Google,Data Analytics,-17.4,0,0,1,0,5,162.8,0,None,0,0,0,0,0,
+STU_202932,GR,LinkedIn,Data Analytics,-11.7,0,0,1,0,2,36.0,0,None,0,0,0,0,0,
+STU_202933,UK,LinkedIn,Data Analytics,-3.6,0,0,1,0,6,9.2,0,None,0,0,0,0,0,
+STU_202934,GR,LinkedIn,Analytics Engineering,0.9,0,0,0,0,1,68.4,0,None,0,0,0,0,0,
+STU_202935,CY,linkedin,Data Analytics,-6.3,0,0,3,1,5,37.8,0,None,0,0,0,0,0,
+STU_202936,GR,LinkedIn,Analytics Engineering,8.3,0,0,1,0,4,34.0,0,None,0,0,0,0,0,
+STU_202937,DE,Google,Data Analytics,11.1,1,1,0,0,3,22.5,1,Full Track Program,8,0,2,1,1,1.0
+STU_202938,GR,YouTube,Data Analytics,-10.2,0,0,1,1,3,3.9,0,None,0,0,0,0,0,
+STU_202939,GR,Newsletter,Data Analytics,2.6,0,0,1,0,9,49.6,0,None,0,0,0,0,0,
+STU_202940,GR,YouTube,Analytics Engineering,19.9,0,0,1,0,3,88.9,0,None,0,0,0,0,0,
+STU_202941,GR,LinkedIn,Analytics Engineering,12.8,0,0,1,0,8,4.4,0,None,0,0,0,0,0,
+STU_202942,GR,LinkedIn,Analytics Engineering,-18.7,0,0,2,0,2,2.4,0,None,0,0,0,0,0,
+STU_202943,DE,yt,Data Analytics,6.1,0,0,3,0,7,73.1,1,Full Track Program,20,4,0,0,1,1.0
+STU_202944,GR,Google,Analytics Engineering,-17.0,0,0,1,0,4,0.4,0,None,0,0,0,0,0,
+STU_202945,GR,LinkedIn,Data Analytics,6.4,0,0,0,0,2,134.8,1,Single Course,22,0,2,0,1,0.0
+STU_202946,GR,LI,Data Analytics,-1.3,0,0,0,0,6,150.5,0,None,0,0,0,0,0,
+STU_202947,GR,nan,Data Analytics,-1.8,0,0,0,0,7,94.9,0,None,0,0,0,0,0,
+STU_202948,UK,YouTube,Power BI,-5.0,0,0,1,0,3,6.0,0,None,0,0,0,0,0,
+STU_202949,GR,Newsletter,Power BI,-0.6,0,0,3,0,6,53.0,0,None,0,0,0,0,0,
+STU_202950,GR,Newsletter,Data Analytics,-22.3,0,0,3,1,9,17.3,1,Single Course,2,0,2,0,1,0.0
+STU_202951,GR,yt,Data Analytics,3.5,0,0,1,0,3,76.3,0,None,0,0,0,0,0,
+STU_202952,GR,linkedin,Power BI,-20.4,0,0,1,0,7,3.9,0,None,0,0,0,0,0,
+STU_202953,GR,LinkedIn,Data Analytics,4.6,0,0,3,0,4,27.5,0,None,0,0,0,0,0,
+STU_202954,GR,linkedin,Analytics Engineering,7.4,1,1,1,0,6,36.3,1,Full Track Program,6,0,2,1,1,1.0
+STU_202955,GR,YouTube,Data Analytics,-1.8,1,1,3,0,3,30.1,1,Single Course,14,0,1,0,1,0.0
+STU_202956,GR,LinkedIn,Data Analytics,10.2,0,0,3,0,4,0.8,0,None,0,0,0,0,0,
+STU_202957,GR,YouTube,Analytics Engineering,-10.0,1,1,2,0,3,5.9,1,Single Course,12,0,0,1,1,1.0
+STU_202958,GR,LinkedIn,Data Analytics,-9.8,0,1,0,0,2,30.9,1,Single Course,23,0,2,0,1,0.0
+STU_202959,CY,linkedin,Analytics Engineering,-0.5,0,0,0,0,1,19.1,0,None,0,0,0,0,0,
+STU_202960,GR,Google,Data Analytics,-12.5,0,0,0,0,5,42.3,0,None,0,0,0,0,0,
+STU_202961,GR,YouTube,Power BI,-1.4,0,0,1,0,4,7.3,1,Single Course,8,0,2,1,1,0.0
+STU_202962,GR,LI,Analytics Engineering,5.2,1,0,0,0,2,36.2,0,None,0,0,0,0,0,
+STU_202963,GR,Google,Data Analytics,12.4,0,0,1,1,1,42.8,0,None,0,0,0,0,0,
+STU_202964,GR,LinkedIn,Data Analytics,1.1,0,0,2,1,4,27.0,0,None,0,0,0,0,0,
+STU_202965,GR,YouTube,Data Analytics,-6.6,0,0,0,0,4,5.4,0,None,0,0,0,0,0,
+STU_202966,GR,Newsletter,Analytics Engineering,-6.5,0,0,1,0,7,90.5,0,None,0,0,0,0,0,
+STU_202967,GR,YouTube,Analytics Engineering,-17.8,0,0,3,0,1,182.3,0,None,0,0,0,0,0,
+STU_202968,GR,nan,Analytics Engineering,-13.3,0,0,3,0,3,54.4,0,None,0,0,0,0,0,
+STU_202969,UK,Newsletter,Power BI,-30.4,0,0,2,0,4,42.0,0,None,0,0,0,0,0,
+STU_202970,CY,YouTube,Analytics Engineering,-18.4,1,1,1,1,4,37.1,1,Full Track Program,11,0,0,0,1,1.0
+STU_202971,GR,linkedin,Analytics Engineering,14.3,0,0,0,0,4,46.7,0,None,0,0,0,0,0,
+STU_202972,GR,LinkedIn,Data Analytics,-15.1,1,1,0,0,2,191.4,0,None,0,0,0,0,0,
+STU_202973,GR,linkedin,Power BI,11.1,0,0,1,0,4,13.5,0,None,0,0,0,0,0,
+STU_202974,GR,LinkedIn,Power BI,9.0,0,0,0,0,3,14.1,0,None,0,0,0,0,0,
+STU_202975,UK,LinkedIn,nan,-5.7,0,0,0,0,5,97.9,0,None,0,0,0,0,0,
+STU_202976,GR,LinkedIn,Data Analytics,7.3,0,0,1,0,3,2.2,0,None,0,0,0,0,0,
+STU_202977,CY,Google,Data Analytics,-2.9,0,0,0,0,8,68.1,1,Single Course,10,0,0,1,1,1.0
+STU_202978,GR,LinkedIn,Data Analytics,3.2,0,0,1,0,7,30.0,0,None,0,0,0,0,0,
+STU_202979,GR,LinkedIn,Data Analytics,-11.3,1,0,0,0,3,44.8,0,None,0,0,0,0,0,
+STU_202980,GR,YouTube,Analytics Engineering,-2.1,0,0,1,0,3,32.8,0,None,0,0,0,0,0,
+STU_202981,US,Newsletter,Analytics Engineering,10.7,0,0,0,0,5,47.1,0,None,0,0,0,0,0,
+STU_202982,CY,Google,Analytics Engineering,8.3,0,0,0,0,3,3.2,0,None,0,0,0,0,0,
+STU_202983,CY,YouTube,Data Analytics,8.3,0,0,3,0,1,35.1,0,None,0,0,0,0,0,
+STU_202984,GR,Newsletter,Data Analytics,11.4,0,0,0,0,1,123.3,0,None,0,0,0,0,0,
+STU_202985,GR,Referral,nan,19.5,0,0,2,1,5,17.3,0,None,0,0,0,0,0,
+STU_202986,GR,linkedin,Data Analytics,-6.8,1,1,0,0,3,52.5,1,Single Course,15,0,0,1,1,1.0
+STU_202987,CY,linkedin,Power BI,-0.9,0,0,1,1,6,95.2,0,None,0,0,0,0,0,
+STU_202988,DE,YouTube,Data Analytics,-4.9,0,0,2,0,3,23.4,0,None,0,0,0,0,0,
+STU_202989,GR,LinkedIn,Analytics Engineering,13.0,0,0,0,0,3,5.5,0,None,0,0,0,0,0,
+STU_202990,CY,Newsletter,Power BI,-13.3,0,0,0,0,3,56.4,0,None,0,0,0,0,0,
+STU_202991,GR,LinkedIn,Analytics Engineering,-16.8,0,0,1,0,3,8.8,1,Single Course,9,0,2,0,1,0.0
+STU_202992,GR,Newsletter,Analytics Engineering,-6.8,0,0,1,0,5,77.9,1,Full Track Program,23,0,0,1,0,1.0
+STU_202993,GR,linkedin,nan,0.8,1,1,0,0,3,12.6,1,Single Course,3,0,0,0,1,0.0
+STU_202994,GR,LinkedIn,Data Analytics,-0.2,1,1,1,0,4,26.0,1,Single Course,7,0,2,0,1,0.0
+STU_202995,GR,LinkedIn,Power BI,-19.9,0,0,0,0,3,128.2,0,None,0,0,0,0,0,
+STU_202996,GR,Newsletter,Power BI,-10.4,0,0,1,0,2,19.0,0,None,0,0,0,0,0,
+STU_202997,GR,YouTube,Data Analytics,-7.5,0,0,1,0,6,22.5,0,None,0,0,0,0,0,
+STU_202998,UK,LinkedIn,Data Analytics,-24.1,0,0,0,0,3,95.4,0,None,0,0,0,0,0,
+STU_202999,DE,YouTube,Data Analytics,10.8,0,0,0,0,5,116.5,0,None,0,0,0,0,0,
+STU_203000,DE,YouTube,Power BI,-7.3,0,0,0,0,3,4.8,0,None,0,0,0,0,0,
+STU_203001,GR,linkedin,Analytics Engineering,-6.4,0,0,0,0,5,26.7,0,None,0,0,0,0,0,
+STU_203002,CY,LinkedIn,Data Analytics,7.0,0,0,1,0,7,45.3,0,None,0,0,0,0,0,
+STU_203003,DE,LinkedIn,Data Analytics,-13.2,0,0,2,0,6,5.9,0,None,0,0,0,0,0,
+STU_203004,GR,Google,Data Analytics,19.4,1,0,2,0,4,10.2,1,Single Course,20,0,0,0,1,1.0
+STU_203005,GR,LinkedIn,Analytics Engineering,12.6,0,0,1,1,3,63.6,0,None,0,0,0,0,0,
+STU_203006,GR,LinkedIn,Analytics Engineering,-2.8,0,0,2,0,6,153.7,0,None,0,0,0,0,0,
+STU_203007,GR,LinkedIn,Data Analytics,-6.7,0,0,2,1,7,13.1,1,Full Track Program,7,2,0,0,1,1.0
+STU_203008,GR,Newsletter,Data Analytics,4.4,0,0,0,0,5,64.5,0,None,0,0,0,0,0,
+STU_203009,CY,YouTube,Analytics Engineering,-12.3,0,0,1,0,3,89.5,0,None,0,0,0,0,0,
+STU_203010,CY,YouTube,Power BI,-11.1,0,1,1,1,6,80.1,1,Single Course,12,0,2,0,1,0.0
+STU_203011,GR,Newsletter,Data Analytics,-10.7,0,0,2,0,8,52.3,0,None,0,0,0,0,0,
+STU_203012,GR,Newsletter,Analytics Engineering,8.9,0,0,1,0,5,19.9,0,None,0,0,0,0,0,
+STU_203013,CY,Google,Data Analytics,-17.4,1,1,1,0,3,108.5,1,Single Course,16,0,2,0,1,0.0
+STU_203014,GR,YouTube,Analytics Engineering,6.1,1,0,1,0,2,36.8,0,None,0,0,0,0,0,
+STU_203015,GR,Newsletter,Analytics Engineering,-1.1,0,0,1,0,8,44.0,0,None,0,0,0,0,0,
+STU_203016,GR,YouTube,Data Analytics,13.6,0,0,2,0,7,30.9,0,None,0,0,0,0,0,
+STU_203017,DE,Newsletter,Data Analytics,5.6,0,0,1,0,5,131.4,0,None,0,0,0,0,0,
+STU_203018,US,LinkedIn,Analytics Engineering,20.4,0,0,1,0,4,33.8,1,Full Track Program,20,4,4,0,1,1.0
+STU_203019,GR,LinkedIn,Data Analytics,-14.0,1,1,2,0,4,11.1,1,Single Course,7,0,1,0,1,0.0
+STU_203020,GR,Google,Analytics Engineering,-8.1,1,1,1,0,4,10.7,1,Single Course,10,0,0,1,1,1.0
+STU_203021,GR,YouTube,Analytics Engineering,7.6,0,0,1,0,3,3.4,0,None,0,0,0,0,0,
+STU_203022,CY,LinkedIn,Analytics Engineering,-17.6,1,1,1,0,6,1.2,1,Single Course,21,0,0,0,1,1.0
+STU_203023,DE,LI,Analytics Engineering,-11.5,1,1,0,0,5,57.8,1,Single Course,6,0,0,0,1,1.0
+STU_203024,GR,LinkedIn,nan,-6.9,0,0,2,0,3,181.0,0,None,0,0,0,0,0,
+STU_203025,GR,YouTube,Data Analytics,-19.3,1,1,1,0,5,8.6,0,None,0,0,0,0,0,
+STU_203026,GR,YouTube,Analytics Engineering,6.1,0,0,2,0,3,4.4,0,None,0,0,0,0,0,
+STU_203027,GR,YouTube,Data Analytics,-8.5,0,0,2,0,2,15.8,0,None,0,0,0,0,0,
+STU_203028,GR,Google,Analytics Engineering,-8.5,1,1,0,0,4,77.1,1,Full Track Program,18,3,2,1,0,1.0
+STU_203029,GR,linkedin,Data Analytics,-1.8,0,0,2,0,1,68.5,0,None,0,0,0,0,0,
+STU_203030,GR,LI,nan,-18.3,0,0,1,0,5,22.5,0,None,0,0,0,0,0,
+STU_203031,GR,YouTube,Data Analytics,11.1,0,0,1,0,3,10.3,0,None,0,0,0,0,0,
+STU_203032,GR,Google,nan,-1.2,0,0,2,0,4,10.2,0,None,0,0,0,0,0,
+STU_203033,GR,LinkedIn,Power BI,3.7,1,1,1,0,7,33.1,1,Single Course,1,0,0,0,1,0.0
+STU_203034,GR,YouTube,Power BI,-10.5,1,1,0,0,6,9.2,1,Single Course,21,0,2,1,1,0.0
+STU_203035,GR,linkedin,Data Analytics,0.2,0,0,1,0,0,50.7,0,None,0,0,0,0,0,
+STU_203036,GR,linkedin,Analytics Engineering,-27.6,0,0,0,0,5,104.8,0,None,0,0,0,0,0,
+STU_203037,CY,LinkedIn,Analytics Engineering,13.0,0,0,3,0,10,24.1,0,None,0,0,0,0,0,
+STU_203038,GR,linkedin,Data Analytics,2.0,0,0,1,0,2,83.3,0,None,0,0,0,0,0,
+STU_203039,GR,LinkedIn,nan,-43.5,0,0,1,0,7,12.9,0,None,0,0,0,0,0,
+STU_203040,CY,Newsletter,Data Analytics,5.6,0,0,2,0,4,156.2,0,None,0,0,0,0,0,
+STU_203041,GR,LinkedIn,Data Analytics,6.1,0,0,1,0,2,1.9,0,None,0,0,0,0,0,
+STU_203042,DE,LinkedIn,Power BI,4.5,0,0,1,0,3,3.9,0,None,0,0,0,0,0,
+STU_203043,GR,yt,Analytics Engineering,7.6,0,0,3,1,7,24.1,0,None,0,0,0,0,0,
+STU_203044,GR,LI,Data Analytics,-14.6,0,0,3,0,2,30.7,0,None,0,0,0,0,0,
+STU_203045,GR,LinkedIn,Data Analytics,2.1,0,0,0,0,2,293.6,0,None,0,0,0,0,0,
+STU_203046,GR,LinkedIn,Data Analytics,-11.6,0,0,2,0,4,37.1,0,None,0,0,0,0,0,
+STU_203047,US,Google,nan,1.1,0,0,0,0,5,36.8,0,None,0,0,0,0,0,
+STU_203048,CY,LinkedIn,Data Analytics,-18.3,0,0,2,0,5,61.8,0,None,0,0,0,0,0,
+STU_203049,US,YouTube,Power BI,6.0,0,0,1,0,6,51.5,0,None,0,0,0,0,0,
+STU_203050,GR,LinkedIn,Data Analytics,7.8,0,0,1,0,8,82.7,0,None,0,0,0,0,0,
+STU_203051,GR,linkedin,Data Analytics,12.2,1,0,1,0,1,11.3,1,Single Course,16,0,1,1,1,0.0
+STU_203052,GR,LinkedIn,Analytics Engineering,1.3,1,1,0,0,3,54.0,1,Full Track Program,6,3,0,0,1,0.0
+STU_203053,CY,LinkedIn,Analytics Engineering,1.6,0,0,1,0,3,19.4,0,None,0,0,0,0,0,
+STU_203054,GR,LinkedIn,Data Analytics,-3.7,1,1,2,1,4,50.9,0,None,0,0,0,0,0,
+STU_203055,GR,LinkedIn,Analytics Engineering,-2.5,0,0,0,0,3,11.0,0,None,0,0,0,0,0,
+STU_203056,GR,LinkedIn,Power BI,1.0,1,1,1,0,1,8.0,1,Single Course,6,0,1,0,1,0.0
+STU_203057,GR,linkedin,Data Analytics,-2.9,0,0,1,0,4,24.1,0,None,0,0,0,0,0,
+STU_203058,DE,LinkedIn,Data Analytics,-6.4,1,1,0,0,3,1.3,0,None,0,0,0,0,0,
+STU_203059,CY,Newsletter,Analytics Engineering,-3.9,0,0,0,0,5,47.8,0,None,0,0,0,0,0,
+STU_203060,GR,YouTube,Analytics Engineering,-4.2,0,0,3,0,4,18.0,0,None,0,0,0,0,0,
+STU_203061,CY,LinkedIn,Power BI,11.9,0,0,0,0,4,117.9,0,None,0,0,0,0,0,
+STU_203062,GR,linkedin,Data Analytics,1.5,0,0,0,0,7,19.8,0,None,0,0,0,0,0,
+STU_203063,GR,LinkedIn,Data Analytics,-5.6,0,0,0,0,4,96.8,0,None,0,0,0,0,0,
+STU_203064,GR,YouTube,Power BI,3.2,0,0,1,0,5,89.9,0,None,0,0,0,0,0,
+STU_203065,GR,linkedin,Analytics Engineering,-4.5,0,0,0,0,8,77.5,0,None,0,0,0,0,0,
+STU_203066,GR,yt,Analytics Engineering,3.5,0,0,0,0,6,10.0,0,None,0,0,0,0,0,
+STU_203067,GR,linkedin,Data Analytics,-5.4,0,0,0,0,4,58.9,1,Full Track Program,17,0,0,0,1,1.0
+STU_203068,GR,nan,Data Analytics,9.2,0,0,0,0,8,12.4,0,None,0,0,0,0,0,
+STU_203069,GR,Referral,Power BI,-15.0,0,0,0,0,4,27.2,0,None,0,0,0,0,0,
+STU_203070,GR,yt,Data Analytics,8.0,0,0,1,0,1,20.7,0,None,0,0,0,0,0,
+STU_203071,GR,YouTube,Data Analytics,-12.3,0,0,1,0,1,16.3,0,None,0,0,0,0,0,
+STU_203072,CY,LinkedIn,Data Analytics,-4.0,1,1,0,0,1,70.9,1,Single Course,17,0,0,1,1,1.0
+STU_203073,GR,LinkedIn,Data Analytics,-6.7,0,0,2,0,5,37.9,0,None,0,0,0,0,0,
+STU_203074,GR,linkedin,nan,-6.4,0,0,3,0,3,58.7,0,None,0,0,0,0,0,
+STU_203075,DE,LinkedIn,nan,4.8,0,0,0,0,6,151.0,0,None,0,0,0,0,0,
+STU_203076,GR,Google,Data Analytics,-0.6,0,0,3,0,3,100.4,0,None,0,0,0,0,0,
+STU_203077,UK,YouTube,Data Analytics,-6.0,0,0,2,0,4,39.8,0,None,0,0,0,0,0,
+STU_203078,UK,Google,Analytics Engineering,7.5,0,0,3,0,5,49.1,0,None,0,0,0,0,0,
+STU_203079,GR,LinkedIn,Power BI,-9.9,0,0,1,0,7,20.4,0,None,0,0,0,0,0,
+STU_203080,GR,LinkedIn,Data Analytics,-9.1,0,0,1,1,6,25.5,0,None,0,0,0,0,0,
+STU_203081,GR,LinkedIn,Data Analytics,-7.9,0,0,0,0,6,111.6,0,None,0,0,0,0,0,
+STU_203082,GR,Newsletter,Power BI,6.6,0,0,0,0,3,14.6,0,None,0,0,0,0,0,
+STU_203083,GR,Newsletter,Data Analytics,9.2,0,0,1,0,2,7.0,0,None,0,0,0,0,0,
+STU_203084,GR,YouTube,Data Analytics,4.0,0,0,0,0,3,110.9,0,None,0,0,0,0,0,
+STU_203085,GR,linkedin,Analytics Engineering,-14.5,1,1,0,0,6,4.9,1,Single Course,18,0,1,0,1,0.0
+STU_203086,GR,LinkedIn,Power BI,-5.4,0,0,0,0,5,26.7,0,None,0,0,0,0,0,
+STU_203087,GR,LinkedIn,Analytics Engineering,14.1,0,0,2,0,4,20.6,0,None,0,0,0,0,0,
+STU_203088,CY,LinkedIn,Data Analytics,5.6,0,0,0,0,3,128.2,0,None,0,0,0,0,0,
+STU_203089,CY,LinkedIn,Data Analytics,1.6,0,0,0,0,6,18.0,0,None,0,0,0,0,0,
+STU_203090,DE,LinkedIn,Analytics Engineering,-12.7,0,0,3,0,3,26.6,0,None,0,0,0,0,0,
+STU_203091,GR,YouTube,nan,-0.4,0,0,1,0,4,4.7,0,None,0,0,0,0,0,
+STU_203092,GR,linkedin,Data Analytics,-9.8,0,0,1,1,6,9.9,1,Single Course,19,0,1,0,1,0.0
+STU_203093,GR,linkedin,Analytics Engineering,8.0,1,0,0,0,5,12.8,1,Single Course,20,0,2,1,1,0.0
+STU_203094,GR,LinkedIn,Data Analytics,2.8,0,0,0,0,4,22.3,0,None,0,0,0,0,0,
+STU_203095,GR,linkedin,Data Analytics,5.0,0,0,0,0,1,18.8,0,None,0,0,0,0,0,
+STU_203096,DE,Google,Power BI,-16.7,0,0,0,0,6,40.8,0,None,0,0,0,0,0,
+STU_203097,GR,LinkedIn,Data Analytics,9.7,0,0,2,0,3,21.3,0,None,0,0,0,0,0,
+STU_203098,GR,linkedin,nan,7.5,1,1,1,0,3,234.5,0,None,0,0,0,0,0,
+STU_203099,US,linkedin,Analytics Engineering,-20.5,0,1,0,0,2,9.9,1,Full Track Program,11,0,1,0,1,1.0
+STU_203100,CY,Newsletter,Power BI,-15.1,0,0,1,0,3,19.7,0,None,0,0,0,0,0,
+STU_203101,GR,linkedin,Power BI,-3.3,0,0,0,0,3,47.9,1,Single Course,19,0,0,0,1,1.0
+STU_203102,GR,Newsletter,Analytics Engineering,-6.2,0,0,1,0,8,14.2,0,None,0,0,0,0,0,
+STU_203103,GR,Newsletter,Analytics Engineering,-10.7,0,0,3,0,5,38.7,0,None,0,0,0,0,0,
+STU_203104,UK,Google,Power BI,-17.0,0,1,1,0,5,41.9,0,None,0,0,0,0,0,
+STU_203105,GR,Google,Power BI,19.5,0,0,2,0,3,16.0,0,None,0,0,0,0,0,
+STU_203106,GR,LinkedIn,Data Analytics,18.0,0,0,0,0,6,5.0,0,None,0,0,0,0,0,
+STU_203107,GR,YouTube,Data Analytics,15.2,0,0,0,0,3,0.5,0,None,0,0,0,0,0,
+STU_203108,GR,Newsletter,Power BI,-6.9,0,0,0,0,3,107.6,0,None,0,0,0,0,0,
+STU_203109,GR,LinkedIn,Data Analytics,11.5,0,0,1,0,6,0.3,0,None,0,0,0,0,0,
+STU_203110,UK,Referral,Data Analytics,-0.9,0,0,1,0,2,173.5,0,None,0,0,0,0,0,
+STU_203111,CY,YouTube,Power BI,6.4,1,1,3,0,4,79.8,1,Full Track Program,3,0,0,1,0,1.0
+STU_203112,GR,YouTube,Analytics Engineering,-5.3,0,0,2,0,4,18.7,0,None,0,0,0,0,0,
+STU_203113,GR,LinkedIn,Data Analytics,1.0,0,0,0,0,7,40.2,0,None,0,0,0,0,0,
+STU_203114,GR,linkedin,Data Analytics,14.1,0,0,0,0,3,13.2,0,None,0,0,0,0,0,
+STU_203115,DE,YouTube,Power BI,0.9,0,0,0,0,7,81.4,1,Single Course,23,0,1,0,1,0.0
+STU_203116,GR,linkedin,Power BI,-11.9,1,0,1,0,2,32.2,1,Single Course,14,0,1,0,1,0.0
+STU_203117,GR,YouTube,Data Analytics,7.0,1,0,0,0,12,59.3,1,Full Track Program,19,0,0,0,1,0.0
+STU_203118,UK,LinkedIn,Data Analytics,-11.4,0,0,2,0,4,71.3,0,None,0,0,0,0,0,
+STU_203119,GR,YouTube,Data Analytics,-1.0,0,0,1,0,2,69.4,0,None,0,0,0,0,0,
+STU_203120,DE,YouTube,Analytics Engineering,-12.8,0,0,2,0,5,0.3,0,None,0,0,0,0,0,
+STU_203121,GR,LinkedIn,Power BI,-13.7,0,0,1,0,4,0.9,0,None,0,0,0,0,0,
+STU_203122,DE,YouTube,Analytics Engineering,23.2,0,0,2,1,3,13.0,1,Single Course,12,0,1,1,1,0.0
+STU_203123,GR,yt,Data Analytics,7.3,0,0,0,0,6,58.2,0,None,0,0,0,0,0,
+STU_203124,GR,Google,Analytics Engineering,-3.9,0,0,0,0,4,1.7,0,None,0,0,0,0,0,
+STU_203125,CY,YouTube,Analytics Engineering,-16.9,0,0,0,0,8,4.5,0,None,0,0,0,0,0,
+STU_203126,GR,linkedin,Data Analytics,8.1,0,0,2,1,4,73.6,1,Single Course,19,0,1,0,1,0.0
+STU_203127,GR,LinkedIn,Analytics Engineering,6.4,0,0,2,0,1,47.6,0,None,0,0,0,0,0,
+STU_203128,GR,LinkedIn,Analytics Engineering,-2.4,0,0,0,0,3,25.6,0,None,0,0,0,0,0,
+STU_203129,GR,Google,Analytics Engineering,10.3,0,0,0,0,4,25.9,0,None,0,0,0,0,0,
+STU_203130,GR,YouTube,Data Analytics,5.4,0,0,1,0,2,72.8,0,None,0,0,0,0,0,
+STU_203131,GR,Newsletter,Analytics Engineering,-9.9,1,1,1,0,5,42.0,1,Single Course,1,0,2,1,1,0.0
+STU_203132,GR,yt,Analytics Engineering,-2.7,0,0,3,0,1,10.4,0,None,0,0,0,0,0,
+STU_203133,GR,Newsletter,Power BI,2.9,0,0,1,0,4,0.0,0,None,0,0,0,0,0,
+STU_203134,GR,Google,Data Analytics,7.7,0,0,2,0,5,10.1,0,None,0,0,0,0,0,
+STU_203135,GR,Google,Analytics Engineering,-1.1,0,0,0,0,3,25.0,0,None,0,0,0,0,0,
+STU_203136,GR,YouTube,Data Analytics,0.0,1,1,1,0,4,37.8,1,Full Track Program,1,0,3,1,1,1.0
+STU_203137,GR,LinkedIn,nan,12.3,0,0,1,0,2,17.4,0,None,0,0,0,0,0,
+STU_203138,CY,Newsletter,Power BI,-12.6,0,0,1,0,0,25.4,1,Single Course,12,0,1,0,1,0.0
+STU_203139,GR,LinkedIn,Analytics Engineering,-5.8,0,0,1,1,2,55.5,0,None,0,0,0,0,0,
+STU_203140,CY,LinkedIn,Analytics Engineering,-16.8,0,0,1,0,4,6.3,0,None,0,0,0,0,0,
+STU_203141,GR,Newsletter,Analytics Engineering,-5.5,0,0,1,0,5,9.1,0,None,0,0,0,0,0,
+STU_203142,DE,Newsletter,Power BI,0.6,0,0,1,0,6,47.7,1,Single Course,19,0,0,0,1,1.0
+STU_203143,GR,LinkedIn,Analytics Engineering,-6.2,0,0,0,0,4,29.0,0,None,0,0,0,0,0,
+STU_203144,GR,LinkedIn,Analytics Engineering,-4.0,1,1,1,1,5,78.9,1,Full Track Program,10,3,0,1,1,0.0
+STU_203145,US,linkedin,nan,1.1,0,0,1,0,6,63.8,0,None,0,0,0,0,0,
+STU_203146,GR,linkedin,Analytics Engineering,10.1,0,0,0,0,4,32.9,1,Single Course,7,0,2,0,1,0.0
+STU_203147,GR,yt,Analytics Engineering,-8.4,0,0,0,0,2,36.1,0,None,0,0,0,0,0,
+STU_203148,GR,LinkedIn,Data Analytics,4.1,1,0,1,0,1,26.4,0,None,0,0,0,0,0,
+STU_203149,GR,LinkedIn,Power BI,6.4,0,0,2,0,4,21.0,0,None,0,0,0,0,0,
+STU_203150,GR,yt,Power BI,-23.6,0,0,2,0,7,90.1,0,None,0,0,0,0,0,
+STU_203151,GR,LinkedIn,Data Analytics,-7.8,0,0,3,0,2,11.5,1,Full Track Program,4,1,2,1,1,1.0
+STU_203152,GR,Newsletter,Data Analytics,10.3,0,0,0,0,4,5.6,0,None,0,0,0,0,0,
+STU_203153,UK,Google,Data Analytics,-7.4,0,0,0,0,2,43.4,0,None,0,0,0,0,0,
+STU_203154,GR,YouTube,Power BI,-15.1,0,0,1,0,2,17.1,0,None,0,0,0,0,0,
+STU_203155,CY,Google,Analytics Engineering,-14.8,1,0,1,0,7,1.1,1,Full Track Program,23,1,1,1,0,1.0
+STU_203156,US,Google,Data Analytics,-1.8,0,0,1,0,6,19.4,0,None,0,0,0,0,0,
+STU_203157,GR,Google,Analytics Engineering,1.5,0,0,1,1,2,31.5,0,None,0,0,0,0,0,
+STU_203158,GR,yt,Data Analytics,18.1,0,0,0,0,2,29.2,0,None,0,0,0,0,0,
+STU_203159,GR,LinkedIn,Analytics Engineering,4.4,0,0,2,0,4,24.3,1,Full Track Program,11,6,1,0,1,1.0
+STU_203160,GR,Google,nan,3.4,0,0,2,1,1,97.5,0,None,0,0,0,0,0,
+STU_203161,DE,nan,Data Analytics,4.5,1,1,0,0,3,12.2,0,None,0,0,0,0,0,
+STU_203162,GR,YouTube,Power BI,-3.7,0,0,1,0,4,44.6,1,Single Course,1,0,2,1,1,0.0
+STU_203163,CY,linkedin,Analytics Engineering,-14.1,0,0,0,0,5,4.5,0,None,0,0,0,0,0,
+STU_203164,GR,yt,Data Analytics,0.8,0,0,1,0,3,85.0,0,None,0,0,0,0,0,
+STU_203165,GR,Google,Data Analytics,3.9,0,0,2,0,5,51.4,0,None,0,0,0,0,0,
+STU_203166,GR,LinkedIn,Power BI,10.6,0,0,0,0,9,116.4,0,None,0,0,0,0,0,
+STU_203167,DE,Newsletter,Data Analytics,-6.2,0,0,0,0,4,40.0,0,None,0,0,0,0,0,
+STU_203168,GR,Google,Power BI,-16.9,0,0,2,1,2,69.9,0,None,0,0,0,0,0,
+STU_203169,GR,linkedin,nan,2.7,0,0,3,0,4,0.6,0,None,0,0,0,0,0,
+STU_203170,GR,Google,Power BI,-5.2,0,0,2,0,10,26.3,0,None,0,0,0,0,0,
+STU_203171,GR,LinkedIn,Data Analytics,4.2,1,1,2,0,4,45.7,1,Single Course,19,0,0,1,1,1.0
+STU_203172,GR,LinkedIn,Analytics Engineering,-8.0,0,0,0,0,4,42.2,0,None,0,0,0,0,0,
+STU_203173,CY,YouTube,Analytics Engineering,-2.1,0,0,3,0,11,39.4,0,None,0,0,0,0,0,
+STU_203174,GR,linkedin,Analytics Engineering,-21.2,0,0,0,0,5,52.7,0,None,0,0,0,0,0,
+STU_203175,GR,Google,Analytics Engineering,-5.8,0,0,2,0,3,12.3,0,None,0,0,0,0,0,
+STU_203176,GR,LinkedIn,Analytics Engineering,-12.1,0,0,0,0,3,43.1,0,None,0,0,0,0,0,
+STU_203177,GR,linkedin,nan,-10.2,0,0,2,0,8,144.1,0,None,0,0,0,0,0,
+STU_203178,GR,linkedin,Data Analytics,3.5,0,0,1,0,7,34.0,0,None,0,0,0,0,0,
+STU_203179,GR,LinkedIn,Data Analytics,-3.5,1,1,1,0,5,18.1,1,Single Course,7,0,0,1,1,1.0
+STU_203180,GR,Newsletter,Power BI,5.9,1,1,1,0,4,99.0,1,Single Course,3,0,0,0,1,0.0
+STU_203181,GR,nan,Data Analytics,-6.9,0,0,3,0,5,4.5,0,None,0,0,0,0,0,
+STU_203182,CY,LinkedIn,nan,-8.8,0,0,0,0,4,114.7,0,None,0,0,0,0,0,
+STU_203183,GR,LinkedIn,Data Analytics,-6.1,0,0,2,1,6,5.5,0,None,0,0,0,0,0,
+STU_203184,CY,YouTube,Analytics Engineering,12.5,0,0,1,0,4,29.5,0,None,0,0,0,0,0,
+STU_203185,GR,LI,nan,-2.8,0,0,1,0,5,31.7,0,None,0,0,0,0,0,
+STU_203186,GR,Newsletter,Power BI,-6.4,1,0,1,0,4,2.4,1,Single Course,9,0,1,1,1,0.0
+STU_203187,CY,Google,Data Analytics,13.1,0,0,0,0,1,19.2,0,None,0,0,0,0,0,
+STU_203188,GR,LinkedIn,Data Analytics,-2.2,0,0,0,0,2,18.8,0,None,0,0,0,0,0,
+STU_203189,GR,Newsletter,Analytics Engineering,11.8,0,0,1,0,2,85.9,0,None,0,0,0,0,0,
+STU_203190,GR,LinkedIn,Data Analytics,0.8,0,0,0,0,2,65.3,0,None,0,0,0,0,0,
+STU_203191,GR,yt,Data Analytics,4.7,0,0,2,0,4,32.8,1,Full Track Program,23,0,1,1,1,1.0
+STU_203192,GR,yt,Data Analytics,5.8,0,0,0,0,7,4.7,1,Full Track Program,18,6,1,1,1,1.0
+STU_203193,GR,LinkedIn,Data Analytics,-3.0,0,1,0,0,1,6.0,0,None,0,0,0,0,0,
+STU_203194,CY,LinkedIn,nan,-13.3,0,1,3,0,7,73.7,0,None,0,0,0,0,0,
+STU_203195,GR,LinkedIn,Analytics Engineering,1.2,0,0,2,0,3,31.0,0,None,0,0,0,0,0,
+STU_203196,GR,YouTube,Power BI,2.0,0,0,1,0,6,1.9,0,None,0,0,0,0,0,
+STU_203197,CY,nan,Data Analytics,-8.2,0,0,0,0,5,49.0,0,None,0,0,0,0,0,
+STU_203198,GR,YouTube,Data Analytics,-3.3,0,0,1,0,2,272.8,0,None,0,0,0,0,0,
+STU_203199,UK,linkedin,Analytics Engineering,-32.1,0,0,0,0,2,123.5,0,None,0,0,0,0,0,
+STU_203200,GR,Google,Data Analytics,-10.9,1,0,0,0,5,72.3,1,Single Course,14,0,1,0,1,0.0
+STU_203201,DE,linkedin,Power BI,-12.5,0,0,2,0,3,19.0,0,None,0,0,0,0,0,
+STU_203202,GR,LinkedIn,nan,-1.1,1,1,0,0,5,50.7,1,Single Course,11,0,1,0,1,0.0
+STU_203203,GR,YouTube,Data Analytics,4.8,1,0,0,0,6,86.9,1,Single Course,8,0,0,1,1,1.0
+STU_203204,GR,Newsletter,Data Analytics,-8.9,0,0,0,0,3,52.8,0,None,0,0,0,0,0,
+STU_203205,CY,Google,Analytics Engineering,-3.2,0,0,0,0,4,15.5,0,None,0,0,0,0,0,
+STU_203206,GR,linkedin,Power BI,-0.0,0,0,0,0,5,34.3,0,None,0,0,0,0,0,
+STU_203207,GR,Newsletter,Analytics Engineering,7.3,0,0,2,0,3,36.2,0,None,0,0,0,0,0,
+STU_203208,GR,LinkedIn,Analytics Engineering,-6.8,0,0,1,1,3,37.7,0,None,0,0,0,0,0,
+STU_203209,GR,Newsletter,Data Analytics,-12.8,0,0,0,0,4,57.6,0,None,0,0,0,0,0,
+STU_203210,GR,LinkedIn,Data Analytics,-18.6,1,1,0,0,5,54.2,0,None,0,0,0,0,0,
+STU_203211,GR,YouTube,Data Analytics,10.1,0,0,0,0,4,15.6,0,None,0,0,0,0,0,
+STU_203212,GR,LinkedIn,Analytics Engineering,-0.9,0,0,2,0,1,28.9,0,None,0,0,0,0,0,
+STU_203213,GR,Newsletter,Power BI,-7.6,0,0,0,0,5,15.0,0,None,0,0,0,0,0,
+STU_203214,GR,Google,Data Analytics,9.1,0,0,2,1,1,2.9,1,Single Course,15,0,0,0,1,1.0
+STU_203215,CY,Newsletter,Power BI,5.6,0,0,0,0,4,45.2,0,None,0,0,0,0,0,
+STU_203216,GR,Google,Power BI,-4.5,1,1,1,0,1,73.9,1,Single Course,16,0,1,1,1,0.0
+STU_203217,CY,linkedin,Data Analytics,2.3,0,0,0,0,0,3.1,0,None,0,0,0,0,0,
+STU_203218,GR,YouTube,Data Analytics,-8.9,1,1,1,0,5,38.8,1,Full Track Program,23,6,0,1,0,1.0
+STU_203219,GR,LI,Analytics Engineering,4.9,0,0,1,0,2,47.2,0,None,0,0,0,0,0,
+STU_203220,US,LinkedIn,Data Analytics,-4.2,0,0,1,1,0,3.0,1,Full Track Program,18,1,2,1,1,1.0
+STU_203221,CY,YouTube,Data Analytics,6.3,1,1,2,0,4,23.7,1,Single Course,16,0,2,0,1,0.0
+STU_203222,GR,YouTube,Power BI,-10.0,0,0,1,0,5,30.5,0,None,0,0,0,0,0,
+STU_203223,GR,LinkedIn,Data Analytics,19.8,0,0,0,0,4,78.6,1,Single Course,8,0,0,0,1,1.0
+STU_203224,GR,LinkedIn,Power BI,-4.5,0,0,0,0,6,13.7,0,None,0,0,0,0,0,
+STU_203225,GR,Newsletter,Data Analytics,6.1,0,0,1,0,4,1.7,0,None,0,0,0,0,0,
+STU_203226,CY,Google,Data Analytics,-12.1,0,0,1,0,5,248.2,0,None,0,0,0,0,0,
+STU_203227,UK,linkedin,Data Analytics,-6.1,0,0,3,0,3,79.9,0,None,0,0,0,0,0,
+STU_203228,GR,LinkedIn,Analytics Engineering,-2.1,0,0,3,0,3,42.6,0,None,0,0,0,0,0,
+STU_203229,CY,LinkedIn,Power BI,6.1,0,0,2,0,3,6.2,0,None,0,0,0,0,0,
+STU_203230,GR,LinkedIn,Analytics Engineering,-0.9,0,0,1,0,2,44.3,0,None,0,0,0,0,0,
+STU_203231,GR,YouTube,Analytics Engineering,-18.9,0,0,3,0,4,2.6,0,None,0,0,0,0,0,
+STU_203232,GR,LI,Analytics Engineering,8.3,0,0,1,0,4,153.2,1,Single Course,10,0,0,0,1,1.0
+STU_203233,GR,LinkedIn,Analytics Engineering,-11.9,1,1,1,0,0,51.5,1,Single Course,2,0,1,1,1,0.0
+STU_203234,GR,YouTube,Power BI,3.5,1,1,1,0,2,5.1,1,Single Course,9,0,2,1,1,0.0
+STU_203235,GR,linkedin,Data Analytics,-22.2,1,1,0,0,5,10.9,0,None,0,0,0,0,0,
+STU_203236,GR,LinkedIn,Power BI,-0.6,0,0,1,0,6,2.2,0,None,0,0,0,0,0,
+STU_203237,CY,LI,Power BI,6.6,0,0,1,0,3,2.4,1,Full Track Program,4,0,0,0,1,0.0
+STU_203238,GR,LinkedIn,Power BI,-3.3,0,0,2,0,6,9.5,0,None,0,0,0,0,0,
+STU_203239,DE,LinkedIn,Data Analytics,-3.8,1,1,0,0,6,11.4,1,Single Course,11,0,0,0,1,1.0
+STU_203240,GR,Google,Data Analytics,5.2,1,1,0,0,5,77.3,0,None,0,0,0,0,0,
+STU_203241,GR,LinkedIn,Data Analytics,1.9,0,0,1,0,2,83.7,0,None,0,0,0,0,0,
+STU_203242,CY,Newsletter,Power BI,-0.4,0,0,3,0,3,47.0,0,None,0,0,0,0,0,
+STU_203243,GR,LinkedIn,Data Analytics,13.0,0,0,0,0,4,21.7,0,None,0,0,0,0,0,
+STU_203244,GR,LI,Data Analytics,-10.0,0,0,0,0,4,142.9,0,None,0,0,0,0,0,
+STU_203245,GR,Referral,Data Analytics,-3.5,0,0,0,0,7,40.1,0,None,0,0,0,0,0,
+STU_203246,CY,LinkedIn,nan,13.0,0,0,0,0,2,42.1,0,None,0,0,0,0,0,
+STU_203247,GR,Newsletter,Data Analytics,-10.1,0,0,0,0,4,25.1,0,None,0,0,0,0,0,
+STU_203248,GR,YouTube,Analytics Engineering,2.6,0,0,0,0,1,69.2,0,None,0,0,0,0,0,
+STU_203249,GR,YouTube,nan,14.6,0,0,2,0,4,20.7,0,None,0,0,0,0,0,
+STU_203250,GR,LinkedIn,Power BI,-1.1,1,1,0,0,5,40.4,1,Single Course,5,0,2,1,1,0.0
+STU_203251,UK,Google,Analytics Engineering,19.1,0,0,1,0,3,4.8,0,None,0,0,0,0,0,
+STU_203252,UK,Newsletter,Data Analytics,-4.1,1,1,0,0,6,59.0,1,Single Course,10,0,1,0,1,0.0
+STU_203253,DE,YouTube,Data Analytics,-33.3,0,0,0,0,4,31.2,0,None,0,0,0,0,0,
+STU_203254,GR,YouTube,Data Analytics,-5.3,1,1,1,1,0,76.8,1,Full Track Program,19,0,1,0,1,1.0
+STU_203255,GR,LinkedIn,Power BI,-3.2,0,0,2,0,4,51.6,0,None,0,0,0,0,0,
+STU_203256,GR,Google,Data Analytics,-16.8,1,1,1,1,3,17.2,1,Full Track Program,11,0,0,1,1,1.0
+STU_203257,GR,YouTube,Analytics Engineering,-3.1,0,0,0,0,5,52.0,0,None,0,0,0,0,0,
+STU_203258,GR,Google,Analytics Engineering,20.8,0,0,2,1,4,82.7,0,None,0,0,0,0,0,
+STU_203259,GR,YouTube,Analytics Engineering,-9.9,0,0,1,0,2,25.1,0,None,0,0,0,0,0,
+STU_203260,GR,YouTube,Analytics Engineering,3.6,0,0,2,1,5,110.6,0,None,0,0,0,0,0,
+STU_203261,UK,YouTube,Data Analytics,-9.6,0,0,1,0,3,25.1,0,None,0,0,0,0,0,
+STU_203262,US,LI,Analytics Engineering,-6.1,0,0,0,0,5,18.5,0,None,0,0,0,0,0,
+STU_203263,GR,linkedin,Analytics Engineering,10.3,0,0,0,0,2,8.3,0,None,0,0,0,0,0,
+STU_203264,GR,LinkedIn,nan,7.6,0,0,3,0,6,84.3,0,None,0,0,0,0,0,
+STU_203265,GR,YouTube,Data Analytics,1.7,0,0,1,0,3,91.0,0,None,0,0,0,0,0,
+STU_203266,GR,Google,Data Analytics,8.3,0,0,0,0,7,16.5,0,None,0,0,0,0,0,
+STU_203267,DE,nan,Analytics Engineering,1.8,0,0,0,0,2,10.0,0,None,0,0,0,0,0,
+STU_203268,GR,LinkedIn,Analytics Engineering,-1.9,1,0,0,0,2,75.9,1,Single Course,18,0,0,0,1,1.0
+STU_203269,GR,LinkedIn,Data Analytics,-8.0,1,1,1,0,3,20.1,1,Single Course,19,0,1,0,1,0.0
+STU_203270,GR,linkedin,Analytics Engineering,-19.9,0,0,0,0,5,53.5,0,None,0,0,0,0,0,
+STU_203271,GR,YouTube,Analytics Engineering,13.2,0,0,1,0,2,69.0,0,None,0,0,0,0,0,
+STU_203272,UK,YouTube,Data Analytics,-18.4,0,0,2,0,4,54.3,0,None,0,0,0,0,0,
+STU_203273,GR,LinkedIn,Data Analytics,-8.0,0,0,0,0,0,16.1,0,None,0,0,0,0,0,
+STU_203274,GR,YouTube,Power BI,-4.0,0,0,1,0,2,109.3,0,None,0,0,0,0,0,
+STU_203275,GR,LinkedIn,Analytics Engineering,-10.5,1,1,0,0,4,6.0,1,Single Course,20,0,2,1,1,0.0
+STU_203276,GR,Newsletter,Analytics Engineering,-9.3,0,0,3,0,2,20.0,0,None,0,0,0,0,0,
+STU_203277,GR,Newsletter,Data Analytics,12.9,0,0,3,0,4,167.7,0,None,0,0,0,0,0,
+STU_203278,GR,Google,Data Analytics,4.9,0,0,3,0,3,46.8,0,None,0,0,0,0,0,
+STU_203279,UK,LinkedIn,Analytics Engineering,-0.7,0,0,0,0,5,103.3,1,Single Course,10,0,0,1,1,1.0
+STU_203280,GR,LI,Power BI,-21.9,0,0,0,0,4,47.1,0,None,0,0,0,0,0,
+STU_203281,GR,LinkedIn,Data Analytics,3.8,0,0,0,0,3,112.5,0,None,0,0,0,0,0,
+STU_203282,GR,Google,Power BI,-5.1,0,0,2,0,0,12.4,0,None,0,0,0,0,0,
+STU_203283,GR,LinkedIn,Analytics Engineering,10.1,0,0,1,0,3,4.5,0,None,0,0,0,0,0,
+STU_203284,GR,YouTube,Analytics Engineering,0.7,1,0,1,0,9,6.7,1,Single Course,22,0,0,0,1,1.0
+STU_203285,GR,LinkedIn,Data Analytics,-31.0,0,0,0,0,4,121.2,0,None,0,0,0,0,0,
+STU_203286,GR,YouTube,nan,8.4,0,0,0,0,6,9.3,0,None,0,0,0,0,0,
+STU_203287,GR,Newsletter,Power BI,9.3,0,0,3,0,5,10.2,0,None,0,0,0,0,0,
+STU_203288,GR,Newsletter,Analytics Engineering,-4.0,0,0,0,0,9,50.1,0,None,0,0,0,0,0,
+STU_203289,GR,YouTube,Data Analytics,-4.0,0,0,2,0,1,85.0,0,None,0,0,0,0,0,
+STU_203290,GR,LinkedIn,Power BI,1.5,0,0,2,0,2,1.7,0,None,0,0,0,0,0,
+STU_203291,GR,Google,Data Analytics,-10.0,0,0,1,0,1,12.4,0,None,0,0,0,0,0,
+STU_203292,GR,LinkedIn,Data Analytics,3.9,0,0,0,0,0,39.9,0,None,0,0,0,0,0,
+STU_203293,GR,LinkedIn,Data Analytics,-0.2,1,1,1,0,5,28.3,1,Full Track Program,11,0,0,1,1,1.0
+STU_203294,GR,linkedin,Data Analytics,4.4,0,0,2,0,5,67.1,0,None,0,0,0,0,0,
+STU_203295,GR,yt,Data Analytics,9.7,0,0,1,0,2,27.9,0,None,0,0,0,0,0,
+STU_203296,GR,YouTube,Analytics Engineering,11.3,0,0,2,0,2,120.7,1,Full Track Program,5,6,1,1,0,1.0
+STU_203297,GR,yt,Analytics Engineering,8.2,0,0,1,0,3,7.5,0,None,0,0,0,0,0,
+STU_203298,GR,YouTube,Data Analytics,0.8,0,0,1,0,5,51.6,0,None,0,0,0,0,0,
+STU_203299,GR,YouTube,Data Analytics,0.7,1,1,2,1,4,64.4,1,Single Course,22,0,0,0,1,1.0
+STU_203300,GR,LinkedIn,nan,11.2,1,1,1,0,3,33.4,1,Full Track Program,11,0,1,0,1,1.0
+STU_203301,CY,LinkedIn,Analytics Engineering,9.0,0,0,3,0,6,31.6,0,None,0,0,0,0,0,
+STU_203302,GR,Newsletter,Analytics Engineering,-11.5,0,0,0,0,4,13.4,0,None,0,0,0,0,0,
+STU_203303,US,YouTube,Power BI,-11.0,0,0,3,0,2,47.3,0,None,0,0,0,0,0,
+STU_203304,GR,YouTube,Analytics Engineering,-17.5,0,0,0,0,4,19.8,0,None,0,0,0,0,0,
+STU_203305,GR,YouTube,Analytics Engineering,-13.7,0,0,0,0,5,3.2,0,None,0,0,0,0,0,
+STU_203306,UK,YouTube,Analytics Engineering,11.5,0,0,1,0,3,245.1,1,Full Track Program,8,1,0,0,1,1.0
+STU_203307,GR,LI,Analytics Engineering,-12.2,0,0,1,0,3,1.7,0,None,0,0,0,0,0,
+STU_203308,GR,YouTube,Analytics Engineering,-2.3,0,0,2,0,3,14.9,1,Full Track Program,19,0,0,1,0,1.0
+STU_203309,GR,linkedin,Power BI,8.9,0,0,2,0,3,43.7,1,Single Course,2,0,0,0,1,0.0
+STU_203310,CY,YouTube,Analytics Engineering,-6.5,0,0,2,0,6,16.6,0,None,0,0,0,0,0,
+STU_203311,GR,Referral,Data Analytics,3.4,0,0,1,1,2,0.2,0,None,0,0,0,0,0,
+STU_203312,UK,Google,Power BI,-13.2,0,0,1,0,4,19.0,0,None,0,0,0,0,0,
+STU_203313,GR,LinkedIn,Analytics Engineering,-5.3,1,1,2,0,6,84.3,1,Single Course,3,0,1,1,1,0.0
+STU_203314,GR,LinkedIn,Analytics Engineering,5.7,0,0,0,0,5,12.7,0,None,0,0,0,0,0,
+STU_203315,GR,Google,nan,-3.9,0,0,0,0,1,8.7,1,Single Course,18,0,2,1,1,0.0
+STU_203316,GR,YouTube,Data Analytics,10.9,0,0,2,0,5,1.8,1,Full Track Program,1,0,1,1,1,1.0
+STU_203317,GR,YouTube,Analytics Engineering,-5.5,0,0,0,0,2,102.3,0,None,0,0,0,0,0,
+STU_203318,GR,linkedin,Analytics Engineering,-8.5,1,1,2,0,0,71.0,1,Single Course,9,0,1,1,1,0.0
+STU_203319,GR,YouTube,Analytics Engineering,-13.6,0,0,3,0,3,14.2,0,None,0,0,0,0,0,
+STU_203320,GR,nan,Data Analytics,-8.3,1,1,1,1,1,9.6,1,Single Course,5,0,0,1,1,1.0
+STU_203321,CY,LinkedIn,Analytics Engineering,6.0,1,0,1,0,4,36.3,0,None,0,0,0,0,0,
+STU_203322,GR,LI,Data Analytics,-7.7,0,0,2,0,2,4.9,0,None,0,0,0,0,0,
+STU_203323,CY,Google,Analytics Engineering,4.6,1,1,1,0,5,78.1,1,Single Course,15,0,1,0,1,0.0
+STU_203324,GR,YouTube,Data Analytics,10.2,0,0,0,0,3,42.1,0,None,0,0,0,0,0,
+STU_203325,GR,linkedin,Power BI,12.8,1,0,0,0,6,25.4,0,None,0,0,0,0,0,
+STU_203326,GR,nan,nan,-4.3,0,0,1,0,1,76.7,0,None,0,0,0,0,0,
+STU_203327,CY,Newsletter,Power BI,7.3,0,0,1,1,5,87.3,1,Full Track Program,19,1,0,0,1,1.0
+STU_203328,UK,LI,Analytics Engineering,-15.8,0,0,2,0,3,26.9,0,None,0,0,0,0,0,
+STU_203329,GR,Google,Data Analytics,-20.1,0,0,0,0,5,3.4,1,Single Course,13,0,0,0,1,1.0
+STU_203330,GR,LinkedIn,nan,-11.0,0,0,0,0,4,28.8,0,None,0,0,0,0,0,
+STU_203331,GR,Google,Data Analytics,7.8,1,0,1,0,1,23.1,1,Full Track Program,22,3,1,1,1,1.0
+STU_203332,GR,LinkedIn,Data Analytics,-4.9,1,0,0,0,5,125.4,0,None,0,0,0,0,0,
+STU_203333,CY,LinkedIn,Power BI,1.9,0,0,0,0,6,32.3,0,None,0,0,0,0,0,
+STU_203334,GR,LinkedIn,Analytics Engineering,0.5,0,0,2,0,3,74.3,0,None,0,0,0,0,0,
+STU_203335,GR,YouTube,Analytics Engineering,13.0,0,0,1,0,3,76.4,0,None,0,0,0,0,0,
+STU_203336,GR,linkedin,Data Analytics,-2.1,1,0,0,0,7,38.8,0,None,0,0,0,0,0,
+STU_203337,GR,LinkedIn,Data Analytics,-10.9,1,1,0,0,1,82.8,1,Single Course,13,0,1,1,1,0.0
+STU_203338,GR,YouTube,Data Analytics,-9.7,1,0,0,0,1,39.5,0,None,0,0,0,0,0,
+STU_203339,GR,linkedin,Power BI,-7.6,0,0,0,0,2,33.8,0,None,0,0,0,0,0,
+STU_203340,GR,LinkedIn,Data Analytics,-16.8,0,0,1,0,3,13.8,1,Single Course,16,0,1,0,1,0.0
+STU_203341,CY,linkedin,Analytics Engineering,-3.4,0,0,0,0,3,30.5,0,None,0,0,0,0,0,
+STU_203342,UK,linkedin,Data Analytics,-9.6,0,0,2,0,8,73.1,1,Single Course,1,0,1,1,1,0.0
+STU_203343,DE,LinkedIn,Analytics Engineering,8.4,0,0,0,0,4,7.9,0,None,0,0,0,0,0,
+STU_203344,GR,linkedin,Analytics Engineering,-6.4,0,0,2,0,6,7.7,0,None,0,0,0,0,0,
+STU_203345,GR,linkedin,Analytics Engineering,3.8,1,1,1,0,2,120.1,1,Single Course,19,0,1,1,1,0.0
+STU_203346,GR,Google,Power BI,-0.3,0,0,1,1,6,47.7,0,None,0,0,0,0,0,
+STU_203347,UK,linkedin,Data Analytics,1.7,1,1,0,0,5,36.2,1,Single Course,15,0,0,0,1,1.0
+STU_203348,UK,yt,Data Analytics,-2.3,0,0,1,0,7,14.4,0,None,0,0,0,0,0,
+STU_203349,GR,YouTube,Data Analytics,6.8,0,0,0,0,2,20.2,0,None,0,0,0,0,0,
+STU_203350,GR,YouTube,nan,-13.8,0,0,0,0,2,11.5,0,None,0,0,0,0,0,
+STU_203351,GR,Google,Data Analytics,4.0,0,1,0,0,3,9.7,1,Full Track Program,9,0,0,1,1,1.0
+STU_203352,GR,YouTube,Power BI,1.6,0,0,0,0,2,60.5,0,None,0,0,0,0,0,
+STU_203353,US,LinkedIn,Analytics Engineering,-1.4,0,0,1,0,8,49.4,0,None,0,0,0,0,0,
+STU_203354,GR,nan,Analytics Engineering,-1.2,0,0,1,0,2,24.9,0,None,0,0,0,0,0,
+STU_203355,DE,YouTube,Power BI,2.2,0,0,0,0,5,69.2,0,None,0,0,0,0,0,
+STU_203356,UK,YouTube,Data Analytics,2.1,0,0,2,0,5,126.5,1,Full Track Program,6,4,0,0,1,1.0
+STU_203357,GR,YouTube,Analytics Engineering,4.9,0,0,1,0,2,4.2,0,None,0,0,0,0,0,
+STU_203358,DE,LinkedIn,Analytics Engineering,-7.0,0,0,2,0,5,21.0,0,None,0,0,0,0,0,
+STU_203359,GR,Referral,Data Analytics,-2.8,1,1,0,0,2,19.9,1,Single Course,2,0,1,0,1,0.0
+STU_203360,GR,LI,Data Analytics,-0.7,0,0,1,0,3,14.3,0,None,0,0,0,0,0,
+STU_203361,GR,YouTube,Data Analytics,12.2,0,0,1,0,3,114.8,0,None,0,0,0,0,0,
+STU_203362,CY,YouTube,Data Analytics,-0.8,1,1,0,0,6,1.6,1,Single Course,14,0,0,1,1,1.0
+STU_203363,UK,LinkedIn,Analytics Engineering,5.3,0,0,1,0,3,13.2,0,None,0,0,0,0,0,
+STU_203364,GR,YouTube,nan,-5.4,0,0,0,0,5,70.7,0,None,0,0,0,0,0,
+STU_203365,GR,Newsletter,Data Analytics,9.8,1,0,2,0,5,27.3,1,Single Course,8,0,1,1,1,0.0
+STU_203366,GR,YouTube,Analytics Engineering,-13.8,0,1,2,0,2,17.4,0,None,0,0,0,0,0,
+STU_203367,GR,YouTube,Data Analytics,-0.4,0,0,0,0,7,136.4,0,None,0,0,0,0,0,
+STU_203368,GR,LinkedIn,Analytics Engineering,-5.9,0,0,0,0,1,91.5,0,None,0,0,0,0,0,
+STU_203369,GR,Google,Power BI,0.8,0,0,0,0,1,38.0,0,None,0,0,0,0,0,
+STU_203370,GR,Google,Data Analytics,-11.1,0,0,0,0,4,19.9,1,Full Track Program,19,0,0,0,1,1.0
+STU_203371,GR,LI,Power BI,-3.5,0,0,1,0,3,14.3,0,None,0,0,0,0,0,
+STU_203372,GR,LinkedIn,Data Analytics,-16.5,0,0,1,0,5,1.7,0,None,0,0,0,0,0,
+STU_203373,GR,LinkedIn,Analytics Engineering,-13.7,0,0,2,1,3,141.5,0,None,0,0,0,0,0,
+STU_203374,CY,YouTube,nan,-2.6,1,1,2,0,1,33.6,1,Single Course,12,0,2,0,1,0.0
+STU_203375,CY,nan,Data Analytics,-7.6,0,0,1,0,4,37.5,0,None,0,0,0,0,0,
+STU_203376,GR,YouTube,Analytics Engineering,2.0,0,0,1,0,4,31.2,0,None,0,0,0,0,0,
+STU_203377,GR,linkedin,Power BI,-5.3,0,0,1,0,6,106.9,0,None,0,0,0,0,0,
+STU_203378,GR,YouTube,Data Analytics,-1.3,0,1,1,0,5,82.7,0,None,0,0,0,0,0,
+STU_203379,CY,YouTube,Analytics Engineering,-24.5,0,1,0,0,7,88.5,1,Single Course,8,0,0,1,1,1.0
+STU_203380,GR,YouTube,Analytics Engineering,-7.8,0,1,1,1,1,3.3,0,None,0,0,0,0,0,
+STU_203381,GR,YouTube,Analytics Engineering,-25.6,0,0,3,0,2,7.4,0,None,0,0,0,0,0,
+STU_203382,UK,yt,Analytics Engineering,0.6,0,0,1,1,5,38.4,0,None,0,0,0,0,0,
+STU_203383,GR,nan,Analytics Engineering,-1.8,1,0,3,0,2,6.5,1,Single Course,19,0,1,1,1,0.0
+STU_203384,CY,linkedin,Analytics Engineering,25.8,0,0,0,0,1,26.9,0,None,0,0,0,0,0,
+STU_203385,GR,LinkedIn,Analytics Engineering,-13.4,0,0,2,0,5,41.8,0,None,0,0,0,0,0,
+STU_203386,GR,yt,Data Analytics,1.3,1,1,0,0,5,10.3,0,None,0,0,0,0,0,
+STU_203387,GR,linkedin,Data Analytics,-10.0,0,0,1,1,4,9.1,1,Single Course,18,0,2,1,1,0.0
+STU_203388,GR,YouTube,Data Analytics,1.0,1,1,0,0,4,62.5,1,Single Course,2,0,2,0,1,0.0
+STU_203389,GR,Newsletter,Data Analytics,9.4,1,0,3,0,4,16.8,1,Single Course,17,0,0,1,1,1.0
+STU_203390,GR,Newsletter,Analytics Engineering,-0.0,1,1,1,0,2,102.7,1,Single Course,15,0,1,1,1,0.0
+STU_203391,CY,LI,Data Analytics,6.8,1,0,1,0,7,6.0,1,Full Track Program,16,1,2,0,1,1.0
+STU_203392,GR,LinkedIn,Power BI,8.6,1,1,0,0,6,63.2,1,Single Course,11,0,0,0,1,1.0
+STU_203393,CY,LinkedIn,Power BI,-14.8,1,1,1,0,9,0.8,1,Single Course,4,0,0,0,1,1.0
+STU_203394,GR,yt,Analytics Engineering,4.2,0,0,2,0,2,55.5,0,None,0,0,0,0,0,
+STU_203395,GR,Referral,Data Analytics,-10.6,0,0,0,0,1,31.7,1,Full Track Program,9,1,1,0,1,1.0
+STU_203396,CY,LinkedIn,Power BI,-9.4,0,0,1,0,5,13.8,0,None,0,0,0,0,0,
+STU_203397,GR,LinkedIn,Data Analytics,4.6,0,0,0,0,5,38.9,0,None,0,0,0,0,0,
+STU_203398,GR,LinkedIn,Analytics Engineering,1.6,0,0,1,0,4,42.1,0,None,0,0,0,0,0,
+STU_203399,GR,LI,Power BI,5.6,0,0,1,1,3,15.5,0,None,0,0,0,0,0,
+STU_203400,GR,Google,Analytics Engineering,2.3,0,0,3,0,4,11.3,0,None,0,0,0,0,0,
+STU_203401,GR,Newsletter,Data Analytics,-10.3,0,0,0,0,5,5.7,0,None,0,0,0,0,0,
+STU_203402,GR,Google,Data Analytics,-4.9,1,0,0,0,4,19.8,0,None,0,0,0,0,0,
+STU_203403,GR,linkedin,Analytics Engineering,-4.1,0,0,2,0,8,5.6,0,None,0,0,0,0,0,
+STU_203404,GR,LI,nan,-6.3,1,1,0,0,5,29.1,0,None,0,0,0,0,0,
+STU_203405,GR,YouTube,Data Analytics,0.2,0,0,1,1,5,116.4,0,None,0,0,0,0,0,
+STU_203406,GR,Google,Data Analytics,-18.7,1,0,1,0,5,10.6,1,Single Course,22,0,2,0,1,0.0
+STU_203407,DE,Google,Power BI,3.9,0,0,1,0,4,142.3,0,None,0,0,0,0,0,
+STU_203408,GR,LinkedIn,Analytics Engineering,5.7,0,0,1,0,5,22.4,0,None,0,0,0,0,0,
+STU_203409,GR,Newsletter,Data Analytics,-15.2,1,0,2,0,2,9.9,0,None,0,0,0,0,0,
+STU_203410,GR,LI,Power BI,9.1,1,1,1,0,4,2.3,1,Single Course,19,0,0,1,1,1.0
+STU_203411,GR,LinkedIn,Data Analytics,-8.2,0,0,1,0,5,76.2,0,None,0,0,0,0,0,
+STU_203412,GR,linkedin,Power BI,0.2,1,1,0,0,3,32.3,1,Single Course,5,0,0,1,1,1.0
+STU_203413,GR,Newsletter,Power BI,2.9,0,0,2,1,8,82.2,0,None,0,0,0,0,0,
+STU_203414,GR,nan,Power BI,4.4,0,0,0,0,0,66.5,0,None,0,0,0,0,0,
+STU_203415,GR,Google,Data Analytics,-5.4,0,0,0,0,1,7.8,0,None,0,0,0,0,0,
+STU_203416,GR,Newsletter,Data Analytics,11.6,0,1,2,0,5,22.7,0,None,0,0,0,0,0,
+STU_203417,DE,LI,Analytics Engineering,4.8,1,0,1,0,1,26.8,0,None,0,0,0,0,0,
+STU_203418,GR,YouTube,Data Analytics,-4.4,1,1,1,0,4,24.6,1,Full Track Program,3,3,1,1,1,1.0
+STU_203419,GR,LinkedIn,Power BI,16.6,0,0,1,0,3,32.2,0,None,0,0,0,0,0,
+STU_203420,GR,YouTube,Power BI,27.4,0,0,1,1,3,5.3,0,None,0,0,0,0,0,
+STU_203421,GR,linkedin,Data Analytics,-11.3,0,0,2,0,7,19.1,0,None,0,0,0,0,0,
+STU_203422,GR,yt,Data Analytics,12.3,1,1,1,0,1,17.4,1,Full Track Program,15,1,0,1,1,1.0
+STU_203423,US,yt,Data Analytics,-2.8,0,0,0,0,3,237.8,0,None,0,0,0,0,0,
+STU_203424,UK,Google,Analytics Engineering,0.0,0,0,2,0,4,80.8,0,None,0,0,0,0,0,
+STU_203425,GR,LinkedIn,Power BI,-6.7,0,0,0,0,3,23.0,0,None,0,0,0,0,0,
+STU_203426,GR,linkedin,Analytics Engineering,-0.4,0,0,2,0,7,51.1,0,None,0,0,0,0,0,
+STU_203427,GR,LinkedIn,Data Analytics,2.0,0,0,1,0,7,10.5,0,None,0,0,0,0,0,
+STU_203428,GR,yt,Analytics Engineering,-3.0,0,0,0,0,1,16.2,0,None,0,0,0,0,0,
+STU_203429,GR,LinkedIn,Analytics Engineering,3.0,0,0,1,0,5,105.1,0,None,0,0,0,0,0,
+STU_203430,GR,LinkedIn,Analytics Engineering,-38.0,1,0,0,0,5,12.2,1,Single Course,18,0,1,0,1,0.0
+STU_203431,GR,LinkedIn,Data Analytics,-4.5,0,0,0,0,2,58.9,0,None,0,0,0,0,0,
+STU_203432,GR,YouTube,Power BI,1.8,0,0,3,1,4,0.8,0,None,0,0,0,0,0,
+STU_203433,GR,YouTube,Analytics Engineering,-7.8,0,0,0,0,4,43.9,0,None,0,0,0,0,0,
+STU_203434,CY,YouTube,Analytics Engineering,-8.2,0,0,0,0,3,130.3,1,Single Course,2,0,0,0,1,0.0
+STU_203435,GR,YouTube,Data Analytics,12.0,0,1,0,0,5,54.9,1,Single Course,20,0,1,0,1,0.0
+STU_203436,US,LI,Data Analytics,5.9,0,0,0,0,8,32.8,0,None,0,0,0,0,0,
+STU_203437,GR,linkedin,Power BI,-11.7,0,0,1,0,5,121.2,0,None,0,0,0,0,0,
+STU_203438,GR,YouTube,Power BI,10.1,0,0,0,0,4,14.8,0,None,0,0,0,0,0,
+STU_203439,GR,YouTube,Data Analytics,-14.7,0,0,0,0,2,31.0,0,None,0,0,0,0,0,
+STU_203440,GR,LinkedIn,Data Analytics,12.6,0,0,0,0,2,3.9,0,None,0,0,0,0,0,
+STU_203441,GR,yt,Analytics Engineering,-3.2,1,1,0,0,2,9.6,1,Full Track Program,14,0,0,1,1,1.0
+STU_203442,CY,linkedin,Data Analytics,-13.1,0,0,1,0,4,9.7,0,None,0,0,0,0,0,
+STU_203443,GR,LinkedIn,Analytics Engineering,7.4,0,0,1,0,4,16.6,0,None,0,0,0,0,0,
+STU_203444,GR,LinkedIn,Analytics Engineering,-3.3,0,0,2,1,5,8.7,0,None,0,0,0,0,0,
+STU_203445,GR,LinkedIn,Data Analytics,-4.5,0,0,0,0,3,50.4,0,None,0,0,0,0,0,
+STU_203446,GR,linkedin,Data Analytics,4.9,0,0,0,0,3,2.7,0,None,0,0,0,0,0,
+STU_203447,UK,yt,Power BI,-1.3,1,1,2,0,5,34.2,1,Single Course,2,0,0,0,1,0.0
+STU_203448,GR,LinkedIn,nan,-4.4,1,1,1,1,7,39.1,0,None,0,0,0,0,0,
+STU_203449,GR,YouTube,Analytics Engineering,-6.8,0,0,2,0,1,49.4,0,None,0,0,0,0,0,
+STU_203450,GR,LinkedIn,Analytics Engineering,-2.0,0,0,1,0,4,62.7,0,None,0,0,0,0,0,
+STU_203451,US,linkedin,Power BI,6.0,0,0,1,0,2,7.4,0,None,0,0,0,0,0,
+STU_203452,UK,YouTube,Data Analytics,-16.8,0,0,1,0,7,42.1,0,None,0,0,0,0,0,
+STU_203453,GR,LI,Analytics Engineering,1.9,0,0,1,0,6,10.3,0,None,0,0,0,0,0,
+STU_203454,GR,YouTube,Power BI,4.4,1,0,0,0,4,7.6,0,None,0,0,0,0,0,
+STU_203455,GR,YouTube,Analytics Engineering,-26.7,0,0,0,0,3,41.5,0,None,0,0,0,0,0,
+STU_203456,GR,linkedin,Analytics Engineering,-0.4,1,0,2,0,5,185.9,1,Single Course,11,0,1,0,1,0.0
+STU_203457,GR,Google,Power BI,17.5,0,0,1,0,5,12.0,0,None,0,0,0,0,0,
+STU_203458,GR,LinkedIn,Data Analytics,-9.9,0,0,2,0,4,13.1,0,None,0,0,0,0,0,
+STU_203459,GR,YouTube,Analytics Engineering,-5.7,0,0,1,0,2,20.1,0,None,0,0,0,0,0,
+STU_203460,GR,Newsletter,Power BI,9.8,0,0,2,0,6,51.8,0,None,0,0,0,0,0,
+STU_203461,GR,linkedin,Data Analytics,3.6,0,0,2,0,0,7.9,1,Single Course,10,0,0,1,1,1.0
+STU_203462,GR,Newsletter,Analytics Engineering,-0.2,0,0,1,0,3,5.5,0,None,0,0,0,0,0,
+STU_203463,GR,YouTube,Analytics Engineering,-4.7,1,1,0,0,3,20.9,1,Single Course,1,0,0,0,1,0.0
+STU_203464,GR,YouTube,Analytics Engineering,3.2,0,0,1,0,3,158.7,0,None,0,0,0,0,0,
+STU_203465,GR,YouTube,Power BI,-21.4,0,0,1,0,4,24.4,0,None,0,0,0,0,0,
+STU_203466,GR,Google,Analytics Engineering,13.6,0,0,0,0,5,78.2,0,None,0,0,0,0,0,
+STU_203467,DE,YouTube,Data Analytics,-14.9,0,1,1,0,4,5.0,0,None,0,0,0,0,0,
+STU_203468,GR,LinkedIn,Data Analytics,-20.0,0,0,0,0,5,19.2,0,None,0,0,0,0,0,
+STU_203469,GR,LinkedIn,Data Analytics,-19.1,1,0,1,0,9,48.6,1,Single Course,20,0,1,0,1,0.0
+STU_203470,GR,linkedin,Data Analytics,-14.3,1,1,0,0,4,53.6,1,Full Track Program,21,3,0,0,1,1.0
+STU_203471,GR,Referral,Analytics Engineering,-3.1,1,1,1,0,1,22.9,1,Full Track Program,21,0,0,1,1,1.0
+STU_203472,UK,Newsletter,Data Analytics,4.6,1,1,1,0,4,30.5,1,Full Track Program,18,1,2,1,1,1.0
+STU_203473,GR,linkedin,Data Analytics,-6.9,0,0,0,0,3,34.6,0,None,0,0,0,0,0,
+STU_203474,GR,LinkedIn,Data Analytics,-17.1,0,0,0,0,3,1.3,0,None,0,0,0,0,0,
+STU_203475,GR,LinkedIn,Analytics Engineering,2.6,0,0,0,0,6,13.8,0,None,0,0,0,0,0,
+STU_203476,GR,Newsletter,Analytics Engineering,-17.4,0,0,2,0,7,24.6,0,None,0,0,0,0,0,
+STU_203477,GR,Referral,Data Analytics,1.3,0,0,1,0,6,25.8,0,None,0,0,0,0,0,
+STU_203478,GR,YouTube,Data Analytics,-9.4,0,0,1,0,3,16.3,0,None,0,0,0,0,0,
+STU_203479,GR,linkedin,Power BI,-1.8,0,0,1,0,2,21.3,0,None,0,0,0,0,0,
+STU_203480,GR,LinkedIn,Power BI,-4.9,0,0,0,0,2,11.5,0,None,0,0,0,0,0,
+STU_203481,GR,linkedin,Power BI,-8.5,1,0,1,0,8,71.0,0,None,0,0,0,0,0,
+STU_203482,GR,LinkedIn,Analytics Engineering,15.2,0,0,1,0,4,11.4,0,None,0,0,0,0,0,
+STU_203483,DE,Google,Data Analytics,3.2,0,0,0,0,5,60.4,0,None,0,0,0,0,0,
+STU_203484,GR,nan,Analytics Engineering,4.8,1,1,0,0,6,9.5,1,Single Course,22,0,1,1,1,0.0
+STU_203485,GR,linkedin,Analytics Engineering,-4.3,0,0,0,0,4,14.9,0,None,0,0,0,0,0,
+STU_203486,GR,YouTube,Data Analytics,6.1,0,0,0,0,3,31.3,0,None,0,0,0,0,0,
+STU_203487,GR,Google,Analytics Engineering,1.3,0,0,0,0,4,3.6,0,None,0,0,0,0,0,
+STU_203488,CY,LinkedIn,Analytics Engineering,-14.6,0,0,0,0,4,4.2,0,None,0,0,0,0,0,
+STU_203489,CY,linkedin,Data Analytics,0.3,0,1,0,0,5,81.8,0,None,0,0,0,0,0,
+STU_203490,GR,Google,Analytics Engineering,6.8,0,0,3,0,1,31.0,0,None,0,0,0,0,0,
+STU_203491,GR,YouTube,Power BI,-10.0,0,0,0,0,5,66.6,0,None,0,0,0,0,0,
+STU_203492,GR,LinkedIn,nan,-2.2,1,1,0,0,5,24.2,1,Single Course,4,0,1,0,1,0.0
+STU_203493,GR,nan,Data Analytics,8.3,0,0,2,1,6,8.5,0,None,0,0,0,0,0,
+STU_203494,DE,Newsletter,Analytics Engineering,-6.9,0,0,2,0,3,58.9,0,None,0,0,0,0,0,
+STU_203495,GR,YouTube,Data Analytics,13.8,0,0,1,0,10,15.1,0,None,0,0,0,0,0,
+STU_203496,GR,linkedin,Analytics Engineering,-7.8,0,0,0,0,3,0.6,0,None,0,0,0,0,0,
+STU_203497,GR,yt,Power BI,-3.8,0,0,3,0,2,21.3,0,None,0,0,0,0,0,
+STU_203498,GR,LinkedIn,Analytics Engineering,-8.7,0,0,1,1,2,101.0,0,None,0,0,0,0,0,
+STU_203499,UK,YouTube,Analytics Engineering,27.2,0,0,0,0,4,24.9,0,None,0,0,0,0,0,
+STU_203500,GR,yt,Power BI,-12.9,0,0,2,1,9,29.7,0,None,0,0,0,0,0,
+STU_203501,GR,YouTube,Data Analytics,-0.7,1,0,1,0,2,152.3,1,Full Track Program,18,0,4,1,1,1.0
+STU_203502,GR,LinkedIn,Analytics Engineering,1.6,0,0,0,0,3,27.7,0,None,0,0,0,0,0,
+STU_203503,GR,LinkedIn,nan,2.9,0,0,2,0,6,16.3,0,None,0,0,0,0,0,
+STU_203504,CY,linkedin,Data Analytics,-9.0,0,0,0,0,5,63.7,0,None,0,0,0,0,0,
+STU_203505,GR,yt,Data Analytics,9.5,0,0,0,0,4,65.8,0,None,0,0,0,0,0,
+STU_203506,CY,YouTube,Analytics Engineering,9.1,0,0,0,0,4,14.0,0,None,0,0,0,0,0,
+STU_203507,GR,Newsletter,nan,-9.5,0,0,0,0,4,42.6,0,None,0,0,0,0,0,
+STU_203508,DE,yt,Data Analytics,0.4,0,0,2,1,3,20.9,0,None,0,0,0,0,0,
+STU_203509,GR,Google,Analytics Engineering,3.2,0,0,1,0,7,65.7,0,None,0,0,0,0,0,
+STU_203510,GR,nan,Analytics Engineering,-10.6,1,1,0,0,5,73.5,1,Single Course,19,0,2,0,1,0.0
+STU_203511,GR,linkedin,Analytics Engineering,0.1,0,1,0,0,1,13.7,0,None,0,0,0,0,0,
+STU_203512,GR,YouTube,Data Analytics,-9.2,0,0,1,0,3,3.7,0,None,0,0,0,0,0,
+STU_203513,GR,YouTube,Data Analytics,-10.1,1,1,1,0,5,139.8,1,Single Course,1,0,0,0,1,0.0
+STU_203514,CY,LinkedIn,Data Analytics,-9.5,0,0,0,0,6,30.0,0,None,0,0,0,0,0,
+STU_203515,DE,linkedin,Analytics Engineering,5.7,0,0,0,0,3,23.2,1,Single Course,12,0,0,0,1,1.0
+STU_203516,GR,YouTube,nan,5.8,0,1,0,0,2,30.1,1,Single Course,6,0,1,0,1,0.0
+STU_203517,GR,LinkedIn,Data Analytics,12.8,1,1,1,0,4,6.3,1,Single Course,18,0,0,0,1,1.0
+STU_203518,CY,linkedin,Analytics Engineering,0.7,0,0,2,0,1,38.1,0,None,0,0,0,0,0,
+STU_203519,GR,Newsletter,Data Analytics,-1.2,0,1,2,0,7,2.7,1,Single Course,6,0,1,0,1,0.0
+STU_203520,GR,yt,Power BI,-5.7,0,0,2,0,7,12.1,0,None,0,0,0,0,0,
+STU_203521,CY,YouTube,Data Analytics,6.6,1,0,1,0,5,94.2,1,Single Course,21,0,1,0,1,0.0
+STU_203522,GR,Google,Power BI,-11.0,0,0,1,1,5,26.6,1,Single Course,14,0,1,0,1,0.0
+STU_203523,GR,Newsletter,Power BI,3.1,0,0,1,0,12,37.0,0,None,0,0,0,0,0,
+STU_203524,CY,YouTube,Analytics Engineering,-6.0,0,0,1,0,7,10.5,0,None,0,0,0,0,0,
+STU_203525,GR,Google,Data Analytics,-23.1,1,1,3,0,1,54.2,1,Full Track Program,7,1,1,1,1,1.0
+STU_203526,CY,LinkedIn,Power BI,9.9,0,0,1,0,5,131.0,0,None,0,0,0,0,0,
+STU_203527,CY,Google,Power BI,11.3,0,0,2,0,3,102.5,0,None,0,0,0,0,0,
+STU_203528,GR,LI,Analytics Engineering,13.1,0,0,1,0,2,38.0,0,None,0,0,0,0,0,
+STU_203529,GR,nan,Power BI,-2.5,1,1,0,0,3,51.6,1,Single Course,11,0,0,1,1,1.0
+STU_203530,CY,LinkedIn,Power BI,-3.2,0,0,1,0,9,14.8,0,None,0,0,0,0,0,
+STU_203531,GR,Google,Power BI,16.6,0,0,0,0,5,9.9,0,None,0,0,0,0,0,
+STU_203532,CY,LinkedIn,Power BI,-6.5,0,0,2,1,6,7.6,0,None,0,0,0,0,0,
+STU_203533,GR,YouTube,Data Analytics,-9.5,0,0,2,0,4,0.9,0,None,0,0,0,0,0,
+STU_203534,CY,LI,Data Analytics,-1.4,0,0,1,0,1,11.4,0,None,0,0,0,0,0,
+STU_203535,GR,LinkedIn,Data Analytics,-8.3,1,0,3,0,3,19.2,0,None,0,0,0,0,0,
+STU_203536,GR,YouTube,Data Analytics,-0.6,0,0,1,0,4,78.7,0,None,0,0,0,0,0,
+STU_203537,GR,YouTube,nan,-15.9,0,0,1,0,5,49.2,0,None,0,0,0,0,0,
+STU_203538,GR,linkedin,Data Analytics,-8.4,1,0,0,0,1,68.2,1,Single Course,13,0,2,0,1,0.0
+STU_203539,GR,YouTube,Power BI,4.7,0,0,0,0,2,15.3,0,None,0,0,0,0,0,
+STU_203540,GR,YouTube,Data Analytics,0.8,0,0,1,0,7,80.6,1,Single Course,16,0,1,0,1,0.0
+STU_203541,GR,Referral,Analytics Engineering,-9.6,1,1,1,0,3,13.5,1,Single Course,6,0,1,0,1,0.0
+STU_203542,CY,LinkedIn,Data Analytics,-2.1,0,0,1,0,2,0.0,0,None,0,0,0,0,0,
+STU_203543,DE,YouTube,Power BI,-2.7,0,0,2,0,6,4.8,0,None,0,0,0,0,0,
+STU_203544,GR,linkedin,Data Analytics,-2.3,0,0,0,0,6,17.1,0,None,0,0,0,0,0,
+STU_203545,GR,LinkedIn,Analytics Engineering,-8.2,1,0,3,0,4,1.1,0,None,0,0,0,0,0,
+STU_203546,GR,LI,Data Analytics,5.0,0,0,2,0,3,41.2,1,Single Course,6,0,2,0,1,0.0
+STU_203547,DE,linkedin,Data Analytics,-0.9,0,0,1,1,5,99.9,0,None,0,0,0,0,0,
+STU_203548,UK,YouTube,Analytics Engineering,7.4,0,0,1,0,5,77.5,0,None,0,0,0,0,0,
+STU_203549,GR,linkedin,Data Analytics,1.8,0,0,1,1,7,141.1,0,None,0,0,0,0,0,
+STU_203550,DE,YouTube,Analytics Engineering,5.0,0,0,1,0,3,34.6,1,Single Course,7,0,0,0,1,1.0
+STU_203551,GR,LinkedIn,Analytics Engineering,6.6,0,0,0,0,7,98.1,0,None,0,0,0,0,0,
+STU_203552,GR,LinkedIn,Data Analytics,3.4,0,0,0,0,5,143.7,1,Single Course,1,0,2,0,1,0.0
+STU_203553,UK,Google,Data Analytics,11.6,0,0,0,0,3,32.5,0,None,0,0,0,0,0,
+STU_203554,GR,LI,Analytics Engineering,8.6,0,0,2,1,4,10.8,1,Single Course,11,0,0,1,1,1.0
+STU_203555,GR,LinkedIn,Analytics Engineering,1.4,1,1,0,0,6,142.5,0,None,0,0,0,0,0,
+STU_203556,GR,YouTube,Analytics Engineering,-4.7,0,0,1,0,7,30.0,0,None,0,0,0,0,0,
+STU_203557,CY,Newsletter,Analytics Engineering,-15.8,0,0,1,0,6,6.9,0,None,0,0,0,0,0,
+STU_203558,GR,nan,Data Analytics,4.8,1,0,0,0,3,86.8,0,None,0,0,0,0,0,
+STU_203559,GR,LinkedIn,Analytics Engineering,1.2,0,0,2,0,5,168.4,0,None,0,0,0,0,0,
+STU_203560,GR,LinkedIn,Data Analytics,27.4,0,0,3,0,6,36.3,0,None,0,0,0,0,0,
+STU_203561,GR,LinkedIn,nan,-1.8,0,0,3,0,6,196.8,0,None,0,0,0,0,0,
+STU_203562,CY,YouTube,Analytics Engineering,-8.1,0,0,0,0,2,36.9,0,None,0,0,0,0,0,
+STU_203563,GR,LI,Data Analytics,-12.2,0,0,1,0,6,21.5,0,None,0,0,0,0,0,
+STU_203564,GR,linkedin,Power BI,-14.6,0,0,0,0,5,22.5,1,Single Course,18,0,1,0,1,0.0
+STU_203565,GR,Referral,Data Analytics,-17.9,0,1,0,0,5,34.8,1,Single Course,3,0,1,0,1,0.0
+STU_203566,GR,YouTube,Data Analytics,4.6,0,0,1,0,6,76.1,0,None,0,0,0,0,0,
+STU_203567,GR,Google,nan,-9.9,0,0,1,0,1,86.0,0,None,0,0,0,0,0,
+STU_203568,UK,Referral,Analytics Engineering,7.8,0,0,2,0,6,26.3,0,None,0,0,0,0,0,
+STU_203569,GR,LinkedIn,Data Analytics,3.3,0,0,0,0,8,3.6,0,None,0,0,0,0,0,
+STU_203570,GR,linkedin,Power BI,-2.2,0,0,1,0,5,113.5,0,None,0,0,0,0,0,
+STU_203571,US,YouTube,Analytics Engineering,-12.9,0,0,0,0,4,162.6,0,None,0,0,0,0,0,
+STU_203572,GR,Newsletter,Data Analytics,0.9,0,0,0,0,5,33.0,0,None,0,0,0,0,0,
+STU_203573,UK,LI,Analytics Engineering,-2.7,0,0,1,1,4,112.5,1,Full Track Program,15,0,0,0,1,1.0
+STU_203574,GR,Google,Analytics Engineering,-9.1,0,0,1,1,4,73.1,0,None,0,0,0,0,0,
+STU_203575,DE,LinkedIn,Data Analytics,-22.4,0,0,0,0,2,24.8,0,None,0,0,0,0,0,
+STU_203576,GR,Referral,Data Analytics,7.8,0,0,2,0,2,140.5,0,None,0,0,0,0,0,
+STU_203577,GR,LinkedIn,Data Analytics,-11.8,0,0,2,1,0,29.0,0,None,0,0,0,0,0,
+STU_203578,GR,LinkedIn,Analytics Engineering,-3.0,1,0,2,0,3,20.4,1,Full Track Program,18,3,2,1,0,0.0
+STU_203579,UK,yt,Analytics Engineering,-7.5,0,0,1,0,1,12.5,0,None,0,0,0,0,0,
+STU_203580,GR,Google,Data Analytics,-8.5,1,0,1,0,3,49.2,1,Single Course,21,0,0,0,1,1.0
+STU_203581,GR,Google,Analytics Engineering,5.1,1,1,1,1,0,42.2,1,Single Course,13,0,0,0,1,1.0
+STU_203582,GR,linkedin,Data Analytics,7.5,0,0,3,1,1,13.4,0,None,0,0,0,0,0,
+STU_203583,DE,linkedin,Analytics Engineering,-13.6,0,0,0,0,5,2.2,0,None,0,0,0,0,0,
+STU_203584,GR,linkedin,Data Analytics,-14.8,0,0,2,0,5,30.6,0,None,0,0,0,0,0,
+STU_203585,GR,LinkedIn,Data Analytics,22.6,0,0,0,0,2,16.2,1,Single Course,2,0,1,0,1,0.0
+STU_203586,GR,Newsletter,Analytics Engineering,-2.5,0,0,0,0,4,120.9,0,None,0,0,0,0,0,
+STU_203587,GR,Newsletter,Power BI,-16.6,0,0,2,0,2,33.7,1,Single Course,11,0,1,1,1,0.0
+STU_203588,GR,LinkedIn,Data Analytics,10.3,0,0,3,0,3,34.5,1,Single Course,16,0,2,0,1,0.0
+STU_203589,GR,Google,Analytics Engineering,-23.0,0,0,1,0,8,105.2,0,None,0,0,0,0,0,
+STU_203590,GR,linkedin,Analytics Engineering,2.1,0,0,2,0,0,5.3,0,None,0,0,0,0,0,
+STU_203591,GR,LI,Data Analytics,-15.4,0,0,0,0,1,60.9,0,None,0,0,0,0,0,
+STU_203592,GR,LI,Analytics Engineering,10.6,0,0,1,0,2,82.6,1,Single Course,4,0,2,0,1,0.0
+STU_203593,GR,LinkedIn,Analytics Engineering,-3.6,0,0,2,1,5,24.4,1,Single Course,22,0,0,1,1,1.0
+STU_203594,GR,LinkedIn,Analytics Engineering,-18.8,0,0,1,0,1,2.8,0,None,0,0,0,0,0,
+STU_203595,GR,Newsletter,Analytics Engineering,-5.5,1,1,2,0,5,15.5,1,Single Course,23,0,1,0,1,0.0
+STU_203596,GR,LI,Data Analytics,-10.1,0,0,1,0,3,68.6,0,None,0,0,0,0,0,
+STU_203597,GR,linkedin,Analytics Engineering,-1.1,0,0,2,1,5,4.7,1,Full Track Program,19,0,0,1,1,1.0
+STU_203598,GR,YouTube,Analytics Engineering,-9.7,0,0,2,1,2,18.6,0,None,0,0,0,0,0,
+STU_203599,GR,LI,Power BI,-1.3,0,0,0,0,4,27.7,0,None,0,0,0,0,0,
+STU_203600,GR,yt,Data Analytics,15.1,0,0,1,0,0,10.4,0,None,0,0,0,0,0,
+STU_203601,GR,linkedin,Data Analytics,-19.1,0,0,0,0,6,21.4,0,None,0,0,0,0,0,
+STU_203602,GR,LI,Analytics Engineering,-4.1,0,0,1,1,3,46.0,1,Single Course,14,0,0,1,1,1.0
+STU_203603,US,Google,Analytics Engineering,-15.6,0,0,0,0,2,196.3,0,None,0,0,0,0,0,
+STU_203604,DE,LinkedIn,Power BI,-6.7,0,0,0,0,6,8.2,0,None,0,0,0,0,0,
+STU_203605,CY,LinkedIn,nan,6.3,0,0,1,1,6,198.5,0,None,0,0,0,0,0,
+STU_203606,CY,LinkedIn,Power BI,-6.2,0,0,3,0,4,64.3,0,None,0,0,0,0,0,
+STU_203607,GR,LinkedIn,Data Analytics,2.7,1,1,2,1,3,25.0,1,Full Track Program,16,0,2,1,0,1.0
+STU_203608,GR,Google,Data Analytics,0.7,1,0,1,0,0,11.4,1,Full Track Program,7,0,0,1,0,1.0
+STU_203609,GR,YouTube,Data Analytics,-2.8,0,0,1,0,2,40.1,0,None,0,0,0,0,0,
+STU_203610,GR,LI,Data Analytics,2.6,0,0,1,0,5,3.7,0,None,0,0,0,0,0,
+STU_203611,GR,LinkedIn,Data Analytics,0.7,0,0,1,1,6,0.9,0,None,0,0,0,0,0,
+STU_203612,GR,LinkedIn,Analytics Engineering,10.1,0,0,0,0,5,12.6,0,None,0,0,0,0,0,
+STU_203613,GR,Google,Analytics Engineering,1.8,0,0,0,0,6,28.4,0,None,0,0,0,0,0,
+STU_203614,GR,LinkedIn,Analytics Engineering,-10.4,0,0,1,0,6,65.0,0,None,0,0,0,0,0,
+STU_203615,GR,linkedin,Data Analytics,2.5,1,1,1,0,9,52.4,1,Single Course,3,0,1,0,1,0.0
+STU_203616,GR,LinkedIn,nan,-7.0,0,0,0,0,4,190.1,0,None,0,0,0,0,0,
+STU_203617,GR,linkedin,Data Analytics,2.7,0,0,1,0,9,104.8,0,None,0,0,0,0,0,
+STU_203618,UK,LI,Data Analytics,24.0,0,0,2,0,1,12.7,0,None,0,0,0,0,0,
+STU_203619,GR,nan,Power BI,4.5,0,0,0,0,5,22.1,0,None,0,0,0,0,0,
+STU_203620,GR,LinkedIn,Analytics Engineering,-7.2,0,0,0,0,0,0.2,0,None,0,0,0,0,0,
+STU_203621,UK,linkedin,Data Analytics,-10.6,0,0,0,0,5,78.0,0,None,0,0,0,0,0,
+STU_203622,GR,LinkedIn,Power BI,-6.4,1,1,2,1,5,4.8,1,Full Track Program,3,0,0,0,1,1.0
+STU_203623,GR,linkedin,Data Analytics,-5.9,0,0,1,0,5,18.7,0,None,0,0,0,0,0,
+STU_203624,CY,LinkedIn,Data Analytics,2.2,0,0,0,0,5,19.5,0,None,0,0,0,0,0,
+STU_203625,GR,Newsletter,Data Analytics,-16.5,1,0,2,0,3,44.4,0,None,0,0,0,0,0,
+STU_203626,GR,LinkedIn,Power BI,-3.0,1,0,2,0,6,86.9,0,None,0,0,0,0,0,
+STU_203627,GR,Google,Power BI,-27.7,1,0,0,0,2,0.8,1,Single Course,4,0,1,0,1,0.0
+STU_203628,GR,yt,Analytics Engineering,14.3,0,0,2,0,1,32.5,0,None,0,0,0,0,0,
+STU_203629,GR,Google,Power BI,2.2,0,1,2,0,2,67.2,1,Single Course,11,0,0,0,1,1.0
+STU_203630,GR,LinkedIn,Data Analytics,-13.7,0,0,0,0,6,62.5,0,None,0,0,0,0,0,
+STU_203631,DE,LinkedIn,Analytics Engineering,-8.6,0,0,3,0,8,16.8,0,None,0,0,0,0,0,
+STU_203632,GR,yt,Analytics Engineering,11.1,1,1,0,0,8,29.6,1,Single Course,7,0,0,0,1,1.0
+STU_203633,GR,LinkedIn,Analytics Engineering,1.3,0,0,1,0,3,55.0,0,None,0,0,0,0,0,
+STU_203634,GR,Google,Data Analytics,-12.4,0,0,0,0,1,6.6,0,None,0,0,0,0,0,
+STU_203635,US,linkedin,Data Analytics,7.6,1,0,1,1,4,84.2,1,Full Track Program,18,0,2,1,0,1.0
+STU_203636,CY,linkedin,Power BI,14.8,0,0,1,0,5,23.6,0,None,0,0,0,0,0,
+STU_203637,GR,YouTube,Power BI,11.1,0,0,0,0,3,3.2,0,None,0,0,0,0,0,
+STU_203638,GR,Newsletter,Analytics Engineering,-8.4,0,0,2,0,2,9.1,1,Single Course,6,0,0,0,1,1.0
+STU_203639,GR,YouTube,Analytics Engineering,-15.0,0,0,1,0,6,22.2,0,None,0,0,0,0,0,
+STU_203640,GR,Google,Power BI,-15.7,1,1,1,0,3,17.1,1,Single Course,8,0,0,1,1,1.0
+STU_203641,DE,Google,Analytics Engineering,6.2,0,0,0,0,4,3.7,0,None,0,0,0,0,0,
+STU_203642,US,YouTube,Analytics Engineering,-6.2,0,0,0,0,9,79.5,0,None,0,0,0,0,0,
+STU_203643,CY,YouTube,Analytics Engineering,0.3,1,1,2,0,5,13.6,1,Single Course,18,0,1,0,1,0.0
+STU_203644,UK,LI,Data Analytics,-5.8,0,0,2,1,1,8.5,0,None,0,0,0,0,0,
+STU_203645,DE,linkedin,Analytics Engineering,6.6,0,0,1,0,2,46.6,1,Single Course,9,0,2,0,1,0.0
+STU_203646,UK,LI,Power BI,-16.5,0,0,0,0,1,42.3,0,None,0,0,0,0,0,
+STU_203647,GR,LI,Data Analytics,-3.4,0,0,1,0,2,108.0,0,None,0,0,0,0,0,
+STU_203648,GR,linkedin,Data Analytics,2.0,0,0,1,1,5,132.2,0,None,0,0,0,0,0,
+STU_203649,GR,YouTube,Analytics Engineering,-9.0,0,0,0,0,4,0.8,0,None,0,0,0,0,0,
+STU_203650,GR,YouTube,Data Analytics,-16.5,0,0,2,1,4,11.3,0,None,0,0,0,0,0,
+STU_203651,GR,LinkedIn,Data Analytics,-9.1,0,0,3,0,5,32.5,0,None,0,0,0,0,0,
+STU_203652,GR,LI,Power BI,-14.0,0,0,0,0,1,50.3,0,None,0,0,0,0,0,
+STU_203653,GR,YouTube,Power BI,-9.4,0,0,0,0,2,8.7,0,None,0,0,0,0,0,
+STU_203654,GR,YouTube,nan,-22.0,0,0,1,1,5,43.6,0,None,0,0,0,0,0,
+STU_203655,GR,Newsletter,Data Analytics,3.1,0,0,1,0,5,17.4,0,None,0,0,0,0,0,
+STU_203656,CY,LinkedIn,Data Analytics,-3.5,0,0,0,0,2,241.8,0,None,0,0,0,0,0,
+STU_203657,GR,nan,Data Analytics,-11.4,1,1,1,0,6,183.9,1,Single Course,10,0,1,1,1,0.0
+STU_203658,GR,LinkedIn,Data Analytics,0.8,0,0,0,0,5,20.5,0,None,0,0,0,0,0,
+STU_203659,GR,linkedin,Analytics Engineering,4.7,0,0,0,0,10,2.9,0,None,0,0,0,0,0,
+STU_203660,GR,LinkedIn,Analytics Engineering,-9.7,0,0,1,0,5,15.6,0,None,0,0,0,0,0,
+STU_203661,GR,LinkedIn,Analytics Engineering,-3.5,0,0,0,0,4,144.2,0,None,0,0,0,0,0,
+STU_203662,GR,linkedin,Analytics Engineering,-1.4,1,1,1,0,6,57.1,1,Single Course,2,0,1,0,1,0.0
+STU_203663,GR,LinkedIn,Data Analytics,14.4,0,0,0,0,1,52.4,0,None,0,0,0,0,0,
+STU_203664,GR,linkedin,Analytics Engineering,-5.9,0,0,2,0,3,38.3,0,None,0,0,0,0,0,
+STU_203665,GR,LinkedIn,Analytics Engineering,-12.0,0,0,1,0,0,12.9,1,Single Course,6,0,1,1,1,0.0
+STU_203666,DE,LinkedIn,Analytics Engineering,0.2,0,0,0,0,2,56.7,0,None,0,0,0,0,0,
+STU_203667,GR,nan,Analytics Engineering,-16.4,0,0,0,0,2,3.0,0,None,0,0,0,0,0,
+STU_203668,GR,YouTube,Data Analytics,8.7,1,0,0,0,2,3.9,1,Single Course,3,0,1,0,1,0.0
+STU_203669,US,LinkedIn,Analytics Engineering,-15.7,0,0,0,0,3,198.0,0,None,0,0,0,0,0,
+STU_203670,UK,YouTube,Data Analytics,-13.8,0,0,0,0,2,105.0,0,None,0,0,0,0,0,
+STU_203671,CY,linkedin,Analytics Engineering,-7.9,1,1,2,0,1,18.1,1,Single Course,18,0,0,0,1,1.0
+STU_203672,GR,LinkedIn,Power BI,14.3,0,0,2,0,9,39.2,0,None,0,0,0,0,0,
+STU_203673,GR,Google,nan,9.7,0,0,2,0,1,8.9,1,Single Course,23,0,1,0,1,0.0
+STU_203674,GR,LinkedIn,Data Analytics,4.1,0,0,1,0,4,8.2,0,None,0,0,0,0,0,
+STU_203675,CY,LinkedIn,Data Analytics,9.9,0,0,0,0,6,19.6,0,None,0,0,0,0,0,
+STU_203676,GR,YouTube,Data Analytics,-11.8,1,1,1,0,4,180.9,1,Full Track Program,14,6,0,1,1,1.0
+STU_203677,GR,YouTube,Analytics Engineering,-12.7,0,0,0,0,7,94.5,0,None,0,0,0,0,0,
+STU_203678,US,yt,Analytics Engineering,4.6,0,0,0,0,2,144.0,0,None,0,0,0,0,0,
+STU_203679,GR,Newsletter,Analytics Engineering,-15.7,0,0,2,0,3,90.0,0,None,0,0,0,0,0,
+STU_203680,DE,LinkedIn,Data Analytics,-0.0,0,0,0,0,3,27.3,0,None,0,0,0,0,0,
+STU_203681,GR,linkedin,Data Analytics,-20.3,1,1,1,0,4,26.2,1,Full Track Program,8,1,3,0,1,1.0
+STU_203682,CY,YouTube,Power BI,12.3,0,0,1,0,3,55.8,0,None,0,0,0,0,0,
+STU_203683,GR,Referral,Analytics Engineering,-15.8,0,0,3,0,3,143.0,0,None,0,0,0,0,0,
+STU_203684,CY,Google,Data Analytics,-13.3,0,0,0,0,5,51.6,0,None,0,0,0,0,0,
+STU_203685,GR,linkedin,Analytics Engineering,-7.7,0,0,1,0,2,62.0,0,None,0,0,0,0,0,
+STU_203686,GR,linkedin,Power BI,19.3,0,0,0,0,2,24.9,0,None,0,0,0,0,0,
+STU_203687,GR,LinkedIn,Analytics Engineering,-5.8,0,1,2,0,4,21.5,1,Single Course,2,0,2,0,1,0.0
+STU_203688,GR,linkedin,Data Analytics,-9.3,0,0,3,0,2,32.4,0,None,0,0,0,0,0,
+STU_203689,CY,linkedin,Power BI,12.0,0,0,3,0,3,2.8,0,None,0,0,0,0,0,
+STU_203690,GR,linkedin,Analytics Engineering,0.6,0,1,1,0,4,101.1,0,None,0,0,0,0,0,
+STU_203691,CY,Newsletter,Analytics Engineering,4.6,0,0,0,0,3,20.5,0,None,0,0,0,0,0,
+STU_203692,CY,Newsletter,Analytics Engineering,-6.3,0,0,1,0,6,47.0,0,None,0,0,0,0,0,
+STU_203693,GR,linkedin,Power BI,2.7,1,1,2,0,4,23.4,1,Full Track Program,4,4,0,1,1,1.0
+STU_203694,US,LinkedIn,Analytics Engineering,-24.0,1,0,3,0,8,6.0,0,None,0,0,0,0,0,
+STU_203695,GR,LinkedIn,Data Analytics,14.7,0,0,1,0,2,51.2,1,Single Course,2,0,0,1,1,0.0
+STU_203696,GR,LI,Analytics Engineering,-1.3,0,0,0,0,1,38.4,0,None,0,0,0,0,0,
+STU_203697,GR,nan,Data Analytics,-6.3,0,0,2,1,2,23.8,0,None,0,0,0,0,0,
+STU_203698,GR,YouTube,Data Analytics,-5.6,0,0,0,0,4,60.1,0,None,0,0,0,0,0,
+STU_203699,GR,linkedin,Analytics Engineering,-18.0,0,0,0,0,5,7.6,0,None,0,0,0,0,0,
+STU_203700,GR,LI,Data Analytics,-13.9,0,0,2,0,2,35.2,0,None,0,0,0,0,0,
+STU_203701,GR,YouTube,Analytics Engineering,2.5,0,0,1,0,3,4.0,0,None,0,0,0,0,0,
+STU_203702,GR,LinkedIn,nan,-2.9,0,0,0,0,5,30.8,0,None,0,0,0,0,0,
+STU_203703,CY,Newsletter,Analytics Engineering,3.9,0,0,0,0,4,29.4,0,None,0,0,0,0,0,
+STU_203704,GR,LinkedIn,Data Analytics,-3.4,0,0,0,0,2,1.2,0,None,0,0,0,0,0,
+STU_203705,GR,LinkedIn,Analytics Engineering,-2.6,0,0,1,0,7,59.7,0,None,0,0,0,0,0,
+STU_203706,GR,YouTube,Data Analytics,-4.3,1,0,0,0,3,5.1,0,None,0,0,0,0,0,
+STU_203707,CY,LinkedIn,Data Analytics,-20.7,0,0,3,1,10,2.5,1,Single Course,9,0,2,0,1,0.0
+STU_203708,GR,Referral,Analytics Engineering,-11.2,0,0,1,0,5,2.1,0,None,0,0,0,0,0,
+STU_203709,GR,LinkedIn,Analytics Engineering,-12.3,0,0,1,0,2,155.5,0,None,0,0,0,0,0,
+STU_203710,CY,Newsletter,Analytics Engineering,5.6,0,0,1,1,3,60.9,1,Full Track Program,6,2,1,0,1,1.0
+STU_203711,US,linkedin,Analytics Engineering,12.1,0,0,2,0,5,18.5,0,None,0,0,0,0,0,
+STU_203712,GR,LinkedIn,Power BI,1.8,0,1,1,0,8,15.5,0,None,0,0,0,0,0,
+STU_203713,GR,YouTube,Data Analytics,-2.3,1,1,0,0,3,25.9,1,Single Course,15,0,1,0,1,0.0
+STU_203714,GR,YouTube,Data Analytics,6.4,1,0,0,0,0,72.9,1,Single Course,3,0,2,1,1,0.0
+STU_203715,GR,LI,Power BI,-30.9,0,0,0,0,6,98.2,0,None,0,0,0,0,0,
+STU_203716,GR,Newsletter,Data Analytics,-9.8,0,0,2,0,4,7.1,0,None,0,0,0,0,0,
+STU_203717,DE,LinkedIn,Power BI,4.6,0,0,3,0,3,12.9,0,None,0,0,0,0,0,
+STU_203718,CY,yt,Data Analytics,-11.2,0,0,1,0,4,242.3,0,None,0,0,0,0,0,
+STU_203719,GR,linkedin,Data Analytics,2.5,0,0,1,0,4,43.5,0,None,0,0,0,0,0,
+STU_203720,GR,YouTube,Analytics Engineering,-9.4,0,0,0,0,2,0.9,0,None,0,0,0,0,0,
+STU_203721,GR,LinkedIn,Analytics Engineering,-6.1,0,0,0,0,2,127.2,0,None,0,0,0,0,0,
+STU_203722,GR,nan,Data Analytics,-4.3,0,0,1,0,2,108.1,0,None,0,0,0,0,0,
+STU_203723,GR,Google,nan,-1.2,0,0,2,0,7,65.6,0,None,0,0,0,0,0,
+STU_203724,GR,YouTube,Analytics Engineering,-12.4,0,0,1,0,7,24.0,0,None,0,0,0,0,0,
+STU_203725,DE,yt,Power BI,16.2,1,0,0,0,4,44.0,0,None,0,0,0,0,0,
+STU_203726,GR,LI,Analytics Engineering,-2.5,0,0,0,0,2,17.9,0,None,0,0,0,0,0,
+STU_203727,GR,YouTube,Analytics Engineering,12.9,0,0,1,0,3,48.9,0,None,0,0,0,0,0,
+STU_203728,UK,LinkedIn,Analytics Engineering,0.4,1,1,2,0,6,1.0,1,Single Course,7,0,1,0,1,0.0
+STU_203729,GR,Newsletter,Power BI,2.7,0,0,0,0,3,30.9,0,None,0,0,0,0,0,
+STU_203730,GR,YouTube,Analytics Engineering,7.2,0,0,1,0,6,27.8,0,None,0,0,0,0,0,
+STU_203731,CY,YouTube,Analytics Engineering,1.8,0,0,1,0,1,8.7,0,None,0,0,0,0,0,
+STU_203732,UK,YouTube,Analytics Engineering,-0.7,0,0,1,0,5,71.3,0,None,0,0,0,0,0,
+STU_203733,GR,linkedin,Analytics Engineering,-12.6,0,0,0,0,3,40.8,0,None,0,0,0,0,0,
+STU_203734,CY,LinkedIn,Data Analytics,-15.5,0,0,2,0,4,38.1,0,None,0,0,0,0,0,
+STU_203735,GR,yt,Analytics Engineering,-2.7,0,0,1,0,3,47.5,0,None,0,0,0,0,0,
+STU_203736,GR,LinkedIn,Data Analytics,-0.1,0,0,0,0,4,1.8,0,None,0,0,0,0,0,
+STU_203737,GR,LI,Data Analytics,-6.7,0,0,0,0,5,37.2,0,None,0,0,0,0,0,
+STU_203738,UK,LinkedIn,Analytics Engineering,-20.4,0,0,0,0,8,39.2,0,None,0,0,0,0,0,
+STU_203739,DE,LinkedIn,nan,-5.6,0,0,1,0,2,14.9,0,None,0,0,0,0,0,
+STU_203740,GR,Newsletter,Power BI,16.2,1,0,1,1,3,17.8,1,Single Course,16,0,1,1,1,0.0
+STU_203741,GR,LI,Data Analytics,9.1,0,0,0,0,5,161.1,0,None,0,0,0,0,0,
+STU_203742,GR,Google,Data Analytics,-1.5,0,0,1,0,4,98.4,0,None,0,0,0,0,0,
+STU_203743,GR,YouTube,nan,3.4,0,0,2,0,3,47.1,0,None,0,0,0,0,0,
+STU_203744,GR,LinkedIn,Data Analytics,28.4,0,0,1,0,4,91.9,0,None,0,0,0,0,0,
+STU_203745,GR,Newsletter,Data Analytics,-5.4,1,0,3,0,5,78.9,0,None,0,0,0,0,0,
+STU_203746,GR,linkedin,Power BI,14.1,0,0,1,1,3,62.8,0,None,0,0,0,0,0,
+STU_203747,GR,linkedin,Data Analytics,7.4,0,0,0,0,2,55.5,0,None,0,0,0,0,0,
+STU_203748,GR,yt,Analytics Engineering,3.1,1,1,0,0,2,8.0,1,Single Course,2,0,2,0,1,0.0
+STU_203749,CY,yt,Data Analytics,0.4,1,1,0,0,3,140.8,0,None,0,0,0,0,0,
+STU_203750,GR,LinkedIn,Analytics Engineering,-18.5,0,1,1,0,4,15.1,0,None,0,0,0,0,0,
+STU_203751,GR,YouTube,Data Analytics,-6.5,1,1,1,0,2,9.1,1,Single Course,23,0,1,0,1,0.0
+STU_203752,DE,LI,Analytics Engineering,-24.2,0,0,0,0,1,7.3,0,None,0,0,0,0,0,
+STU_203753,CY,yt,Analytics Engineering,-6.8,1,1,0,0,3,27.8,1,Full Track Program,20,5,0,1,1,1.0
+STU_203754,GR,LinkedIn,Analytics Engineering,18.7,0,0,1,0,2,52.8,0,None,0,0,0,0,0,
+STU_203755,GR,Newsletter,Data Analytics,7.8,0,0,3,0,6,65.2,0,None,0,0,0,0,0,
+STU_203756,GR,YouTube,Power BI,2.1,0,0,1,0,0,4.7,0,None,0,0,0,0,0,
+STU_203757,UK,LinkedIn,Data Analytics,10.2,1,1,0,0,3,60.4,1,Full Track Program,11,2,0,0,1,1.0
+STU_203758,GR,LinkedIn,Power BI,2.7,0,0,1,0,1,68.5,0,None,0,0,0,0,0,
+STU_203759,GR,nan,Data Analytics,-4.8,0,0,0,0,3,46.6,0,None,0,0,0,0,0,
+STU_203760,GR,linkedin,nan,-12.2,0,0,1,0,2,49.8,0,None,0,0,0,0,0,
+STU_203761,GR,YouTube,Data Analytics,-8.4,1,1,1,0,10,25.1,1,Single Course,22,0,2,1,1,0.0
+STU_203762,GR,LinkedIn,Power BI,-16.5,0,0,1,0,1,72.0,0,None,0,0,0,0,0,
+STU_203763,GR,Newsletter,Analytics Engineering,-14.2,0,0,1,0,1,16.3,1,Full Track Program,11,3,1,1,0,1.0
+STU_203764,GR,yt,Analytics Engineering,-20.6,0,0,0,0,5,21.1,0,None,0,0,0,0,0,
+STU_203765,GR,yt,Analytics Engineering,1.5,0,0,1,1,0,3.8,0,None,0,0,0,0,0,
+STU_203766,GR,Newsletter,Power BI,-14.4,0,0,1,0,7,82.1,0,None,0,0,0,0,0,
+STU_203767,GR,YouTube,Analytics Engineering,1.6,0,0,1,0,4,63.7,0,None,0,0,0,0,0,
+STU_203768,GR,linkedin,Data Analytics,-17.9,1,1,0,0,1,86.0,1,Single Course,7,0,0,1,1,1.0
+STU_203769,DE,Google,Data Analytics,-2.9,1,0,1,1,6,25.0,1,Full Track Program,8,0,1,1,1,1.0
+STU_203770,US,LinkedIn,Analytics Engineering,-14.4,0,0,0,0,4,2.8,1,Single Course,1,0,0,1,1,0.0
+STU_203771,US,YouTube,Analytics Engineering,-32.4,0,0,1,0,4,106.4,0,None,0,0,0,0,0,
+STU_203772,GR,LinkedIn,Power BI,-14.0,1,0,0,0,0,101.1,1,Full Track Program,16,0,4,1,1,1.0
+STU_203773,GR,LinkedIn,Analytics Engineering,-0.2,0,0,0,0,3,52.1,0,None,0,0,0,0,0,
+STU_203774,GR,Google,Data Analytics,-1.2,0,0,1,0,2,55.9,0,None,0,0,0,0,0,
+STU_203775,GR,linkedin,Analytics Engineering,3.7,0,0,0,0,6,20.4,0,None,0,0,0,0,0,
+STU_203776,GR,linkedin,Analytics Engineering,-0.2,1,1,1,0,4,39.4,1,Full Track Program,4,4,5,1,1,0.0
+STU_203777,GR,YouTube,Data Analytics,-13.3,0,0,2,0,4,55.8,0,None,0,0,0,0,0,
+STU_203778,CY,LinkedIn,Data Analytics,6.9,0,0,1,0,4,113.1,0,None,0,0,0,0,0,
+STU_203779,GR,YouTube,Data Analytics,-4.4,0,0,0,0,2,83.2,0,None,0,0,0,0,0,
+STU_203780,GR,LinkedIn,Power BI,-5.5,1,1,0,0,4,21.5,0,None,0,0,0,0,0,
+STU_203781,GR,LinkedIn,Analytics Engineering,-0.1,0,0,0,0,5,10.4,0,None,0,0,0,0,0,
+STU_203782,GR,Google,Analytics Engineering,2.4,0,0,0,0,5,59.5,0,None,0,0,0,0,0,
+STU_203783,GR,yt,Power BI,-2.6,0,0,1,0,4,28.7,0,None,0,0,0,0,0,
+STU_203784,GR,LinkedIn,nan,-5.7,0,0,0,0,6,73.2,0,None,0,0,0,0,0,
+STU_203785,GR,Newsletter,Analytics Engineering,6.1,0,0,1,0,2,44.8,0,None,0,0,0,0,0,
+STU_203786,GR,linkedin,Data Analytics,8.2,0,0,3,0,3,154.5,0,None,0,0,0,0,0,
+STU_203787,GR,LI,Analytics Engineering,2.7,0,0,1,0,5,23.5,0,None,0,0,0,0,0,
+STU_203788,GR,LinkedIn,Power BI,-3.9,0,0,0,0,2,18.3,0,None,0,0,0,0,0,
+STU_203789,DE,linkedin,Analytics Engineering,-5.1,1,1,0,0,5,3.2,1,Full Track Program,17,1,0,1,0,1.0
+STU_203790,GR,LinkedIn,Data Analytics,-19.4,0,0,1,0,3,197.4,0,None,0,0,0,0,0,
+STU_203791,CY,LinkedIn,Data Analytics,15.8,0,1,0,0,3,94.2,1,Single Course,10,0,2,0,1,0.0
+STU_203792,GR,Google,Data Analytics,-11.8,0,0,1,0,3,50.5,0,None,0,0,0,0,0,
+STU_203793,GR,YouTube,Analytics Engineering,5.5,0,0,0,0,5,153.8,0,None,0,0,0,0,0,
+STU_203794,CY,LinkedIn,Data Analytics,4.6,0,0,2,0,3,16.7,0,None,0,0,0,0,0,
+STU_203795,CY,LinkedIn,Analytics Engineering,-2.4,1,0,2,0,4,0.3,1,Single Course,8,0,0,1,1,1.0
+STU_203796,GR,Newsletter,Data Analytics,14.4,0,1,3,0,7,65.3,1,Single Course,18,0,0,1,1,1.0
+STU_203797,GR,Newsletter,Analytics Engineering,-9.0,0,0,0,0,6,16.7,0,None,0,0,0,0,0,
+STU_203798,GR,YouTube,Data Analytics,-1.5,0,0,1,0,6,97.5,0,None,0,0,0,0,0,
+STU_203799,GR,LinkedIn,Power BI,-11.5,0,0,2,0,5,15.4,0,None,0,0,0,0,0,
+STU_203800,GR,yt,Power BI,-13.9,0,0,1,0,1,39.1,0,None,0,0,0,0,0,
+STU_203801,GR,Google,Analytics Engineering,-11.1,0,0,0,0,2,12.6,1,Full Track Program,16,0,0,1,1,0.0
+STU_203802,GR,linkedin,Data Analytics,19.8,0,0,0,0,2,61.5,0,None,0,0,0,0,0,
+STU_203803,GR,LinkedIn,Power BI,13.7,1,1,0,0,2,82.0,1,Single Course,3,0,0,1,1,0.0
+STU_203804,GR,YouTube,Analytics Engineering,-18.9,1,1,1,0,0,6.0,0,None,0,0,0,0,0,
+STU_203805,GR,Referral,Power BI,6.2,0,0,1,0,8,56.9,1,Full Track Program,12,1,2,1,1,0.0
+STU_203806,GR,YouTube,Analytics Engineering,-5.7,1,1,0,0,7,61.8,1,Full Track Program,21,0,2,1,1,1.0
+STU_203807,CY,linkedin,Analytics Engineering,-9.6,1,1,0,0,4,15.3,1,Single Course,10,0,1,0,1,0.0
+STU_203808,GR,YouTube,Analytics Engineering,-6.8,0,0,1,0,7,52.1,0,None,0,0,0,0,0,
+STU_203809,GR,Newsletter,Data Analytics,16.6,0,0,0,0,3,254.0,0,None,0,0,0,0,0,
+STU_203810,DE,LinkedIn,Power BI,3.7,0,0,2,0,4,34.4,0,None,0,0,0,0,0,
+STU_203811,GR,Newsletter,Data Analytics,-8.8,1,0,3,0,5,31.5,0,None,0,0,0,0,0,
+STU_203812,GR,LinkedIn,Data Analytics,-8.9,1,1,0,0,4,35.3,1,Full Track Program,17,0,2,0,1,1.0
+STU_203813,GR,Newsletter,Data Analytics,-9.6,0,0,1,0,2,3.3,0,None,0,0,0,0,0,
+STU_203814,GR,linkedin,Analytics Engineering,-7.6,0,0,3,0,4,23.9,0,None,0,0,0,0,0,
+STU_203815,GR,Newsletter,Data Analytics,7.8,1,1,1,0,3,127.3,1,Single Course,5,0,1,0,1,0.0
+STU_203816,US,yt,Data Analytics,8.9,0,0,0,0,4,69.7,0,None,0,0,0,0,0,
+STU_203817,GR,linkedin,Analytics Engineering,9.8,0,0,1,0,6,0.9,0,None,0,0,0,0,0,
+STU_203818,US,LI,Analytics Engineering,-10.7,0,0,2,0,4,10.1,0,None,0,0,0,0,0,
+STU_203819,CY,YouTube,Analytics Engineering,1.8,1,0,1,0,2,28.2,0,None,0,0,0,0,0,
+STU_203820,GR,LinkedIn,Data Analytics,5.4,0,0,0,0,1,14.8,0,None,0,0,0,0,0,
+STU_203821,GR,linkedin,Power BI,-7.9,0,0,0,0,3,104.8,0,None,0,0,0,0,0,
+STU_203822,GR,Google,Analytics Engineering,-1.4,1,1,1,1,4,12.6,1,Full Track Program,16,6,0,1,1,1.0
+STU_203823,US,LI,Data Analytics,1.6,1,1,0,0,2,136.9,1,Full Track Program,1,1,0,1,0,0.0
+STU_203824,GR,LinkedIn,Analytics Engineering,10.2,0,0,1,0,4,41.8,0,None,0,0,0,0,0,
+STU_203825,GR,LinkedIn,Analytics Engineering,-20.3,0,0,0,0,4,96.3,0,None,0,0,0,0,0,
+STU_203826,GR,LinkedIn,Data Analytics,8.2,0,0,1,1,6,11.8,0,None,0,0,0,0,0,
+STU_203827,GR,YouTube,Data Analytics,-13.0,0,0,0,0,4,16.3,0,None,0,0,0,0,0,
+STU_203828,GR,YouTube,Analytics Engineering,-7.6,1,1,0,0,8,12.9,1,Single Course,10,0,1,1,1,0.0
+STU_203829,GR,LI,Analytics Engineering,-13.6,0,0,1,0,2,21.5,0,None,0,0,0,0,0,
+STU_203830,DE,LinkedIn,Data Analytics,3.9,0,0,1,0,2,78.0,0,None,0,0,0,0,0,
+STU_203831,CY,LinkedIn,Power BI,4.3,0,0,2,0,7,18.9,0,None,0,0,0,0,0,
+STU_203832,CY,LinkedIn,Power BI,-11.0,0,0,2,0,6,1.2,0,None,0,0,0,0,0,
+STU_203833,CY,LinkedIn,Data Analytics,-6.3,0,0,0,0,3,96.9,0,None,0,0,0,0,0,
+STU_203834,GR,linkedin,nan,-2.7,0,0,3,0,3,5.1,0,None,0,0,0,0,0,
+STU_203835,GR,linkedin,Data Analytics,-5.6,1,0,0,0,3,52.8,0,None,0,0,0,0,0,
+STU_203836,GR,linkedin,Power BI,-1.5,0,1,3,0,2,38.6,0,None,0,0,0,0,0,
+STU_203837,GR,Newsletter,Data Analytics,-11.6,0,0,1,0,8,5.6,0,None,0,0,0,0,0,
+STU_203838,GR,Google,Data Analytics,0.7,1,1,0,0,5,31.4,1,Single Course,11,0,1,0,1,0.0
+STU_203839,US,LinkedIn,Power BI,-11.5,0,0,0,0,3,152.9,0,None,0,0,0,0,0,
+STU_203840,GR,yt,Data Analytics,4.4,1,1,0,0,4,12.2,1,Single Course,9,0,1,1,1,0.0
+STU_203841,GR,Newsletter,Analytics Engineering,14.1,0,0,3,0,4,59.7,0,None,0,0,0,0,0,
+STU_203842,GR,linkedin,Power BI,0.4,0,0,1,0,6,22.3,1,Single Course,11,0,1,0,1,0.0
+STU_203843,CY,LinkedIn,Data Analytics,-21.8,1,1,0,0,1,35.0,1,Full Track Program,6,4,0,0,1,1.0
+STU_203844,GR,LinkedIn,Data Analytics,-6.7,0,0,2,0,3,109.6,0,None,0,0,0,0,0,
+STU_203845,GR,YouTube,Power BI,-3.3,0,0,0,0,2,27.4,0,None,0,0,0,0,0,
+STU_203846,US,Newsletter,Power BI,3.3,0,0,1,0,2,68.1,0,None,0,0,0,0,0,
+STU_203847,GR,YouTube,Analytics Engineering,-3.7,0,0,0,0,7,18.3,0,None,0,0,0,0,0,
+STU_203848,GR,linkedin,Data Analytics,-3.9,0,0,2,0,5,7.9,0,None,0,0,0,0,0,
+STU_203849,GR,Newsletter,Analytics Engineering,-21.5,1,1,1,0,2,41.6,1,Single Course,1,0,2,0,1,0.0
+STU_203850,GR,LinkedIn,Power BI,-13.8,0,0,0,0,5,12.1,0,None,0,0,0,0,0,
+STU_203851,CY,Newsletter,Power BI,-11.3,0,0,0,0,5,106.0,0,None,0,0,0,0,0,
+STU_203852,GR,LI,Data Analytics,6.4,0,0,0,0,4,4.0,0,None,0,0,0,0,0,
+STU_203853,GR,linkedin,Analytics Engineering,6.2,1,1,0,0,4,11.7,1,Full Track Program,21,0,1,1,1,1.0
+STU_203854,GR,Newsletter,Data Analytics,3.5,0,0,0,0,5,37.1,0,None,0,0,0,0,0,
+STU_203855,CY,YouTube,Data Analytics,3.2,0,0,0,0,3,82.6,0,None,0,0,0,0,0,
+STU_203856,DE,YouTube,Power BI,22.7,0,0,2,1,7,92.9,0,None,0,0,0,0,0,
+STU_203857,GR,LinkedIn,Analytics Engineering,-3.2,0,0,0,0,1,35.6,0,None,0,0,0,0,0,
+STU_203858,UK,yt,Power BI,-2.5,0,0,0,0,2,189.9,0,None,0,0,0,0,0,
+STU_203859,GR,YouTube,Analytics Engineering,-9.0,0,0,1,0,4,20.9,0,None,0,0,0,0,0,
+STU_203860,GR,LinkedIn,Analytics Engineering,-1.5,0,0,1,0,1,7.4,0,None,0,0,0,0,0,
+STU_203861,UK,YouTube,Analytics Engineering,-6.3,0,0,2,0,3,48.6,0,None,0,0,0,0,0,
+STU_203862,GR,Newsletter,Analytics Engineering,0.0,0,0,1,0,2,53.7,0,None,0,0,0,0,0,
+STU_203863,GR,Newsletter,Power BI,1.4,0,0,0,0,4,55.6,0,None,0,0,0,0,0,
+STU_203864,GR,Google,Power BI,-0.5,0,0,1,1,1,87.9,0,None,0,0,0,0,0,
+STU_203865,GR,YouTube,Data Analytics,-7.7,1,1,0,0,5,47.2,1,Single Course,6,0,0,0,1,1.0
+STU_203866,GR,linkedin,Analytics Engineering,5.7,1,1,0,0,4,41.7,1,Single Course,2,0,2,0,1,0.0
+STU_203867,GR,linkedin,Data Analytics,11.1,0,0,0,0,4,225.2,0,None,0,0,0,0,0,
+STU_203868,GR,linkedin,Data Analytics,7.0,0,0,0,0,4,100.1,0,None,0,0,0,0,0,
+STU_203869,GR,Newsletter,Data Analytics,0.9,0,0,1,1,9,65.4,0,None,0,0,0,0,0,
+STU_203870,GR,Google,Analytics Engineering,-15.9,0,0,0,0,1,1.3,0,None,0,0,0,0,0,
+STU_203871,GR,Google,Analytics Engineering,-16.4,0,0,3,0,6,164.2,0,None,0,0,0,0,0,
+STU_203872,GR,Google,Data Analytics,-0.2,0,0,0,0,5,117.5,0,None,0,0,0,0,0,
+STU_203873,GR,LI,Data Analytics,-5.6,1,1,1,0,5,5.5,1,Full Track Program,2,4,0,1,1,1.0
+STU_203874,CY,LinkedIn,Data Analytics,-2.0,0,0,0,0,2,63.6,0,None,0,0,0,0,0,
+STU_203875,GR,Google,Analytics Engineering,0.5,0,0,1,0,6,10.6,0,None,0,0,0,0,0,
+STU_203876,GR,linkedin,Data Analytics,8.0,0,0,1,0,4,29.4,0,None,0,0,0,0,0,
+STU_203877,GR,LI,Analytics Engineering,-16.8,0,0,1,0,1,37.2,0,None,0,0,0,0,0,
+STU_203878,GR,LinkedIn,Data Analytics,-10.1,0,0,0,0,5,10.3,1,Full Track Program,8,0,1,1,1,1.0
+STU_203879,GR,yt,Power BI,13.3,0,1,3,0,3,68.4,0,None,0,0,0,0,0,
+STU_203880,GR,yt,Data Analytics,14.3,0,0,2,0,5,46.5,0,None,0,0,0,0,0,
+STU_203881,GR,Newsletter,nan,-8.6,1,0,3,0,6,106.0,1,Single Course,8,0,2,1,1,0.0
+STU_203882,DE,YouTube,Data Analytics,-4.2,0,0,1,0,3,22.9,1,Single Course,4,0,0,0,1,1.0
+STU_203883,GR,linkedin,Power BI,-15.0,0,0,2,0,4,34.5,0,None,0,0,0,0,0,
+STU_203884,GR,YouTube,Data Analytics,-6.0,0,0,1,0,0,38.1,0,None,0,0,0,0,0,
+STU_203885,GR,YouTube,Analytics Engineering,-6.0,0,0,1,0,4,75.4,0,None,0,0,0,0,0,
+STU_203886,GR,LinkedIn,Data Analytics,1.5,0,0,0,0,4,2.3,0,None,0,0,0,0,0,
+STU_203887,US,linkedin,Analytics Engineering,-12.5,1,1,0,0,6,27.0,0,None,0,0,0,0,0,
+STU_203888,GR,linkedin,Power BI,-3.5,0,0,1,0,6,35.5,0,None,0,0,0,0,0,
+STU_203889,GR,Google,Data Analytics,9.6,0,0,2,0,2,116.2,0,None,0,0,0,0,0,
+STU_203890,GR,LinkedIn,Analytics Engineering,-0.3,0,0,1,0,2,131.9,1,Single Course,4,0,1,0,1,0.0
+STU_203891,GR,YouTube,Power BI,-16.0,1,1,0,0,3,183.4,1,Single Course,2,0,1,0,1,0.0
+STU_203892,US,nan,Power BI,-4.0,1,1,1,0,4,16.1,1,Full Track Program,13,4,0,1,1,1.0
+STU_203893,GR,LinkedIn,Analytics Engineering,4.9,1,1,1,1,4,17.4,1,Full Track Program,9,0,0,0,1,1.0
+STU_203894,DE,YouTube,Data Analytics,6.6,0,0,2,1,4,27.6,1,Full Track Program,8,1,2,0,1,0.0
+STU_203895,GR,YouTube,Power BI,-0.7,0,0,1,1,3,13.9,0,None,0,0,0,0,0,
+STU_203896,GR,Google,Data Analytics,-11.2,0,0,0,0,3,69.6,0,None,0,0,0,0,0,
+STU_203897,GR,LinkedIn,nan,-2.8,0,0,2,1,7,97.2,0,None,0,0,0,0,0,
+STU_203898,GR,LinkedIn,Data Analytics,-2.2,0,0,1,0,5,50.0,0,None,0,0,0,0,0,
+STU_203899,GR,Google,Analytics Engineering,8.1,0,0,1,0,6,79.3,0,None,0,0,0,0,0,
+STU_203900,CY,LinkedIn,Analytics Engineering,-30.9,0,0,2,1,3,21.1,0,None,0,0,0,0,0,
+STU_203901,GR,YouTube,nan,7.3,0,0,0,0,8,48.4,0,None,0,0,0,0,0,
+STU_203902,GR,Google,Data Analytics,-2.0,0,0,1,0,5,3.6,0,None,0,0,0,0,0,
+STU_203903,GR,Newsletter,nan,-12.2,1,1,2,0,4,43.5,1,Single Course,18,0,0,0,1,1.0
+STU_203904,GR,LinkedIn,Analytics Engineering,-21.9,0,0,1,0,3,146.7,0,None,0,0,0,0,0,
+STU_203905,GR,Newsletter,nan,13.0,0,1,1,0,7,51.7,0,None,0,0,0,0,0,
+STU_203906,GR,YouTube,Analytics Engineering,-12.6,0,0,1,0,3,49.1,1,Full Track Program,10,0,0,1,1,1.0
+STU_203907,GR,linkedin,Analytics Engineering,-16.8,0,0,1,0,2,29.2,0,None,0,0,0,0,0,
+STU_203908,CY,LI,Analytics Engineering,2.4,0,0,2,0,3,14.3,0,None,0,0,0,0,0,
+STU_203909,GR,Newsletter,Power BI,11.9,0,0,2,0,5,63.2,0,None,0,0,0,0,0,
+STU_203910,CY,YouTube,Analytics Engineering,-4.2,0,0,1,0,4,48.3,0,None,0,0,0,0,0,
+STU_203911,GR,LinkedIn,Power BI,-14.8,0,0,2,0,2,31.9,0,None,0,0,0,0,0,
+STU_203912,GR,YouTube,Data Analytics,-11.2,0,0,2,0,5,18.6,0,None,0,0,0,0,0,
+STU_203913,GR,LI,Data Analytics,2.7,0,0,1,1,5,8.0,0,None,0,0,0,0,0,
+STU_203914,GR,LinkedIn,Power BI,-12.7,0,0,1,0,3,25.8,0,None,0,0,0,0,0,
+STU_203915,GR,LinkedIn,Power BI,11.8,0,0,0,0,8,49.9,0,None,0,0,0,0,0,
+STU_203916,GR,Google,Power BI,-6.0,0,0,0,0,5,9.8,0,None,0,0,0,0,0,
+STU_203917,GR,LinkedIn,Data Analytics,40.9,0,0,1,0,1,82.6,0,None,0,0,0,0,0,
+STU_203918,DE,linkedin,Analytics Engineering,-0.6,1,1,0,0,4,65.0,1,Single Course,19,0,2,0,1,0.0
+STU_203919,GR,Newsletter,Analytics Engineering,1.1,1,1,2,0,1,45.7,1,Single Course,8,0,1,0,1,0.0
+STU_203920,GR,LinkedIn,Analytics Engineering,7.9,0,0,1,1,0,130.4,0,None,0,0,0,0,0,
+STU_203921,GR,LinkedIn,Analytics Engineering,-8.9,0,0,0,0,2,26.5,0,None,0,0,0,0,0,
+STU_203922,GR,Google,Analytics Engineering,-12.2,0,0,2,0,5,22.2,0,None,0,0,0,0,0,
+STU_203923,GR,YouTube,Analytics Engineering,7.2,1,1,0,0,2,28.1,1,Full Track Program,7,1,1,0,1,1.0
+STU_203924,GR,YouTube,Data Analytics,-17.1,1,0,1,0,3,50.2,1,Full Track Program,6,0,5,1,0,1.0
+STU_203925,GR,Newsletter,Data Analytics,8.4,1,1,1,1,6,72.6,1,Full Track Program,6,0,2,0,1,1.0
+STU_203926,GR,Newsletter,nan,-20.3,0,0,1,1,4,9.8,0,None,0,0,0,0,0,
+STU_203927,DE,LinkedIn,Power BI,15.7,1,1,1,0,6,120.7,1,Full Track Program,4,0,4,0,1,1.0
+STU_203928,GR,LinkedIn,Power BI,-0.4,0,0,1,0,4,0.6,0,None,0,0,0,0,0,
+STU_203929,GR,LinkedIn,Analytics Engineering,-15.2,0,0,2,0,5,34.3,0,None,0,0,0,0,0,
+STU_203930,GR,yt,Analytics Engineering,1.9,0,0,0,0,2,1.7,1,Single Course,2,0,2,1,1,0.0
+STU_203931,GR,nan,Power BI,13.6,1,1,1,1,3,40.7,1,Full Track Program,15,0,5,1,1,0.0
+STU_203932,GR,LinkedIn,Analytics Engineering,-18.4,0,0,0,0,9,129.4,0,None,0,0,0,0,0,
+STU_203933,GR,YouTube,Data Analytics,0.4,0,0,1,0,4,65.9,0,None,0,0,0,0,0,
+STU_203934,GR,linkedin,Data Analytics,3.6,1,0,1,0,4,22.6,1,Full Track Program,4,0,0,1,1,1.0
+STU_203935,GR,YouTube,Data Analytics,-5.1,0,0,1,0,8,14.7,0,None,0,0,0,0,0,
+STU_203936,GR,YouTube,Power BI,-4.8,0,0,3,0,3,43.9,1,Full Track Program,10,0,4,0,1,1.0
+STU_203937,GR,YouTube,Power BI,-4.8,1,1,0,0,4,46.7,1,Full Track Program,21,1,0,0,1,1.0
+STU_203938,DE,LinkedIn,Analytics Engineering,-5.2,0,0,1,0,5,9.0,0,None,0,0,0,0,0,
+STU_203939,GR,LinkedIn,Analytics Engineering,2.4,0,0,2,0,2,69.5,0,None,0,0,0,0,0,
+STU_203940,CY,Google,Analytics Engineering,13.3,0,0,1,0,8,70.9,0,None,0,0,0,0,0,
+STU_203941,GR,Newsletter,Analytics Engineering,-6.1,0,0,0,0,5,11.5,0,None,0,0,0,0,0,
+STU_203942,GR,LI,Power BI,-18.0,0,0,1,0,4,0.7,0,None,0,0,0,0,0,
+STU_203943,GR,LinkedIn,Analytics Engineering,-9.5,1,1,1,1,3,85.8,1,Single Course,12,0,0,0,1,1.0
+STU_203944,DE,yt,Analytics Engineering,6.7,0,0,1,0,6,4.9,0,None,0,0,0,0,0,
+STU_203945,GR,YouTube,Analytics Engineering,10.1,0,0,1,0,3,86.7,0,None,0,0,0,0,0,
+STU_203946,DE,linkedin,Data Analytics,-16.5,0,0,2,0,7,21.2,0,None,0,0,0,0,0,
+STU_203947,GR,YouTube,Data Analytics,-3.2,0,0,1,1,3,24.6,0,None,0,0,0,0,0,
+STU_203948,DE,Google,Analytics Engineering,-6.3,0,1,1,0,6,4.3,0,None,0,0,0,0,0,
+STU_203949,GR,YouTube,Data Analytics,15.2,0,0,0,0,1,5.9,0,None,0,0,0,0,0,
+STU_203950,GR,YouTube,Data Analytics,-26.5,0,0,0,0,4,94.6,0,None,0,0,0,0,0,
+STU_203951,GR,YouTube,nan,-6.6,0,0,1,0,6,54.3,0,None,0,0,0,0,0,
+STU_203952,GR,yt,nan,-20.0,0,0,0,0,3,37.7,1,Single Course,5,0,1,0,1,0.0
+STU_203953,GR,LinkedIn,Data Analytics,1.1,0,0,1,0,5,56.7,0,None,0,0,0,0,0,
+STU_203954,GR,LinkedIn,Analytics Engineering,12.9,0,0,0,0,3,20.4,0,None,0,0,0,0,0,
+STU_203955,US,Google,Data Analytics,-4.1,1,1,3,0,6,5.9,1,Full Track Program,22,0,0,1,0,1.0
+STU_203956,GR,Newsletter,Power BI,6.6,0,0,1,0,6,25.7,0,None,0,0,0,0,0,
+STU_203957,GR,Newsletter,Data Analytics,-17.2,0,0,0,0,5,47.8,0,None,0,0,0,0,0,
+STU_203958,GR,YouTube,Data Analytics,-5.5,1,1,1,0,2,61.2,1,Full Track Program,17,2,0,1,1,1.0
+STU_203959,GR,LinkedIn,Analytics Engineering,5.1,0,0,0,0,3,31.4,0,None,0,0,0,0,0,
+STU_203960,GR,Newsletter,Data Analytics,-11.2,1,1,2,1,5,29.7,1,Single Course,10,0,2,0,1,0.0
+STU_203961,GR,YouTube,Data Analytics,-15.7,0,0,0,0,1,36.8,0,None,0,0,0,0,0,
+STU_203962,GR,LinkedIn,Data Analytics,-6.4,0,0,0,0,4,54.9,1,Full Track Program,21,1,1,1,0,1.0
+STU_203963,CY,YouTube,Data Analytics,10.5,0,0,1,0,4,66.7,0,None,0,0,0,0,0,
+STU_203964,GR,Google,Data Analytics,-17.6,0,0,0,0,4,18.0,0,None,0,0,0,0,0,
+STU_203965,GR,linkedin,Data Analytics,22.9,1,1,0,0,6,6.2,1,Single Course,9,0,0,0,1,1.0
+STU_203966,GR,YouTube,Power BI,-2.8,1,1,1,0,5,35.2,1,Single Course,13,0,0,0,1,1.0
+STU_203967,GR,linkedin,Power BI,-30.0,0,0,1,0,6,17.9,0,None,0,0,0,0,0,
+STU_203968,GR,Google,Data Analytics,1.3,0,0,0,0,3,50.6,0,None,0,0,0,0,0,
+STU_203969,GR,LinkedIn,Data Analytics,-15.6,0,1,0,0,3,11.2,0,None,0,0,0,0,0,
+STU_203970,GR,Referral,Analytics Engineering,3.5,0,0,3,0,3,15.6,0,None,0,0,0,0,0,
+STU_203971,GR,Newsletter,Analytics Engineering,-20.0,0,0,0,0,5,10.9,0,None,0,0,0,0,0,
+STU_203972,GR,LinkedIn,Analytics Engineering,5.1,0,0,0,0,5,41.8,0,None,0,0,0,0,0,
+STU_203973,GR,LinkedIn,Power BI,-6.6,0,0,1,0,4,22.3,1,Full Track Program,20,3,2,1,0,0.0
+STU_203974,GR,LinkedIn,Power BI,-3.3,0,0,1,0,5,0.1,0,None,0,0,0,0,0,
+STU_203975,GR,Newsletter,Power BI,-7.2,0,0,1,0,2,11.0,0,None,0,0,0,0,0,
+STU_203976,GR,Google,Power BI,8.0,0,0,1,0,6,21.8,1,Single Course,16,0,2,0,1,0.0
+STU_203977,GR,LinkedIn,Data Analytics,-16.7,0,0,2,0,2,20.1,0,None,0,0,0,0,0,
+STU_203978,CY,YouTube,Data Analytics,-20.5,0,0,2,0,6,26.2,0,None,0,0,0,0,0,
+STU_203979,GR,LinkedIn,Data Analytics,12.9,0,0,1,0,2,59.7,0,None,0,0,0,0,0,
+STU_203980,GR,linkedin,Analytics Engineering,-19.6,1,1,0,0,4,6.3,1,Single Course,4,0,1,1,1,0.0
+STU_203981,CY,nan,Data Analytics,-3.2,1,1,2,0,4,19.6,1,Single Course,23,0,2,0,1,0.0
+STU_203982,GR,linkedin,Data Analytics,21.1,1,1,0,0,3,9.1,0,None,0,0,0,0,0,
+STU_203983,GR,LinkedIn,Data Analytics,10.4,0,0,1,0,3,149.6,0,None,0,0,0,0,0,
+STU_203984,GR,Google,Analytics Engineering,14.9,0,0,1,0,3,80.8,0,None,0,0,0,0,0,
+STU_203985,GR,linkedin,Analytics Engineering,-11.6,0,0,1,1,2,35.2,0,None,0,0,0,0,0,
+STU_203986,UK,LinkedIn,Analytics Engineering,-12.6,0,0,1,0,3,23.9,0,None,0,0,0,0,0,
+STU_203987,GR,linkedin,Analytics Engineering,18.4,0,0,1,0,3,0.2,0,None,0,0,0,0,0,
+STU_203988,GR,Referral,nan,-7.8,0,0,0,0,4,57.0,0,None,0,0,0,0,0,
+STU_203989,GR,LinkedIn,Analytics Engineering,-9.6,0,1,0,0,6,59.8,0,None,0,0,0,0,0,
+STU_203990,GR,yt,Data Analytics,15.9,0,0,1,0,3,57.0,0,None,0,0,0,0,0,
+STU_203991,GR,YouTube,Data Analytics,13.0,0,0,3,0,5,3.1,1,Single Course,13,0,0,0,1,1.0
+STU_203992,CY,YouTube,Data Analytics,-13.3,0,0,0,0,6,77.1,0,None,0,0,0,0,0,
+STU_203993,US,LinkedIn,Analytics Engineering,-16.4,1,0,1,0,6,11.7,0,None,0,0,0,0,0,
+STU_203994,CY,LinkedIn,Analytics Engineering,1.0,0,0,1,0,6,30.2,0,None,0,0,0,0,0,
+STU_203995,GR,YouTube,nan,-5.7,1,1,0,0,6,23.0,1,Full Track Program,1,2,0,1,1,1.0
+STU_203996,GR,linkedin,Analytics Engineering,18.6,0,0,2,0,6,25.3,0,None,0,0,0,0,0,
+STU_203997,GR,LinkedIn,Analytics Engineering,-7.7,0,0,2,0,7,130.7,0,None,0,0,0,0,0,
+STU_203998,GR,nan,Analytics Engineering,2.6,0,1,2,0,3,112.4,0,None,0,0,0,0,0,
+STU_203999,GR,YouTube,Data Analytics,-5.8,0,0,0,0,3,34.5,0,None,0,0,0,0,0,
+STU_204000,GR,Newsletter,Power BI,1.0,0,0,2,0,6,118.3,0,None,0,0,0,0,0,
+STU_204001,GR,LinkedIn,Analytics Engineering,-8.4,0,0,0,0,9,15.8,0,None,0,0,0,0,0,
+STU_204002,GR,Newsletter,nan,-15.0,0,0,2,0,3,20.9,0,None,0,0,0,0,0,
+STU_204003,GR,LinkedIn,Data Analytics,-11.6,0,0,2,0,6,10.1,0,None,0,0,0,0,0,
+STU_204004,GR,nan,Analytics Engineering,-8.6,0,0,0,0,4,33.2,0,None,0,0,0,0,0,
+STU_204005,GR,linkedin,Data Analytics,-22.8,0,0,0,0,2,140.4,0,None,0,0,0,0,0,
+STU_204006,GR,nan,Data Analytics,-22.2,1,1,2,1,4,6.3,1,Single Course,9,0,0,0,1,1.0
+STU_204007,GR,yt,Analytics Engineering,-9.6,1,0,0,0,4,26.9,1,Full Track Program,23,0,2,0,1,1.0
+STU_204008,DE,YouTube,Power BI,-11.8,1,1,0,0,3,121.0,1,Single Course,5,0,0,0,1,1.0
+STU_204009,GR,Google,Data Analytics,-20.6,0,0,0,0,1,32.5,0,None,0,0,0,0,0,
+STU_204010,GR,YouTube,Analytics Engineering,11.7,0,0,1,0,0,43.4,0,None,0,0,0,0,0,
+STU_204011,GR,Google,Power BI,10.1,0,0,1,0,5,27.8,0,None,0,0,0,0,0,
+STU_204012,GR,YouTube,Power BI,-8.1,0,0,1,0,6,15.5,0,None,0,0,0,0,0,
+STU_204013,CY,Google,Power BI,9.5,0,1,2,0,7,15.4,0,None,0,0,0,0,0,
+STU_204014,GR,YouTube,Analytics Engineering,-16.0,0,0,3,0,7,7.0,0,None,0,0,0,0,0,
+STU_204015,GR,LinkedIn,Data Analytics,6.3,0,0,1,1,2,30.3,0,None,0,0,0,0,0,
+STU_204016,GR,Newsletter,Data Analytics,5.0,1,1,1,0,3,14.2,1,Full Track Program,23,0,4,0,1,1.0
+STU_204017,GR,yt,Analytics Engineering,6.2,1,1,1,0,4,30.2,1,Single Course,5,0,0,1,1,1.0
+STU_204018,GR,Referral,Analytics Engineering,-0.8,1,1,1,0,4,6.3,1,Single Course,7,0,1,1,1,0.0
+STU_204019,CY,Newsletter,Analytics Engineering,-2.5,0,0,1,0,3,34.2,0,None,0,0,0,0,0,
+STU_204020,GR,YouTube,Analytics Engineering,-3.7,0,0,2,0,1,38.5,0,None,0,0,0,0,0,
+STU_204021,GR,YouTube,Data Analytics,10.5,0,0,0,0,6,38.1,0,None,0,0,0,0,0,
+STU_204022,US,LinkedIn,Power BI,-5.7,0,0,1,0,3,36.6,0,None,0,0,0,0,0,
+STU_204023,UK,Google,Data Analytics,7.9,0,0,0,0,3,32.9,0,None,0,0,0,0,0,
+STU_204024,DE,LI,Power BI,-5.6,1,0,0,0,6,5.3,0,None,0,0,0,0,0,
+STU_204025,US,yt,Data Analytics,-2.6,0,0,0,0,4,13.3,0,None,0,0,0,0,0,
+STU_204026,GR,yt,Power BI,-10.0,1,1,0,0,5,31.8,1,Full Track Program,21,1,0,1,1,1.0
+STU_204027,GR,LinkedIn,Analytics Engineering,-3.7,1,1,1,1,7,290.7,1,Full Track Program,17,1,0,0,1,1.0
+STU_204028,GR,YouTube,Data Analytics,3.3,1,1,2,0,6,89.8,1,Single Course,16,0,0,1,1,1.0
+STU_204029,GR,linkedin,Data Analytics,-4.0,1,1,1,0,4,10.4,1,Single Course,20,0,2,1,1,0.0
+STU_204030,GR,Referral,Analytics Engineering,-1.2,0,0,0,0,0,9.9,0,None,0,0,0,0,0,
+STU_204031,GR,LinkedIn,Analytics Engineering,3.6,0,0,3,0,6,9.6,0,None,0,0,0,0,0,
+STU_204032,GR,LinkedIn,Data Analytics,0.8,1,1,1,0,1,8.5,1,Single Course,10,0,2,1,1,0.0
+STU_204033,GR,LinkedIn,Data Analytics,-7.9,0,0,1,0,2,107.6,0,None,0,0,0,0,0,
+STU_204034,GR,LinkedIn,Data Analytics,2.7,0,0,2,0,3,38.3,0,None,0,0,0,0,0,
+STU_204035,GR,LinkedIn,Analytics Engineering,-0.9,1,1,0,0,3,20.2,1,Full Track Program,18,1,0,1,0,1.0
+STU_204036,US,linkedin,Data Analytics,-14.4,0,0,0,0,6,33.6,0,None,0,0,0,0,0,
+STU_204037,GR,YouTube,Data Analytics,4.6,0,0,1,1,4,73.2,0,None,0,0,0,0,0,
+STU_204038,CY,LI,Power BI,-7.5,0,0,1,0,3,6.8,0,None,0,0,0,0,0,
+STU_204039,US,Newsletter,nan,3.1,0,0,3,0,3,22.3,0,None,0,0,0,0,0,
+STU_204040,GR,Google,Analytics Engineering,-15.4,1,0,1,0,3,32.9,1,Full Track Program,23,0,3,1,1,1.0
+STU_204041,CY,LinkedIn,Data Analytics,-13.1,0,0,2,0,6,30.5,0,None,0,0,0,0,0,
+STU_204042,DE,Google,Data Analytics,3.9,1,1,0,0,5,25.6,1,Single Course,10,0,1,0,1,0.0
+STU_204043,CY,Newsletter,Data Analytics,17.5,0,0,0,0,8,120.3,0,None,0,0,0,0,0,
+STU_204044,GR,Google,Power BI,-10.7,0,0,2,0,5,14.5,0,None,0,0,0,0,0,
+STU_204045,GR,linkedin,Data Analytics,10.0,0,0,1,0,8,27.0,0,None,0,0,0,0,0,
+STU_204046,DE,YouTube,Data Analytics,-8.8,0,0,1,0,2,9.3,0,None,0,0,0,0,0,
+STU_204047,UK,linkedin,Power BI,-2.1,1,1,1,0,6,67.7,1,Full Track Program,15,1,2,0,1,1.0
+STU_204048,GR,YouTube,Data Analytics,4.7,0,0,1,1,3,65.7,1,Full Track Program,4,2,2,0,1,1.0
+STU_204049,CY,Newsletter,Power BI,-1.5,0,0,0,0,1,14.6,0,None,0,0,0,0,0,
+STU_204050,GR,LinkedIn,nan,-10.1,1,1,2,0,1,7.3,1,Single Course,6,0,0,0,1,1.0
+STU_204051,GR,linkedin,Data Analytics,-4.0,1,1,0,0,5,12.2,1,Single Course,14,0,0,1,1,1.0
+STU_204052,GR,Google,Analytics Engineering,22.4,0,0,1,1,7,20.8,0,None,0,0,0,0,0,
+STU_204053,GR,LinkedIn,Data Analytics,-20.4,0,0,1,0,7,110.5,0,None,0,0,0,0,0,
+STU_204054,GR,linkedin,Power BI,17.6,0,0,2,0,5,155.2,0,None,0,0,0,0,0,
+STU_204055,GR,Newsletter,Data Analytics,8.1,0,0,2,0,4,19.9,0,None,0,0,0,0,0,
+STU_204056,DE,LI,Data Analytics,11.0,0,0,1,0,6,7.0,0,None,0,0,0,0,0,
+STU_204057,GR,Google,Analytics Engineering,0.3,0,0,2,0,2,18.2,0,None,0,0,0,0,0,
+STU_204058,GR,LinkedIn,Data Analytics,-21.5,0,0,1,1,3,89.1,1,Single Course,23,0,2,0,1,0.0
+STU_204059,GR,YouTube,Data Analytics,-5.3,1,1,0,0,5,9.6,1,Full Track Program,13,0,3,1,1,1.0
+STU_204060,CY,LinkedIn,Analytics Engineering,-21.5,0,0,1,0,2,5.6,0,None,0,0,0,0,0,
+STU_204061,UK,Google,Data Analytics,9.2,1,1,1,0,4,37.2,1,Single Course,2,0,1,0,1,0.0
+STU_204062,GR,YouTube,Power BI,-7.1,0,0,0,0,4,163.2,0,None,0,0,0,0,0,
+STU_204063,GR,LinkedIn,Data Analytics,9.0,0,0,2,0,3,1.3,0,None,0,0,0,0,0,
+STU_204064,GR,yt,Analytics Engineering,2.0,0,0,1,0,6,9.7,0,None,0,0,0,0,0,
+STU_204065,GR,LI,Analytics Engineering,-1.0,0,0,1,1,5,12.5,0,None,0,0,0,0,0,
+STU_204066,GR,Google,Power BI,-7.4,0,0,0,0,7,10.2,0,None,0,0,0,0,0,
+STU_204067,GR,LinkedIn,Power BI,9.1,0,0,0,0,4,94.2,0,None,0,0,0,0,0,
+STU_204068,GR,Newsletter,Data Analytics,7.0,1,1,3,0,3,71.2,1,Single Course,7,0,1,0,1,0.0
+STU_204069,DE,YouTube,Analytics Engineering,2.7,0,0,0,0,3,67.5,0,None,0,0,0,0,0,
+STU_204070,GR,linkedin,Analytics Engineering,-14.0,0,0,1,0,2,3.7,0,None,0,0,0,0,0,
+STU_204071,US,linkedin,Analytics Engineering,-12.5,0,0,2,0,3,10.7,0,None,0,0,0,0,0,
+STU_204072,GR,LinkedIn,Analytics Engineering,18.2,0,0,3,0,9,5.9,0,None,0,0,0,0,0,
+STU_204073,GR,Newsletter,Data Analytics,-1.6,0,0,1,1,7,4.6,0,None,0,0,0,0,0,
+STU_204074,GR,LI,Analytics Engineering,2.1,1,1,2,0,1,16.3,1,Single Course,7,0,0,0,1,1.0
+STU_204075,GR,LI,Analytics Engineering,-1.1,1,0,0,0,2,36.2,0,None,0,0,0,0,0,
+STU_204076,CY,YouTube,Analytics Engineering,-4.8,0,0,1,0,3,3.8,0,None,0,0,0,0,0,
+STU_204077,GR,YouTube,Analytics Engineering,-16.3,0,0,1,0,4,31.2,0,None,0,0,0,0,0,
+STU_204078,GR,linkedin,Data Analytics,18.9,0,0,0,0,7,19.0,0,None,0,0,0,0,0,
+STU_204079,GR,Newsletter,Power BI,3.5,1,1,0,0,2,18.3,1,Single Course,15,0,1,1,1,0.0
+STU_204080,DE,Google,Data Analytics,6.1,0,1,1,0,9,54.4,0,None,0,0,0,0,0,
+STU_204081,DE,LinkedIn,Analytics Engineering,7.2,0,0,1,0,3,40.0,1,Single Course,18,0,1,0,1,0.0
+STU_204082,CY,yt,Power BI,3.7,1,0,2,0,3,20.9,1,Single Course,8,0,1,1,1,0.0
+STU_204083,GR,LinkedIn,Data Analytics,-9.0,0,0,0,0,7,14.3,0,None,0,0,0,0,0,
+STU_204084,US,LinkedIn,Power BI,4.6,0,0,0,0,2,62.8,0,None,0,0,0,0,0,
+STU_204085,GR,YouTube,Data Analytics,7.6,0,0,0,0,2,65.6,0,None,0,0,0,0,0,
+STU_204086,CY,LI,Analytics Engineering,6.5,0,0,1,0,4,161.8,0,None,0,0,0,0,0,
+STU_204087,US,Google,Analytics Engineering,-1.0,0,0,0,0,5,89.2,0,None,0,0,0,0,0,
+STU_204088,DE,YouTube,Data Analytics,0.7,1,1,3,0,6,26.9,1,Single Course,5,0,2,0,1,0.0
+STU_204089,CY,LinkedIn,nan,-1.9,0,0,1,0,6,64.2,0,None,0,0,0,0,0,
+STU_204090,GR,LinkedIn,Analytics Engineering,-10.0,0,0,1,0,1,28.6,0,None,0,0,0,0,0,
+STU_204091,GR,LinkedIn,Analytics Engineering,-18.5,0,0,1,1,2,2.4,1,Single Course,18,0,1,0,1,0.0
+STU_204092,GR,LinkedIn,nan,9.0,1,1,0,0,3,154.7,1,Single Course,5,0,2,0,1,0.0
+STU_204093,GR,Newsletter,Data Analytics,-4.2,0,0,1,1,9,58.2,1,Single Course,17,0,0,0,1,1.0
+STU_204094,CY,LinkedIn,Analytics Engineering,-8.1,0,0,1,0,3,88.3,0,None,0,0,0,0,0,
+STU_204095,GR,linkedin,Data Analytics,-6.4,0,0,0,0,7,18.5,1,Single Course,4,0,1,0,1,0.0
+STU_204096,GR,YouTube,Power BI,2.1,0,0,2,0,0,94.2,0,None,0,0,0,0,0,
+STU_204097,CY,LinkedIn,nan,-6.5,0,0,0,0,2,19.7,0,None,0,0,0,0,0,
+STU_204098,GR,LinkedIn,Data Analytics,-6.3,0,0,0,0,3,13.5,0,None,0,0,0,0,0,
+STU_204099,GR,LinkedIn,Power BI,-13.6,0,0,0,0,2,1.7,0,None,0,0,0,0,0,
+STU_204100,GR,LinkedIn,Analytics Engineering,3.7,1,0,1,1,4,34.0,1,Single Course,15,0,1,0,1,0.0
+STU_204101,GR,yt,Power BI,4.3,0,0,0,0,3,11.3,0,None,0,0,0,0,0,
+STU_204102,DE,LinkedIn,Data Analytics,-12.4,0,0,1,0,3,11.7,0,None,0,0,0,0,0,
+STU_204103,GR,Newsletter,Analytics Engineering,11.4,0,0,2,0,4,43.9,0,None,0,0,0,0,0,
+STU_204104,CY,linkedin,Analytics Engineering,-3.0,0,0,0,0,4,39.6,0,None,0,0,0,0,0,
+STU_204105,DE,Newsletter,Power BI,-4.4,0,0,1,0,3,6.1,0,None,0,0,0,0,0,
+STU_204106,GR,Newsletter,Data Analytics,-0.6,0,1,1,0,2,65.0,0,None,0,0,0,0,0,
+STU_204107,GR,LinkedIn,Analytics Engineering,-8.8,0,0,1,0,3,93.5,0,None,0,0,0,0,0,
+STU_204108,GR,YouTube,Power BI,17.1,0,0,1,1,4,1.1,1,Single Course,3,0,2,0,1,0.0
+STU_204109,GR,LinkedIn,Analytics Engineering,1.7,0,0,1,1,1,59.9,0,None,0,0,0,0,0,
+STU_204110,GR,Google,Power BI,-2.6,0,1,1,0,2,94.3,1,Single Course,23,0,0,1,1,1.0
+STU_204111,GR,Newsletter,Power BI,-17.2,0,0,0,0,8,58.0,0,None,0,0,0,0,0,
+STU_204112,GR,Newsletter,Power BI,-1.9,0,0,2,0,2,29.0,0,None,0,0,0,0,0,
+STU_204113,GR,YouTube,Data Analytics,-24.0,0,1,1,0,4,68.6,0,None,0,0,0,0,0,
+STU_204114,GR,YouTube,Data Analytics,-17.3,1,1,2,0,5,34.8,1,Single Course,10,0,2,0,1,0.0
+STU_204115,CY,YouTube,Analytics Engineering,-6.5,0,0,1,0,1,107.7,0,None,0,0,0,0,0,
+STU_204116,DE,LinkedIn,Data Analytics,-16.7,1,1,1,0,7,0.7,1,Single Course,2,0,0,1,1,0.0
+STU_204117,GR,YouTube,Analytics Engineering,-2.4,0,0,0,0,7,6.6,0,None,0,0,0,0,0,
+STU_204118,CY,YouTube,Power BI,8.8,0,0,1,0,5,35.7,0,None,0,0,0,0,0,
+STU_204119,GR,LinkedIn,Analytics Engineering,-4.1,0,0,1,1,6,76.7,0,None,0,0,0,0,0,
+STU_204120,GR,linkedin,Data Analytics,-7.8,0,0,0,0,9,4.1,0,None,0,0,0,0,0,
+STU_204121,US,LinkedIn,Analytics Engineering,1.5,0,0,0,0,4,98.5,0,None,0,0,0,0,0,
+STU_204122,UK,YouTube,Analytics Engineering,7.0,0,0,0,0,6,34.7,0,None,0,0,0,0,0,
+STU_204123,GR,Google,Data Analytics,5.6,0,0,3,0,4,47.3,0,None,0,0,0,0,0,
+STU_204124,GR,YouTube,Data Analytics,7.5,0,0,0,0,4,9.8,0,None,0,0,0,0,0,
+STU_204125,GR,yt,Power BI,-1.3,0,0,0,0,5,48.8,1,Full Track Program,18,0,2,1,0,1.0
+STU_204126,GR,linkedin,Data Analytics,-7.1,0,0,1,0,2,21.3,0,None,0,0,0,0,0,
+STU_204127,GR,YouTube,Analytics Engineering,-5.5,0,0,2,1,3,6.0,0,None,0,0,0,0,0,
+STU_204128,GR,Google,Data Analytics,3.1,0,0,3,0,2,10.8,0,None,0,0,0,0,0,
+STU_204129,GR,Newsletter,Analytics Engineering,-3.1,1,1,3,0,6,69.2,1,Full Track Program,15,3,2,1,1,0.0
+STU_204130,US,Google,nan,-1.9,0,0,0,0,7,40.6,0,None,0,0,0,0,0,
+STU_204131,CY,nan,Analytics Engineering,12.6,0,0,0,0,2,188.5,0,None,0,0,0,0,0,
+STU_204132,GR,LinkedIn,Analytics Engineering,-10.9,0,0,1,1,2,7.6,0,None,0,0,0,0,0,
+STU_204133,GR,linkedin,Data Analytics,3.2,0,0,0,0,4,11.2,0,None,0,0,0,0,0,
+STU_204134,GR,linkedin,Analytics Engineering,-4.3,0,0,0,0,2,7.8,0,None,0,0,0,0,0,
+STU_204135,GR,YouTube,Data Analytics,-7.3,0,0,1,0,6,6.3,0,None,0,0,0,0,0,
+STU_204136,GR,YouTube,Data Analytics,-4.3,0,0,1,0,7,51.0,0,None,0,0,0,0,0,
+STU_204137,GR,linkedin,Data Analytics,10.3,0,0,1,0,8,22.3,0,None,0,0,0,0,0,
+STU_204138,CY,Newsletter,Analytics Engineering,-1.2,0,0,0,0,4,5.8,0,None,0,0,0,0,0,
+STU_204139,GR,LinkedIn,Analytics Engineering,-16.0,0,0,0,0,3,5.5,0,None,0,0,0,0,0,
+STU_204140,GR,linkedin,Data Analytics,-24.6,1,1,0,0,4,1.6,1,Full Track Program,18,1,1,0,1,1.0
+STU_204141,DE,YouTube,Analytics Engineering,-5.3,0,0,0,0,3,20.6,0,None,0,0,0,0,0,
+STU_204142,DE,nan,Data Analytics,8.2,0,0,1,0,2,124.7,1,Single Course,19,0,2,1,1,0.0
+STU_204143,GR,YouTube,Power BI,-11.7,0,0,1,0,2,36.6,0,None,0,0,0,0,0,
+STU_204144,GR,LI,Analytics Engineering,1.2,1,1,1,0,3,5.8,0,None,0,0,0,0,0,
+STU_204145,GR,Newsletter,Analytics Engineering,4.3,0,0,0,0,1,19.8,0,None,0,0,0,0,0,
+STU_204146,GR,Google,Data Analytics,-15.2,1,1,0,0,4,22.6,1,Full Track Program,18,1,2,1,1,0.0
+STU_204147,GR,yt,Analytics Engineering,6.4,0,0,2,0,5,57.1,0,None,0,0,0,0,0,
+STU_204148,GR,YouTube,Power BI,7.5,1,1,3,0,5,42.5,1,Single Course,19,0,0,0,1,1.0
+STU_204149,GR,LinkedIn,nan,0.9,1,1,2,1,2,38.0,1,Single Course,18,0,0,0,1,1.0
+STU_204150,UK,Google,Data Analytics,-2.7,0,1,0,0,5,0.1,0,None,0,0,0,0,0,
+STU_204151,GR,YouTube,Analytics Engineering,13.2,0,0,0,0,3,22.8,1,Single Course,9,0,1,0,1,0.0
+STU_204152,GR,YouTube,Power BI,-7.1,1,1,2,0,2,29.4,1,Single Course,17,0,1,0,1,0.0
+STU_204153,GR,YouTube,Data Analytics,-14.5,0,0,0,0,6,19.9,0,None,0,0,0,0,0,
+STU_204154,GR,linkedin,Data Analytics,-4.9,0,0,1,1,6,36.1,0,None,0,0,0,0,0,
+STU_204155,GR,LinkedIn,Data Analytics,-1.2,0,0,0,0,0,14.4,0,None,0,0,0,0,0,
+STU_204156,GR,LinkedIn,Analytics Engineering,8.6,0,0,0,0,3,21.2,0,None,0,0,0,0,0,
+STU_204157,GR,LinkedIn,Data Analytics,-4.7,0,0,2,0,2,2.0,1,Single Course,4,0,2,1,1,0.0
+STU_204158,DE,Referral,Analytics Engineering,10.6,0,0,0,0,2,72.4,0,None,0,0,0,0,0,
+STU_204159,GR,Google,Data Analytics,-13.5,0,0,0,0,5,24.3,0,None,0,0,0,0,0,
+STU_204160,UK,linkedin,Analytics Engineering,3.0,1,1,0,0,4,101.9,1,Single Course,20,0,1,1,1,0.0
+STU_204161,GR,Google,Analytics Engineering,2.8,0,0,0,0,6,14.8,0,None,0,0,0,0,0,
+STU_204162,US,LinkedIn,Data Analytics,4.2,0,0,0,0,2,33.8,0,None,0,0,0,0,0,
+STU_204163,GR,Newsletter,nan,-1.1,0,0,0,0,4,32.5,0,None,0,0,0,0,0,
+STU_204164,GR,Google,Data Analytics,-2.7,0,0,2,0,4,38.4,0,None,0,0,0,0,0,
+STU_204165,GR,linkedin,Data Analytics,-1.5,0,0,1,0,6,5.8,1,Single Course,16,0,0,1,1,1.0
+STU_204166,GR,Referral,Data Analytics,-10.8,1,1,2,1,6,41.2,1,Single Course,22,0,1,1,1,0.0
+STU_204167,GR,yt,nan,7.9,1,1,0,0,5,6.8,1,Single Course,15,0,1,0,1,0.0
+STU_204168,GR,YouTube,Data Analytics,-10.2,0,0,1,0,4,0.9,0,None,0,0,0,0,0,
+STU_204169,CY,LinkedIn,Analytics Engineering,-23.5,0,0,1,0,5,35.0,0,None,0,0,0,0,0,
+STU_204170,GR,LI,Data Analytics,-2.1,0,0,3,0,2,230.7,0,None,0,0,0,0,0,
+STU_204171,GR,LinkedIn,Analytics Engineering,-1.4,0,0,0,0,4,1.2,0,None,0,0,0,0,0,
+STU_204172,GR,Google,Analytics Engineering,-1.7,0,0,0,0,3,13.6,0,None,0,0,0,0,0,
+STU_204173,GR,LinkedIn,Data Analytics,-7.2,0,0,0,0,3,1.5,0,None,0,0,0,0,0,
+STU_204174,GR,linkedin,Power BI,3.9,0,0,1,0,0,1.1,0,None,0,0,0,0,0,
+STU_204175,GR,YouTube,Data Analytics,-0.4,1,0,1,0,1,5.0,1,Single Course,11,0,2,0,1,0.0
+STU_204176,GR,Newsletter,Analytics Engineering,-3.3,1,0,0,0,2,28.3,0,None,0,0,0,0,0,
+STU_204177,GR,LinkedIn,nan,-3.1,0,0,0,0,7,11.0,0,None,0,0,0,0,0,
+STU_204178,CY,LinkedIn,Data Analytics,-21.1,0,0,1,0,4,100.7,0,None,0,0,0,0,0,
+STU_204179,UK,linkedin,Analytics Engineering,8.4,0,0,1,0,1,5.5,0,None,0,0,0,0,0,
+STU_204180,GR,Newsletter,Analytics Engineering,-16.6,0,0,1,0,6,31.5,1,Single Course,7,0,1,1,1,0.0
+STU_204181,GR,Google,Power BI,-8.8,0,0,1,0,7,113.2,0,None,0,0,0,0,0,
+STU_204182,GR,LinkedIn,Analytics Engineering,0.9,0,0,0,0,8,8.1,0,None,0,0,0,0,0,
+STU_204183,GR,Google,Data Analytics,12.1,0,0,1,0,4,14.5,0,None,0,0,0,0,0,
+STU_204184,CY,LinkedIn,Analytics Engineering,-6.3,0,1,0,0,8,9.9,0,None,0,0,0,0,0,
+STU_204185,GR,linkedin,Power BI,-11.8,0,0,1,0,5,46.2,1,Single Course,21,0,1,0,1,0.0
+STU_204186,GR,Newsletter,Analytics Engineering,-7.1,0,0,1,1,5,65.9,0,None,0,0,0,0,0,
+STU_204187,GR,YouTube,Data Analytics,8.1,0,0,0,0,3,61.4,0,None,0,0,0,0,0,
+STU_204188,DE,LI,Analytics Engineering,-6.3,1,0,0,0,3,18.3,1,Single Course,1,0,0,0,1,0.0
+STU_204189,CY,YouTube,Analytics Engineering,1.3,0,0,1,1,3,169.5,0,None,0,0,0,0,0,
+STU_204190,GR,YouTube,Data Analytics,-2.6,0,0,2,0,1,18.7,1,Single Course,19,0,2,0,1,0.0
+STU_204191,GR,LinkedIn,nan,3.5,0,0,2,0,2,16.6,0,None,0,0,0,0,0,
+STU_204192,GR,LinkedIn,nan,-5.1,0,0,2,0,7,66.3,1,Single Course,21,0,1,1,1,0.0
+STU_204193,US,LinkedIn,Analytics Engineering,8.4,0,0,0,0,3,3.9,0,None,0,0,0,0,0,
+STU_204194,GR,LinkedIn,Data Analytics,-10.0,1,1,1,1,4,86.4,1,Single Course,5,0,0,1,1,1.0
+STU_204195,CY,Newsletter,Data Analytics,-15.3,0,0,0,0,8,11.7,0,None,0,0,0,0,0,
+STU_204196,GR,Newsletter,Analytics Engineering,6.9,1,0,2,1,1,3.4,0,None,0,0,0,0,0,
+STU_204197,CY,LinkedIn,Analytics Engineering,11.0,0,0,1,0,6,38.7,1,Single Course,16,0,1,1,1,0.0
+STU_204198,CY,LinkedIn,Data Analytics,-7.2,0,0,1,0,2,48.6,0,None,0,0,0,0,0,
+STU_204199,GR,nan,Power BI,9.0,1,0,2,0,3,38.8,1,Single Course,6,0,1,0,1,0.0
+STU_204200,CY,Newsletter,Data Analytics,19.6,0,0,2,0,2,0.7,1,Single Course,12,0,0,0,1,1.0
+STU_204201,GR,YouTube,Power BI,-8.4,0,0,0,0,1,5.2,0,None,0,0,0,0,0,
+STU_204202,DE,LinkedIn,Power BI,-12.8,1,0,1,0,3,67.8,1,Full Track Program,23,6,2,0,1,1.0
+STU_204203,GR,LI,Analytics Engineering,-9.0,1,1,0,0,6,21.4,1,Single Course,3,0,2,0,1,0.0
+STU_204204,GR,LinkedIn,Data Analytics,4.8,0,0,2,0,7,65.5,0,None,0,0,0,0,0,
+STU_204205,GR,linkedin,Data Analytics,0.2,0,0,1,0,5,4.7,0,None,0,0,0,0,0,
+STU_204206,GR,Newsletter,Power BI,-10.0,1,0,0,0,9,4.4,0,None,0,0,0,0,0,
+STU_204207,GR,LinkedIn,Analytics Engineering,-28.5,1,1,0,0,3,103.2,1,Single Course,22,0,1,0,1,0.0
+STU_204208,GR,linkedin,Analytics Engineering,-3.3,1,1,0,0,3,29.5,1,Single Course,9,0,1,1,1,0.0
+STU_204209,CY,Newsletter,Analytics Engineering,0.6,0,0,0,0,6,31.5,0,None,0,0,0,0,0,
+STU_204210,GR,linkedin,Power BI,-14.6,0,0,0,0,7,45.3,0,None,0,0,0,0,0,
+STU_204211,GR,YouTube,Data Analytics,-18.7,0,0,2,0,5,128.5,0,None,0,0,0,0,0,
+STU_204212,GR,LinkedIn,Data Analytics,0.6,0,0,2,0,3,38.0,0,None,0,0,0,0,0,
+STU_204213,GR,linkedin,Analytics Engineering,9.7,0,0,1,0,1,17.9,0,None,0,0,0,0,0,
+STU_204214,GR,YouTube,Power BI,5.0,1,0,1,0,2,6.5,1,Single Course,18,0,1,1,1,0.0
+STU_204215,GR,Google,Data Analytics,-6.2,0,0,2,0,5,36.8,0,None,0,0,0,0,0,
+STU_204216,CY,Google,nan,-0.6,1,1,0,0,5,70.5,1,Single Course,14,0,1,0,1,0.0
+STU_204217,GR,LinkedIn,Data Analytics,-15.3,0,0,1,0,2,145.2,0,None,0,0,0,0,0,
+STU_204218,DE,linkedin,Data Analytics,8.0,0,0,0,0,4,11.9,0,None,0,0,0,0,0,
+STU_204219,GR,YouTube,Analytics Engineering,-2.8,0,1,0,0,5,16.8,1,Single Course,1,0,1,0,1,0.0
+STU_204220,GR,Google,Data Analytics,-10.9,0,0,0,0,2,9.6,0,None,0,0,0,0,0,
+STU_204221,GR,nan,nan,2.8,0,0,0,0,2,78.8,0,None,0,0,0,0,0,
+STU_204222,GR,Google,Power BI,8.2,0,0,0,0,2,5.7,1,Full Track Program,7,0,1,0,1,1.0
+STU_204223,GR,linkedin,Analytics Engineering,0.2,0,0,1,0,5,73.5,1,Single Course,14,0,0,1,1,1.0
+STU_204224,GR,LinkedIn,Data Analytics,-8.7,1,1,1,0,6,0.6,1,Single Course,18,0,1,0,1,0.0
+STU_204225,GR,linkedin,Data Analytics,20.0,0,0,1,0,5,4.2,1,Single Course,12,0,0,0,1,1.0
+STU_204226,GR,LinkedIn,Power BI,0.9,0,0,1,0,9,140.4,0,None,0,0,0,0,0,
+STU_204227,GR,YouTube,Analytics Engineering,-7.8,0,0,0,0,3,27.3,0,None,0,0,0,0,0,
+STU_204228,GR,Newsletter,Analytics Engineering,1.1,0,1,0,0,3,33.4,0,None,0,0,0,0,0,
+STU_204229,GR,LinkedIn,Analytics Engineering,-7.1,1,0,0,0,0,25.5,0,None,0,0,0,0,0,
+STU_204230,GR,YouTube,Power BI,-17.7,0,0,0,0,4,10.9,0,None,0,0,0,0,0,
+STU_204231,GR,Newsletter,Data Analytics,-14.2,1,1,0,0,3,156.2,1,Single Course,17,0,1,0,1,0.0
+STU_204232,DE,LinkedIn,Analytics Engineering,5.4,0,0,1,1,5,0.2,0,None,0,0,0,0,0,
+STU_204233,GR,LI,Analytics Engineering,-16.7,0,0,2,0,3,221.1,0,None,0,0,0,0,0,
+STU_204234,UK,LinkedIn,Power BI,-0.7,0,0,1,0,6,101.2,0,None,0,0,0,0,0,
+STU_204235,GR,yt,Data Analytics,0.5,1,0,1,0,3,15.5,1,Single Course,7,0,1,0,1,0.0
+STU_204236,GR,YouTube,Data Analytics,-0.6,0,0,1,0,10,48.5,0,None,0,0,0,0,0,
+STU_204237,US,Google,Analytics Engineering,20.2,0,0,2,0,1,31.4,0,None,0,0,0,0,0,
+STU_204238,GR,LI,Analytics Engineering,1.7,1,1,1,0,6,38.7,1,Single Course,11,0,0,1,1,1.0
+STU_204239,GR,YouTube,Data Analytics,-6.8,0,0,0,0,5,100.1,1,Single Course,16,0,0,0,1,1.0
+STU_204240,GR,LinkedIn,Analytics Engineering,10.9,1,1,0,0,3,37.6,1,Single Course,10,0,0,0,1,1.0
+STU_204241,GR,YouTube,Data Analytics,-3.7,0,0,0,0,2,17.8,0,None,0,0,0,0,0,
+STU_204242,GR,LinkedIn,Analytics Engineering,-2.2,0,0,2,0,1,49.1,0,None,0,0,0,0,0,
+STU_204243,GR,YouTube,Data Analytics,1.1,0,0,3,1,1,62.0,0,None,0,0,0,0,0,
+STU_204244,GR,Newsletter,nan,-4.5,0,0,0,0,10,25.3,0,None,0,0,0,0,0,
+STU_204245,GR,LinkedIn,Data Analytics,-11.5,0,0,2,0,3,49.6,0,None,0,0,0,0,0,
+STU_204246,CY,Google,Data Analytics,-8.9,0,0,1,0,3,59.1,0,None,0,0,0,0,0,
+STU_204247,GR,YouTube,Analytics Engineering,1.9,0,0,0,0,4,42.7,0,None,0,0,0,0,0,
+STU_204248,CY,linkedin,Data Analytics,-10.4,0,0,1,0,6,61.7,0,None,0,0,0,0,0,
+STU_204249,GR,Newsletter,Data Analytics,-4.6,1,1,2,0,4,123.6,1,Full Track Program,12,2,0,0,1,1.0
+STU_204250,GR,LinkedIn,Analytics Engineering,-11.9,1,1,0,0,3,21.4,1,Single Course,2,0,1,0,1,0.0
+STU_204251,GR,Newsletter,Data Analytics,14.7,0,0,1,0,2,32.0,0,None,0,0,0,0,0,
+STU_204252,GR,LinkedIn,Data Analytics,-20.4,0,0,2,0,5,133.5,0,None,0,0,0,0,0,
+STU_204253,GR,yt,Analytics Engineering,4.8,0,0,0,0,4,318.6,0,None,0,0,0,0,0,
+STU_204254,GR,Newsletter,Analytics Engineering,-5.7,1,1,2,0,7,15.6,1,Single Course,14,0,0,1,1,1.0
+STU_204255,GR,YouTube,Data Analytics,-10.3,0,0,1,1,5,12.1,0,None,0,0,0,0,0,
+STU_204256,CY,YouTube,Analytics Engineering,-0.9,1,1,2,1,5,50.9,1,Full Track Program,8,4,3,0,1,1.0
+STU_204257,GR,LinkedIn,Data Analytics,-12.9,0,0,0,0,3,36.8,0,None,0,0,0,0,0,
+STU_204258,GR,Newsletter,Analytics Engineering,7.8,0,0,0,0,6,28.6,0,None,0,0,0,0,0,
+STU_204259,GR,Newsletter,Analytics Engineering,-2.5,0,0,0,0,2,61.3,0,None,0,0,0,0,0,
+STU_204260,GR,LinkedIn,Analytics Engineering,-9.3,0,0,1,1,1,14.1,0,None,0,0,0,0,0,
+STU_204261,GR,linkedin,Power BI,-11.4,0,0,0,0,3,85.4,0,None,0,0,0,0,0,
+STU_204262,GR,LinkedIn,Analytics Engineering,-10.3,0,0,0,0,8,41.7,0,None,0,0,0,0,0,
+STU_204263,CY,linkedin,Analytics Engineering,-13.9,0,0,1,0,9,18.4,1,Single Course,7,0,0,1,1,1.0
+STU_204264,UK,linkedin,Analytics Engineering,-2.8,0,0,0,0,4,62.3,0,None,0,0,0,0,0,
+STU_204265,UK,linkedin,Data Analytics,-0.3,0,0,2,0,6,23.0,0,None,0,0,0,0,0,
+STU_204266,GR,nan,Analytics Engineering,-12.8,0,0,0,0,4,77.1,1,Full Track Program,21,3,0,1,1,1.0
+STU_204267,GR,linkedin,Power BI,-12.7,0,0,1,0,1,2.7,0,None,0,0,0,0,0,
+STU_204268,GR,Google,nan,-4.6,0,0,0,0,5,112.7,0,None,0,0,0,0,0,
+STU_204269,GR,Newsletter,Data Analytics,-8.9,0,0,1,0,6,17.1,1,Single Course,7,0,0,1,1,1.0
+STU_204270,GR,LinkedIn,Data Analytics,-15.2,0,1,0,0,2,69.0,0,None,0,0,0,0,0,
+STU_204271,CY,Newsletter,Data Analytics,12.9,0,0,1,0,2,37.1,0,None,0,0,0,0,0,
+STU_204272,GR,linkedin,Data Analytics,5.7,0,0,0,0,3,66.8,1,Single Course,1,0,1,1,1,0.0
+STU_204273,DE,yt,nan,-19.0,0,0,1,0,6,28.9,0,None,0,0,0,0,0,
+STU_204274,GR,nan,Data Analytics,7.1,0,0,0,0,3,135.2,0,None,0,0,0,0,0,
+STU_204275,GR,yt,nan,-0.6,0,1,2,0,7,28.7,0,None,0,0,0,0,0,
+STU_204276,GR,LI,Analytics Engineering,-15.3,1,0,1,0,4,108.1,0,None,0,0,0,0,0,
+STU_204277,GR,LinkedIn,Analytics Engineering,3.5,1,1,2,0,4,55.7,1,Single Course,18,0,1,1,1,0.0
+STU_204278,GR,linkedin,Power BI,-20.0,0,0,1,1,6,11.1,1,Single Course,7,0,0,0,1,1.0
+STU_204279,GR,LinkedIn,Analytics Engineering,-18.1,0,0,0,0,4,138.5,0,None,0,0,0,0,0,
+STU_204280,GR,linkedin,Analytics Engineering,4.6,0,0,1,0,3,35.5,0,None,0,0,0,0,0,
+STU_204281,GR,nan,Data Analytics,-10.2,0,0,2,1,8,30.3,1,Full Track Program,11,0,5,0,1,1.0
+STU_204282,GR,linkedin,Data Analytics,0.6,0,0,1,0,6,4.6,0,None,0,0,0,0,0,
+STU_204283,GR,Google,Power BI,-8.6,0,0,0,0,4,104.4,0,None,0,0,0,0,0,
+STU_204284,GR,LinkedIn,Data Analytics,-10.3,0,0,0,0,1,17.5,0,None,0,0,0,0,0,
+STU_204285,GR,nan,Data Analytics,1.8,1,1,2,0,4,26.4,1,Single Course,6,0,0,0,1,1.0
+STU_204286,GR,LinkedIn,Data Analytics,-2.9,0,0,1,0,4,14.2,0,None,0,0,0,0,0,
+STU_204287,GR,YouTube,Analytics Engineering,-5.7,0,0,2,0,9,81.2,0,None,0,0,0,0,0,
+STU_204288,GR,Newsletter,Analytics Engineering,-3.2,0,0,1,1,1,61.2,0,None,0,0,0,0,0,
+STU_204289,GR,LI,Analytics Engineering,16.1,0,0,1,0,7,17.9,0,None,0,0,0,0,0,
+STU_204290,CY,YouTube,Analytics Engineering,4.1,0,0,2,0,3,45.9,0,None,0,0,0,0,0,
+STU_204291,DE,Google,Data Analytics,10.2,0,0,0,0,2,9.1,1,Single Course,14,0,2,0,1,0.0
+STU_204292,CY,LinkedIn,Data Analytics,-4.1,0,0,1,0,3,25.1,0,None,0,0,0,0,0,
+STU_204293,GR,linkedin,nan,11.0,0,0,0,0,4,42.7,0,None,0,0,0,0,0,
+STU_204294,GR,YouTube,Analytics Engineering,0.7,0,0,0,0,5,11.4,0,None,0,0,0,0,0,
+STU_204295,GR,Google,Analytics Engineering,-2.3,1,0,0,0,7,22.1,1,Single Course,5,0,1,0,1,0.0
+STU_204296,GR,YouTube,Data Analytics,11.1,0,0,1,0,2,52.4,0,None,0,0,0,0,0,
+STU_204297,GR,linkedin,Power BI,-13.7,0,0,1,0,5,97.5,0,None,0,0,0,0,0,
+STU_204298,GR,LinkedIn,Power BI,3.0,0,0,0,0,3,92.0,0,None,0,0,0,0,0,
+STU_204299,DE,linkedin,Data Analytics,-5.1,1,0,1,0,7,28.2,1,Single Course,18,0,0,1,1,1.0
+STU_204300,GR,LI,Analytics Engineering,5.8,0,0,0,0,1,84.3,0,None,0,0,0,0,0,
+STU_204301,GR,nan,Power BI,-8.4,0,0,2,0,2,13.5,1,Single Course,22,0,0,1,1,1.0
+STU_204302,GR,linkedin,Analytics Engineering,-15.0,1,1,1,1,3,8.6,1,Single Course,19,0,1,0,1,0.0
+STU_204303,CY,Newsletter,Data Analytics,-12.6,0,0,2,0,6,58.3,0,None,0,0,0,0,0,
+STU_204304,GR,linkedin,Analytics Engineering,-13.9,0,1,0,0,4,44.5,0,None,0,0,0,0,0,
+STU_204305,GR,linkedin,Data Analytics,-18.7,0,0,0,0,2,29.6,0,None,0,0,0,0,0,
+STU_204306,GR,LinkedIn,Data Analytics,-12.9,0,0,1,0,1,37.7,0,None,0,0,0,0,0,
+STU_204307,UK,linkedin,Analytics Engineering,-12.3,0,0,3,0,6,29.5,1,Single Course,13,0,1,0,1,0.0
+STU_204308,GR,yt,Analytics Engineering,-6.2,1,1,1,0,5,13.3,1,Single Course,1,0,1,0,1,0.0
+STU_204309,GR,Newsletter,Analytics Engineering,10.7,0,0,0,0,5,91.5,0,None,0,0,0,0,0,
+STU_204310,UK,LinkedIn,Data Analytics,6.2,0,0,1,0,4,47.2,0,None,0,0,0,0,0,
+STU_204311,UK,yt,Data Analytics,-9.8,0,0,1,0,4,5.4,0,None,0,0,0,0,0,
+STU_204312,GR,linkedin,Analytics Engineering,-5.5,0,0,3,0,3,52.8,0,None,0,0,0,0,0,
+STU_204313,GR,Google,Analytics Engineering,-13.1,0,0,1,0,3,35.3,0,None,0,0,0,0,0,
+STU_204314,GR,Google,Data Analytics,19.2,0,0,0,0,2,28.5,0,None,0,0,0,0,0,
+STU_204315,GR,linkedin,Data Analytics,11.8,0,0,0,0,5,204.0,0,None,0,0,0,0,0,
+STU_204316,GR,Newsletter,Analytics Engineering,-2.3,1,0,2,0,5,57.4,1,Single Course,20,0,0,0,1,1.0
+STU_204317,GR,LI,nan,-15.7,0,0,0,0,5,16.6,0,None,0,0,0,0,0,
+STU_204318,GR,LinkedIn,Analytics Engineering,-33.4,0,0,1,1,2,31.0,0,None,0,0,0,0,0,
+STU_204319,US,LI,Data Analytics,-11.8,0,0,1,0,5,14.7,0,None,0,0,0,0,0,
+STU_204320,GR,linkedin,Analytics Engineering,-6.8,0,0,3,0,1,4.5,0,None,0,0,0,0,0,
+STU_204321,DE,linkedin,Analytics Engineering,-6.7,0,0,2,1,6,74.9,0,None,0,0,0,0,0,
+STU_204322,GR,Google,Analytics Engineering,1.2,0,0,0,0,5,50.3,0,None,0,0,0,0,0,
+STU_204323,GR,YouTube,Data Analytics,13.9,0,0,2,1,5,129.7,0,None,0,0,0,0,0,
+STU_204324,GR,linkedin,Data Analytics,-7.5,0,0,2,0,2,123.3,1,Single Course,4,0,2,1,1,0.0
+STU_204325,UK,YouTube,Analytics Engineering,-7.7,0,0,2,0,3,14.0,1,Single Course,12,0,0,0,1,1.0
+STU_204326,GR,Newsletter,Data Analytics,-4.9,0,0,1,0,3,148.1,0,None,0,0,0,0,0,
+STU_204327,CY,Google,Data Analytics,-3.2,1,0,2,0,4,127.1,1,Single Course,2,0,1,0,1,0.0
+STU_204328,GR,LinkedIn,Power BI,2.8,0,0,2,0,4,3.7,0,None,0,0,0,0,0,
+STU_204329,GR,Newsletter,Power BI,5.2,0,0,0,0,6,216.0,0,None,0,0,0,0,0,
+STU_204330,CY,YouTube,Analytics Engineering,1.6,0,0,1,0,6,17.4,0,None,0,0,0,0,0,
+STU_204331,GR,YouTube,Data Analytics,-8.5,0,0,1,0,4,17.0,0,None,0,0,0,0,0,
+STU_204332,CY,YouTube,Analytics Engineering,-4.8,0,0,1,0,2,12.2,0,None,0,0,0,0,0,
+STU_204333,GR,YouTube,Data Analytics,11.1,0,0,0,0,5,61.0,0,None,0,0,0,0,0,
+STU_204334,GR,Newsletter,Analytics Engineering,15.0,1,1,0,0,1,28.0,1,Single Course,11,0,0,1,1,1.0
+STU_204335,GR,LinkedIn,Power BI,-17.3,1,1,2,0,3,8.3,1,Single Course,11,0,0,0,1,1.0
+STU_204336,GR,LinkedIn,Data Analytics,-7.7,1,1,0,0,7,23.1,1,Single Course,11,0,0,1,1,1.0
+STU_204337,GR,Referral,Power BI,-0.2,0,0,1,0,3,3.5,0,None,0,0,0,0,0,
+STU_204338,CY,linkedin,Data Analytics,1.6,0,0,1,0,4,6.0,0,None,0,0,0,0,0,
+STU_204339,CY,LinkedIn,Data Analytics,-2.2,0,1,2,0,2,4.3,1,Single Course,16,0,0,0,1,1.0
+STU_204340,GR,Referral,Data Analytics,-5.6,0,0,3,0,5,129.0,0,None,0,0,0,0,0,
+STU_204341,GR,LI,Power BI,-6.1,0,0,0,0,0,68.8,0,None,0,0,0,0,0,
+STU_204342,GR,Newsletter,Data Analytics,-5.2,0,0,1,0,4,170.7,0,None,0,0,0,0,0,
+STU_204343,US,LinkedIn,Power BI,-9.6,1,0,1,1,5,39.0,1,Single Course,23,0,0,0,1,1.0
+STU_204344,GR,YouTube,nan,-8.9,1,1,1,0,5,17.3,1,Single Course,6,0,1,0,1,0.0
+STU_204345,GR,LinkedIn,Power BI,-5.3,0,0,1,0,4,80.6,0,None,0,0,0,0,0,
+STU_204346,GR,linkedin,Data Analytics,1.4,0,0,0,0,3,23.1,0,None,0,0,0,0,0,
+STU_204347,GR,YouTube,Analytics Engineering,-15.0,1,1,0,0,2,18.5,1,Full Track Program,9,6,2,1,1,0.0
+STU_204348,GR,YouTube,Analytics Engineering,-3.7,0,0,0,0,3,28.4,0,None,0,0,0,0,0,
+STU_204349,GR,nan,nan,3.0,0,0,1,0,2,12.9,0,None,0,0,0,0,0,
+STU_204350,GR,yt,Power BI,-11.7,0,0,2,0,3,58.5,0,None,0,0,0,0,0,
+STU_204351,GR,linkedin,Analytics Engineering,3.2,0,0,2,0,6,22.0,0,None,0,0,0,0,0,
+STU_204352,GR,LI,Data Analytics,9.4,1,1,1,1,1,134.1,1,Single Course,12,0,0,0,1,1.0
+STU_204353,GR,nan,Data Analytics,7.4,0,0,3,0,5,100.3,0,None,0,0,0,0,0,
+STU_204354,UK,LinkedIn,Power BI,-16.2,1,1,0,0,9,113.6,1,Single Course,9,0,0,0,1,1.0
+STU_204355,GR,YouTube,Data Analytics,5.7,0,0,0,0,5,2.5,0,None,0,0,0,0,0,
+STU_204356,GR,linkedin,Power BI,10.8,0,0,1,0,4,17.2,0,None,0,0,0,0,0,
+STU_204357,GR,Google,Power BI,-2.3,0,0,0,0,2,3.7,0,None,0,0,0,0,0,
+STU_204358,GR,nan,Power BI,-1.0,0,0,1,0,3,21.6,0,None,0,0,0,0,0,
+STU_204359,GR,Newsletter,nan,2.2,1,1,1,0,7,9.0,1,Single Course,3,0,0,1,1,0.0
+STU_204360,GR,LinkedIn,Data Analytics,-0.1,0,0,3,0,9,17.9,0,None,0,0,0,0,0,
+STU_204361,GR,linkedin,Analytics Engineering,-19.6,1,0,0,0,0,22.6,1,Single Course,15,0,1,1,1,0.0
+STU_204362,GR,LinkedIn,Analytics Engineering,6.1,0,0,1,1,6,9.5,0,None,0,0,0,0,0,
+STU_204363,GR,Google,Analytics Engineering,3.8,0,0,0,0,4,46.8,0,None,0,0,0,0,0,
+STU_204364,GR,LinkedIn,Data Analytics,-10.1,0,0,1,0,4,45.2,0,None,0,0,0,0,0,
+STU_204365,GR,LinkedIn,Data Analytics,-7.2,0,0,2,1,3,119.5,0,None,0,0,0,0,0,
+STU_204366,GR,LinkedIn,Data Analytics,-9.0,0,0,0,0,4,95.0,0,None,0,0,0,0,0,
+STU_204367,GR,YouTube,Power BI,-7.2,0,0,1,0,2,193.7,0,None,0,0,0,0,0,
+STU_204368,GR,YouTube,Power BI,15.9,0,0,1,0,3,174.3,0,None,0,0,0,0,0,
+STU_204369,GR,LinkedIn,Data Analytics,5.2,0,0,1,0,2,51.6,0,None,0,0,0,0,0,
+STU_204370,CY,Newsletter,Analytics Engineering,-2.9,1,0,1,0,4,99.8,1,Single Course,22,0,1,1,1,0.0
+STU_204371,GR,Newsletter,Analytics Engineering,-4.9,0,0,1,0,5,54.7,0,None,0,0,0,0,0,
+STU_204372,CY,LinkedIn,Analytics Engineering,15.2,0,0,1,0,3,39.5,0,None,0,0,0,0,0,
+STU_204373,CY,YouTube,Analytics Engineering,2.3,1,1,0,0,2,53.8,1,Full Track Program,17,1,0,0,1,1.0
+STU_204374,US,nan,Data Analytics,-18.6,0,0,2,0,4,3.2,0,None,0,0,0,0,0,
+STU_204375,GR,yt,Data Analytics,8.2,0,0,2,0,1,99.0,0,None,0,0,0,0,0,
+STU_204376,GR,Google,Data Analytics,-5.1,0,0,0,0,2,23.8,0,None,0,0,0,0,0,
+STU_204377,GR,Google,Power BI,-13.6,0,0,3,1,0,3.6,0,None,0,0,0,0,0,
+STU_204378,GR,Referral,Data Analytics,-1.8,1,1,2,0,2,10.8,1,Single Course,10,0,0,0,1,1.0
+STU_204379,CY,LinkedIn,Analytics Engineering,1.7,0,0,1,0,2,62.8,0,None,0,0,0,0,0,
+STU_204380,CY,Google,Analytics Engineering,3.6,0,0,1,0,5,7.7,0,None,0,0,0,0,0,
+STU_204381,GR,LinkedIn,Analytics Engineering,-4.7,0,0,0,0,5,83.7,0,None,0,0,0,0,0,
+STU_204382,GR,Newsletter,Power BI,-17.0,0,0,1,0,1,67.4,0,None,0,0,0,0,0,
+STU_204383,GR,LinkedIn,Data Analytics,-17.7,0,0,0,0,5,5.7,0,None,0,0,0,0,0,
+STU_204384,GR,linkedin,Data Analytics,-12.8,1,1,1,0,9,21.9,1,Full Track Program,10,1,1,0,1,1.0
+STU_204385,GR,LinkedIn,Analytics Engineering,8.2,1,1,0,0,2,126.6,1,Single Course,13,0,0,0,1,1.0
+STU_204386,GR,Referral,Power BI,-2.9,1,1,2,0,8,28.4,1,Full Track Program,8,4,1,0,1,1.0
+STU_204387,GR,linkedin,Power BI,-16.9,0,0,0,0,2,4.1,0,None,0,0,0,0,0,
+STU_204388,CY,Google,Data Analytics,-1.3,0,0,3,0,3,2.4,0,None,0,0,0,0,0,
+STU_204389,GR,YouTube,Data Analytics,3.8,1,1,0,0,2,52.5,1,Full Track Program,14,1,2,1,1,1.0
+STU_204390,GR,LinkedIn,Data Analytics,8.0,0,0,1,0,4,19.4,0,None,0,0,0,0,0,
+STU_204391,GR,nan,Analytics Engineering,-19.6,0,0,1,0,4,5.5,0,None,0,0,0,0,0,
+STU_204392,UK,YouTube,Data Analytics,-13.3,1,1,1,0,5,3.1,1,Single Course,22,0,1,1,1,0.0
+STU_204393,GR,YouTube,nan,-5.6,1,0,1,0,6,32.4,0,None,0,0,0,0,0,
+STU_204394,GR,Newsletter,Data Analytics,-12.1,0,0,1,0,1,50.1,0,None,0,0,0,0,0,
+STU_204395,GR,YouTube,Power BI,-6.6,0,0,0,0,4,52.2,0,None,0,0,0,0,0,
+STU_204396,GR,linkedin,Data Analytics,1.2,0,0,2,0,2,28.0,0,None,0,0,0,0,0,
+STU_204397,GR,YouTube,Data Analytics,-6.0,0,0,2,0,6,14.9,1,Full Track Program,3,5,1,1,1,1.0
+STU_204398,GR,YouTube,Power BI,0.6,0,0,1,0,2,5.5,0,None,0,0,0,0,0,
+STU_204399,GR,linkedin,Analytics Engineering,2.4,0,0,1,1,4,47.3,1,Full Track Program,14,1,0,0,1,1.0
+STU_204400,GR,nan,Data Analytics,11.3,1,0,0,0,7,13.9,1,Single Course,8,0,1,0,1,0.0
+STU_204401,DE,Google,Data Analytics,-14.8,0,0,0,0,7,41.5,0,None,0,0,0,0,0,
+STU_204402,GR,Newsletter,Data Analytics,5.6,1,0,2,1,8,225.9,1,Single Course,23,0,0,0,1,1.0
+STU_204403,GR,LinkedIn,Data Analytics,-6.3,0,0,1,0,3,8.6,0,None,0,0,0,0,0,
+STU_204404,GR,LinkedIn,nan,7.3,0,0,3,0,4,62.0,0,None,0,0,0,0,0,
+STU_204405,CY,LinkedIn,Data Analytics,-10.8,0,0,0,0,6,9.4,0,None,0,0,0,0,0,
+STU_204406,GR,YouTube,nan,-3.0,0,0,2,0,5,34.1,0,None,0,0,0,0,0,
+STU_204407,GR,YouTube,Analytics Engineering,7.8,1,0,0,0,2,87.2,1,Single Course,18,0,0,0,1,1.0
+STU_204408,GR,LinkedIn,Power BI,-7.1,0,0,2,0,4,4.0,0,None,0,0,0,0,0,
+STU_204409,GR,linkedin,Data Analytics,4.7,0,0,0,0,3,62.4,0,None,0,0,0,0,0,
+STU_204410,GR,Newsletter,Power BI,21.6,1,1,2,0,0,21.8,1,Single Course,9,0,0,0,1,1.0
+STU_204411,GR,LinkedIn,Data Analytics,-4.5,0,1,0,0,3,73.3,1,Full Track Program,21,6,0,0,1,1.0
+STU_204412,DE,LinkedIn,Analytics Engineering,-22.5,1,1,1,0,4,37.9,1,Single Course,10,0,1,0,1,0.0
+STU_204413,GR,linkedin,Data Analytics,-23.1,0,0,3,1,6,50.4,0,None,0,0,0,0,0,
+STU_204414,GR,linkedin,Data Analytics,-4.2,0,0,2,0,1,35.1,0,None,0,0,0,0,0,
+STU_204415,US,YouTube,Analytics Engineering,-6.2,0,0,0,0,4,8.3,0,None,0,0,0,0,0,
+STU_204416,CY,LinkedIn,nan,9.1,0,0,0,0,4,69.8,0,None,0,0,0,0,0,
+STU_204417,CY,linkedin,Data Analytics,-15.5,0,0,2,0,5,14.2,0,None,0,0,0,0,0,
+STU_204418,GR,LinkedIn,Data Analytics,5.7,0,0,0,0,3,12.1,0,None,0,0,0,0,0,
+STU_204419,UK,Newsletter,Analytics Engineering,1.9,0,0,1,0,3,28.9,0,None,0,0,0,0,0,
+STU_204420,DE,LinkedIn,Data Analytics,3.9,0,0,1,0,6,29.0,0,None,0,0,0,0,0,
+STU_204421,GR,LinkedIn,Analytics Engineering,3.6,0,0,1,0,7,22.6,0,None,0,0,0,0,0,
+STU_204422,GR,LI,Data Analytics,3.4,0,0,1,1,5,0.0,0,None,0,0,0,0,0,
+STU_204423,CY,Newsletter,Power BI,-11.8,0,0,2,0,4,96.9,0,None,0,0,0,0,0,
+STU_204424,GR,LinkedIn,Data Analytics,15.0,0,0,0,0,4,55.7,0,None,0,0,0,0,0,
+STU_204425,CY,LinkedIn,Analytics Engineering,-21.5,0,0,1,0,5,13.7,0,None,0,0,0,0,0,
+STU_204426,DE,yt,Analytics Engineering,-0.4,0,0,0,0,7,66.7,0,None,0,0,0,0,0,
+STU_204427,GR,YouTube,Data Analytics,-3.5,0,0,0,0,2,34.5,0,None,0,0,0,0,0,
+STU_204428,CY,linkedin,Data Analytics,-3.3,0,0,0,0,5,0.6,1,Single Course,23,0,2,0,1,0.0
+STU_204429,GR,LinkedIn,Analytics Engineering,17.5,1,0,0,0,3,12.3,0,None,0,0,0,0,0,
+STU_204430,US,Google,nan,-5.9,1,0,0,0,3,52.5,1,Single Course,22,0,2,1,1,0.0
+STU_204431,GR,Google,Data Analytics,-2.0,0,0,2,1,6,28.8,0,None,0,0,0,0,0,
+STU_204432,GR,linkedin,Analytics Engineering,-0.7,0,0,0,0,5,29.1,0,None,0,0,0,0,0,
+STU_204433,GR,Google,Power BI,-15.6,1,0,0,0,5,54.8,1,Single Course,18,0,1,0,1,0.0
+STU_204434,GR,YouTube,Analytics Engineering,-5.6,0,0,1,0,1,31.3,1,Single Course,13,0,0,0,1,1.0
+STU_204435,GR,Newsletter,Data Analytics,-1.4,1,1,2,0,1,7.4,1,Single Course,1,0,1,0,1,0.0
+STU_204436,CY,Newsletter,Power BI,-16.0,0,0,1,0,5,76.7,0,None,0,0,0,0,0,
+STU_204437,CY,YouTube,Data Analytics,12.3,1,0,1,1,3,7.8,1,Single Course,8,0,1,0,1,0.0
+STU_204438,GR,linkedin,Power BI,-11.7,0,0,1,0,3,72.0,0,None,0,0,0,0,0,
+STU_204439,GR,LinkedIn,Analytics Engineering,-10.2,0,0,2,0,3,44.2,0,None,0,0,0,0,0,
+STU_204440,DE,linkedin,Data Analytics,-12.2,0,0,1,0,1,13.1,1,Single Course,6,0,1,0,1,0.0
+STU_204441,GR,LinkedIn,Data Analytics,-5.6,0,0,1,0,4,27.4,0,None,0,0,0,0,0,
+STU_204442,GR,LinkedIn,Analytics Engineering,8.2,0,0,1,0,2,41.4,0,None,0,0,0,0,0,
+STU_204443,GR,Google,Analytics Engineering,-9.1,0,0,3,0,2,111.3,0,None,0,0,0,0,0,
+STU_204444,GR,YouTube,Analytics Engineering,10.3,0,0,1,1,2,16.3,0,None,0,0,0,0,0,
+STU_204445,GR,Newsletter,nan,13.0,0,0,0,0,3,10.6,0,None,0,0,0,0,0,
+STU_204446,US,linkedin,Analytics Engineering,0.4,1,1,1,0,2,71.1,1,Full Track Program,17,2,2,0,1,1.0
+STU_204447,GR,LinkedIn,Data Analytics,8.0,0,0,0,0,3,42.4,0,None,0,0,0,0,0,
+STU_204448,GR,LinkedIn,Data Analytics,-2.8,1,1,1,0,9,71.0,1,Full Track Program,7,4,4,1,1,1.0
+STU_204449,GR,LinkedIn,Data Analytics,-11.7,0,0,1,0,6,20.6,0,None,0,0,0,0,0,
+STU_204450,GR,yt,Analytics Engineering,3.2,0,0,1,1,6,11.9,0,None,0,0,0,0,0,
+STU_204451,GR,LinkedIn,nan,-7.8,1,1,0,0,3,198.8,1,Full Track Program,21,1,0,1,1,1.0
+STU_204452,GR,YouTube,Analytics Engineering,-5.2,0,0,0,0,5,35.2,0,None,0,0,0,0,0,
+STU_204453,GR,YouTube,Analytics Engineering,-5.4,0,0,1,0,2,56.1,1,Full Track Program,6,0,0,0,1,1.0
+STU_204454,GR,yt,Data Analytics,9.3,0,0,2,1,4,42.2,0,None,0,0,0,0,0,
+STU_204455,GR,YouTube,Data Analytics,11.7,0,0,1,0,2,12.7,0,None,0,0,0,0,0,
+STU_204456,GR,Newsletter,Data Analytics,18.1,0,0,2,0,10,35.7,0,None,0,0,0,0,0,
+STU_204457,GR,LinkedIn,Analytics Engineering,-12.0,0,1,0,0,2,68.9,0,None,0,0,0,0,0,
+STU_204458,GR,linkedin,Power BI,7.0,1,1,1,0,6,170.8,1,Full Track Program,11,4,0,0,1,1.0
+STU_204459,GR,LI,Analytics Engineering,-13.0,1,0,0,0,4,19.2,1,Single Course,2,0,0,0,1,0.0
+STU_204460,DE,LI,Analytics Engineering,-6.8,0,0,0,0,1,62.8,0,None,0,0,0,0,0,
+STU_204461,GR,LinkedIn,Analytics Engineering,-7.8,1,1,2,0,6,31.3,1,Full Track Program,1,0,0,1,1,0.0
+STU_204462,CY,YouTube,Data Analytics,-10.9,0,1,0,0,5,46.6,0,None,0,0,0,0,0,
+STU_204463,DE,LinkedIn,Analytics Engineering,-2.8,0,0,0,0,2,39.8,0,None,0,0,0,0,0,
+STU_204464,CY,LinkedIn,Power BI,-2.1,1,0,2,0,5,105.2,0,None,0,0,0,0,0,
+STU_204465,GR,Newsletter,Analytics Engineering,-2.4,1,1,0,0,5,114.2,1,Single Course,9,0,0,1,1,1.0
+STU_204466,GR,linkedin,Data Analytics,-0.9,0,1,0,0,3,8.5,0,None,0,0,0,0,0,
+STU_204467,GR,LinkedIn,Data Analytics,-8.7,1,1,2,0,5,38.8,1,Single Course,23,0,0,0,1,1.0
+STU_204468,GR,Google,Data Analytics,2.1,0,0,0,0,7,44.6,1,Full Track Program,9,1,0,0,1,1.0
+STU_204469,GR,Newsletter,Analytics Engineering,2.2,0,0,0,0,4,53.5,0,None,0,0,0,0,0,
+STU_204470,GR,linkedin,Data Analytics,1.1,0,0,0,0,3,9.6,0,None,0,0,0,0,0,
+STU_204471,GR,Google,nan,12.3,0,0,0,0,1,100.1,0,None,0,0,0,0,0,
+STU_204472,GR,LinkedIn,Analytics Engineering,5.6,0,0,1,0,2,95.3,0,None,0,0,0,0,0,
+STU_204473,GR,LinkedIn,Power BI,11.4,0,0,1,0,3,3.3,0,None,0,0,0,0,0,
+STU_204474,GR,YouTube,Data Analytics,8.1,0,0,2,0,1,12.6,0,None,0,0,0,0,0,
+STU_204475,GR,LinkedIn,Power BI,-13.7,0,0,0,0,1,46.1,0,None,0,0,0,0,0,
+STU_204476,GR,YouTube,Data Analytics,-13.0,0,0,1,0,3,2.2,0,None,0,0,0,0,0,
+STU_204477,GR,Newsletter,Analytics Engineering,-6.2,1,1,0,0,2,48.1,1,Single Course,10,0,1,0,1,0.0
+STU_204478,CY,yt,Analytics Engineering,-3.4,0,0,0,0,4,27.1,0,None,0,0,0,0,0,
+STU_204479,GR,linkedin,Analytics Engineering,-14.9,0,0,0,0,6,40.6,0,None,0,0,0,0,0,
+STU_204480,GR,linkedin,Data Analytics,-7.3,0,0,0,0,2,77.2,0,None,0,0,0,0,0,
+STU_204481,GR,LI,Analytics Engineering,10.0,0,0,3,0,2,33.0,1,Single Course,10,0,1,1,1,0.0
+STU_204482,GR,LI,Data Analytics,-7.7,0,0,0,0,6,33.4,0,None,0,0,0,0,0,
+STU_204483,GR,LinkedIn,Analytics Engineering,-4.0,0,0,3,0,2,34.4,1,Single Course,11,0,2,0,1,0.0
+STU_204484,GR,YouTube,Data Analytics,-15.5,0,0,1,0,6,99.1,1,Full Track Program,8,1,0,1,1,1.0
+STU_204485,CY,nan,Analytics Engineering,3.1,0,0,1,0,9,28.1,0,None,0,0,0,0,0,
+STU_204486,GR,LinkedIn,Analytics Engineering,-4.8,0,1,3,0,3,33.2,1,Single Course,1,0,0,0,1,0.0
+STU_204487,DE,LinkedIn,Data Analytics,2.9,0,0,1,0,4,49.0,0,None,0,0,0,0,0,
+STU_204488,GR,LI,Data Analytics,-9.3,0,0,1,0,3,22.0,0,None,0,0,0,0,0,
+STU_204489,GR,Referral,Data Analytics,-1.2,0,0,0,0,7,1.9,0,None,0,0,0,0,0,
+STU_204490,CY,YouTube,Power BI,-6.2,0,0,1,0,2,10.7,0,None,0,0,0,0,0,
+STU_204491,GR,LinkedIn,Data Analytics,0.2,0,0,0,0,1,17.6,1,Single Course,22,0,0,1,1,1.0
+STU_204492,GR,linkedin,Analytics Engineering,1.2,0,0,2,0,4,87.4,0,None,0,0,0,0,0,
+STU_204493,GR,linkedin,Power BI,-5.2,0,1,0,0,3,83.2,1,Full Track Program,18,1,2,1,0,1.0
+STU_204494,GR,linkedin,Data Analytics,15.2,1,0,0,0,7,76.1,0,None,0,0,0,0,0,
+STU_204495,GR,linkedin,Analytics Engineering,-3.3,0,0,1,0,3,20.5,0,None,0,0,0,0,0,
+STU_204496,CY,YouTube,Data Analytics,-9.1,1,1,1,0,7,47.3,0,None,0,0,0,0,0,
+STU_204497,GR,Google,Power BI,2.6,0,0,1,0,5,38.8,0,None,0,0,0,0,0,
+STU_204498,CY,linkedin,Analytics Engineering,-10.1,0,0,0,0,4,110.2,0,None,0,0,0,0,0,
+STU_204499,GR,YouTube,Analytics Engineering,6.9,0,0,0,0,4,39.1,0,None,0,0,0,0,0,
+STU_204500,DE,linkedin,Analytics Engineering,-4.8,0,0,1,1,5,84.1,0,None,0,0,0,0,0,
+STU_204501,GR,YouTube,Power BI,-9.8,0,0,2,0,8,16.1,0,None,0,0,0,0,0,
+STU_204502,GR,Newsletter,Analytics Engineering,-1.1,1,0,1,0,2,91.9,1,Full Track Program,15,2,0,1,0,1.0
+STU_204503,GR,linkedin,Analytics Engineering,5.9,0,0,2,0,6,1.6,0,None,0,0,0,0,0,
+STU_204504,DE,linkedin,Analytics Engineering,5.0,0,0,0,0,3,71.3,0,None,0,0,0,0,0,
+STU_204505,GR,LinkedIn,Analytics Engineering,1.0,1,1,1,1,3,188.7,1,Full Track Program,14,1,0,1,1,0.0
+STU_204506,GR,LinkedIn,Data Analytics,14.9,1,0,0,0,4,92.6,0,None,0,0,0,0,0,
+STU_204507,GR,Newsletter,nan,-4.2,0,0,1,0,2,8.2,0,None,0,0,0,0,0,
+STU_204508,GR,LinkedIn,Power BI,-4.4,0,0,2,0,1,73.7,0,None,0,0,0,0,0,
+STU_204509,GR,LI,Data Analytics,13.3,0,0,0,0,6,15.3,0,None,0,0,0,0,0,
+STU_204510,GR,YouTube,Analytics Engineering,-7.9,0,0,0,0,6,6.9,0,None,0,0,0,0,0,
+STU_204511,GR,YouTube,Data Analytics,6.2,0,0,2,1,3,31.0,0,None,0,0,0,0,0,
+STU_204512,CY,LinkedIn,Power BI,6.2,0,0,0,0,5,33.9,0,None,0,0,0,0,0,
+STU_204513,GR,LinkedIn,Data Analytics,-14.4,1,0,0,0,4,4.2,0,None,0,0,0,0,0,
+STU_204514,GR,Newsletter,Power BI,4.0,0,0,3,0,4,49.1,0,None,0,0,0,0,0,
+STU_204515,UK,LinkedIn,Data Analytics,-10.3,0,0,3,0,2,8.3,0,None,0,0,0,0,0,
+STU_204516,GR,Newsletter,Data Analytics,-2.4,0,0,0,0,1,28.2,0,None,0,0,0,0,0,
+STU_204517,GR,nan,Data Analytics,-6.8,0,0,0,0,5,64.1,0,None,0,0,0,0,0,
+STU_204518,GR,YouTube,Analytics Engineering,-9.5,0,0,0,0,2,0.5,1,Full Track Program,23,0,4,1,1,1.0
+STU_204519,GR,Newsletter,Power BI,-9.4,0,0,0,0,4,89.9,0,None,0,0,0,0,0,
+STU_204520,GR,LinkedIn,Data Analytics,-7.9,0,0,3,0,3,158.7,0,None,0,0,0,0,0,
+STU_204521,GR,LinkedIn,nan,0.6,1,1,2,1,6,3.9,0,None,0,0,0,0,0,
+STU_204522,GR,LinkedIn,Data Analytics,-3.8,0,0,2,0,3,42.5,0,None,0,0,0,0,0,
+STU_204523,GR,LinkedIn,Data Analytics,-4.1,0,0,0,0,5,59.2,0,None,0,0,0,0,0,
+STU_204524,GR,LI,Power BI,11.7,1,1,1,0,7,58.5,1,Single Course,21,0,2,0,1,0.0
+STU_204525,DE,LinkedIn,Data Analytics,-3.7,0,0,0,0,4,9.5,0,None,0,0,0,0,0,
+STU_204526,GR,linkedin,Power BI,-17.0,0,0,2,0,3,15.2,0,None,0,0,0,0,0,
+STU_204527,GR,YouTube,Analytics Engineering,10.5,0,0,1,0,5,16.1,0,None,0,0,0,0,0,
+STU_204528,GR,linkedin,Analytics Engineering,-3.5,1,1,1,0,4,12.5,1,Single Course,22,0,1,1,1,0.0
+STU_204529,GR,nan,Analytics Engineering,-12.8,0,0,1,0,7,19.5,0,None,0,0,0,0,0,
+STU_204530,GR,YouTube,Data Analytics,-9.9,1,1,0,0,5,4.9,0,None,0,0,0,0,0,
+STU_204531,UK,LinkedIn,nan,-9.2,1,1,1,0,4,2.0,1,Single Course,7,0,0,1,1,1.0
+STU_204532,GR,Newsletter,Power BI,12.6,0,0,0,0,3,31.5,0,None,0,0,0,0,0,
+STU_204533,GR,LinkedIn,Data Analytics,3.7,1,0,0,0,2,26.8,0,None,0,0,0,0,0,
+STU_204534,GR,YouTube,Power BI,3.0,1,1,0,0,2,2.6,1,Single Course,20,0,0,0,1,1.0
+STU_204535,GR,nan,Analytics Engineering,5.6,0,0,1,0,3,72.2,0,None,0,0,0,0,0,
+STU_204536,GR,LinkedIn,Power BI,-8.5,0,0,0,0,3,103.9,0,None,0,0,0,0,0,
+STU_204537,GR,linkedin,Analytics Engineering,-3.7,1,1,1,0,2,145.1,1,Single Course,5,0,1,0,1,0.0
+STU_204538,CY,linkedin,Analytics Engineering,-21.9,0,0,2,0,7,32.4,0,None,0,0,0,0,0,
+STU_204539,CY,Google,Data Analytics,-5.0,1,0,2,0,6,22.0,1,Single Course,22,0,1,0,1,0.0
+STU_204540,GR,Google,nan,-10.0,0,0,1,1,3,0.9,0,None,0,0,0,0,0,
+STU_204541,GR,LinkedIn,Analytics Engineering,-0.6,0,0,1,0,5,89.1,0,None,0,0,0,0,0,
+STU_204542,CY,Newsletter,Analytics Engineering,-6.6,1,0,0,0,6,9.8,1,Single Course,17,0,1,0,1,0.0
+STU_204543,GR,nan,Data Analytics,-6.4,0,0,2,0,4,2.0,0,None,0,0,0,0,0,
+STU_204544,GR,YouTube,Analytics Engineering,0.1,0,0,0,0,3,58.6,0,None,0,0,0,0,0,
+STU_204545,DE,Google,Analytics Engineering,-8.5,0,0,0,0,3,10.7,0,None,0,0,0,0,0,
+STU_204546,GR,Google,Data Analytics,-20.3,0,0,1,0,8,54.7,0,None,0,0,0,0,0,
+STU_204547,GR,LinkedIn,Analytics Engineering,16.7,1,1,3,0,5,13.6,1,Single Course,21,0,1,0,1,0.0
+STU_204548,GR,YouTube,Data Analytics,-5.5,0,0,0,0,4,10.8,0,None,0,0,0,0,0,
+STU_204549,GR,Google,nan,-4.8,1,1,1,0,4,5.0,0,None,0,0,0,0,0,
+STU_204550,CY,YouTube,Data Analytics,-14.5,0,0,2,0,3,45.6,0,None,0,0,0,0,0,
+STU_204551,CY,LinkedIn,Power BI,-7.4,1,1,0,0,3,49.7,1,Single Course,21,0,2,0,1,0.0
+STU_204552,GR,Newsletter,Analytics Engineering,1.5,0,0,1,0,5,9.6,0,None,0,0,0,0,0,
+STU_204553,US,YouTube,Analytics Engineering,9.7,0,0,0,0,4,3.8,0,None,0,0,0,0,0,
+STU_204554,GR,linkedin,Data Analytics,-1.8,1,0,1,1,6,86.1,1,Single Course,20,0,1,1,1,0.0
+STU_204555,GR,LinkedIn,Data Analytics,7.8,0,0,0,0,1,5.2,0,None,0,0,0,0,0,
+STU_204556,CY,YouTube,Analytics Engineering,-3.2,0,0,0,0,7,54.3,0,None,0,0,0,0,0,
+STU_204557,DE,Newsletter,Analytics Engineering,0.3,0,0,1,1,4,115.4,0,None,0,0,0,0,0,
+STU_204558,UK,LinkedIn,Power BI,-9.2,0,0,0,0,6,20.3,0,None,0,0,0,0,0,
+STU_204559,GR,YouTube,Analytics Engineering,-19.6,0,0,1,1,6,110.9,0,None,0,0,0,0,0,
+STU_204560,UK,Google,Data Analytics,-4.4,0,0,2,0,6,98.8,0,None,0,0,0,0,0,
+STU_204561,GR,LinkedIn,Analytics Engineering,-9.8,0,0,2,0,2,2.7,0,None,0,0,0,0,0,
+STU_204562,CY,YouTube,Data Analytics,-4.2,1,1,1,0,2,24.6,1,Full Track Program,4,3,3,1,1,1.0
+STU_204563,DE,YouTube,Analytics Engineering,-16.5,0,0,1,0,7,55.2,0,None,0,0,0,0,0,
+STU_204564,CY,Google,Data Analytics,-0.0,0,0,2,1,1,7.5,1,Full Track Program,13,0,0,1,0,1.0
+STU_204565,GR,YouTube,Analytics Engineering,7.4,0,0,0,0,3,21.5,0,None,0,0,0,0,0,
+STU_204566,GR,Google,Power BI,0.0,0,0,1,0,6,4.5,1,Full Track Program,5,0,4,0,1,1.0
+STU_204567,CY,linkedin,Data Analytics,-4.8,0,0,1,0,4,52.4,0,None,0,0,0,0,0,
+STU_204568,GR,LinkedIn,Power BI,3.2,1,1,2,0,6,83.8,1,Single Course,4,0,1,0,1,0.0
+STU_204569,GR,nan,Data Analytics,11.2,0,0,2,0,4,80.1,0,None,0,0,0,0,0,
+STU_204570,GR,Newsletter,Analytics Engineering,4.7,0,1,0,0,4,33.2,0,None,0,0,0,0,0,
+STU_204571,US,LinkedIn,Analytics Engineering,3.7,0,0,0,0,6,76.0,1,Full Track Program,22,4,1,1,1,1.0
+STU_204572,GR,linkedin,Analytics Engineering,1.8,1,0,0,0,2,118.4,1,Single Course,15,0,0,0,1,1.0
+STU_204573,GR,LinkedIn,Analytics Engineering,8.2,1,0,1,0,4,103.6,1,Single Course,15,0,2,0,1,0.0
+STU_204574,GR,Google,Analytics Engineering,0.0,0,0,0,0,8,21.4,0,None,0,0,0,0,0,
+STU_204575,GR,Google,Analytics Engineering,0.6,0,0,1,0,3,112.5,0,None,0,0,0,0,0,
+STU_204576,GR,Referral,Power BI,-24.9,1,0,1,0,2,7.8,0,None,0,0,0,0,0,
+STU_204577,GR,YouTube,Data Analytics,0.4,0,0,1,0,2,14.7,0,None,0,0,0,0,0,
+STU_204578,GR,YouTube,nan,-17.4,0,1,0,0,2,92.5,0,None,0,0,0,0,0,
+STU_204579,GR,YouTube,Data Analytics,-0.6,0,0,1,0,3,10.4,0,None,0,0,0,0,0,
+STU_204580,US,Google,Data Analytics,5.0,0,0,3,0,1,24.1,0,None,0,0,0,0,0,
+STU_204581,DE,yt,Data Analytics,0.6,0,0,0,0,6,17.8,0,None,0,0,0,0,0,
+STU_204582,GR,Google,Power BI,-1.9,1,1,0,0,6,26.6,1,Single Course,13,0,0,0,1,1.0
+STU_204583,GR,Newsletter,Analytics Engineering,-13.3,1,0,1,0,1,75.5,0,None,0,0,0,0,0,
+STU_204584,GR,LinkedIn,Power BI,-7.8,0,0,0,0,3,28.3,0,None,0,0,0,0,0,
+STU_204585,GR,LI,Analytics Engineering,-12.5,0,0,2,0,1,35.4,0,None,0,0,0,0,0,
+STU_204586,CY,YouTube,Analytics Engineering,-8.8,0,0,1,0,2,68.3,0,None,0,0,0,0,0,
+STU_204587,GR,Newsletter,Analytics Engineering,-8.6,1,1,0,0,5,43.2,1,Single Course,6,0,1,0,1,0.0
+STU_204588,GR,LinkedIn,Data Analytics,1.9,1,1,2,0,5,79.1,1,Full Track Program,7,6,0,0,1,1.0
+STU_204589,GR,LinkedIn,Analytics Engineering,5.1,0,0,0,0,3,26.3,0,None,0,0,0,0,0,
+STU_204590,GR,YouTube,Data Analytics,-4.3,0,0,0,0,4,29.8,0,None,0,0,0,0,0,
+STU_204591,GR,Google,Data Analytics,13.7,0,0,0,0,3,12.3,0,None,0,0,0,0,0,
+STU_204592,GR,YouTube,Data Analytics,-25.2,0,0,3,1,6,15.8,0,None,0,0,0,0,0,
+STU_204593,GR,YouTube,Data Analytics,-16.1,0,0,1,0,2,28.7,0,None,0,0,0,0,0,
+STU_204594,GR,LinkedIn,Analytics Engineering,4.1,0,0,1,0,4,10.9,0,None,0,0,0,0,0,
+STU_204595,GR,LinkedIn,Analytics Engineering,13.9,0,0,2,0,6,6.6,0,None,0,0,0,0,0,
+STU_204596,UK,Google,Data Analytics,-3.7,0,0,3,0,3,71.2,0,None,0,0,0,0,0,
+STU_204597,GR,Newsletter,Analytics Engineering,-19.3,0,0,2,0,6,24.6,0,None,0,0,0,0,0,
+STU_204598,GR,YouTube,Data Analytics,-5.4,0,0,0,0,3,54.5,0,None,0,0,0,0,0,
+STU_204599,DE,LinkedIn,Analytics Engineering,2.4,0,0,1,0,6,16.3,0,None,0,0,0,0,0,
